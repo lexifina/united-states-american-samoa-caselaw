@@ -1,0 +1,44 @@
+---
+court: "High Court of American Samoa"
+docket: "1296-1972"
+decided: "1973-11-06"
+citations: ["4 Am. Samoa 116"]
+reporter: "am-samoa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Heard before A. P. LUTALI, Chief Judge, presiding; I. F. ENE SAGAIGA, Associate Judge; and TAUFI MOEA-VEAVE, Temporary Associate Judge; upon stipulation of both parties."]
+parties: ["IN THE MATTER OF THE REGISTRATION OF THE MATAI TITLE “MAIAVA” OF THE VILLAGE OF LEONE, TUTUILA, AMERICAN SAMOA"]
+source_url: "https://static.case.law/am-samoa/4/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 211842
+---
+
+# In re the Registration of the Matai Title "Maiava"
+
+## Majority
+
+This action concerns the registration of the matai title “Maiava” of the village of Leone, Tutuila, American Samoa.
+Isaako S. Maiava, hereinafter known as Isaako, filed his claim of succession to the title “Maiava” on June 14, 1972. Fa’aleaoga Maloata, hereinafter known as Fa’aleaoga, filed his claim to the same title on June 19, 1972. Each claimant filed a petition signed by 25 persons purported to be blood members of the Maiava family supporting his claim. Each claimant filed a certificate signed by the chiefs of the village of Leone certifying that the “Maiava” title is an old and traditional matai of Leone.
+Section 6.0101 of the Code of American Samoa sets out the basic qualifications which a person must have to be eligible to succeed to a matai title. The evidence establishes that each claimant is eligible to be registered as the holder of a matai title.
+Section 6.0107 of the Code sets out the considerations which shall guide the Court in determining which of the claimants shall be registered as the holder of the “Maiava” title. It reads as follows:
+Sec. 6.0107 — CONSIDERATION GIVEN BY THE COURT:
+In the trial of matai title cases, the High Court shall be guided by the following considerations, in the priority listed:
+1. The best hereditary right in which the male and female descendants shall be equal in families where this has been customary, otherwise the male descendant shall prevail over the female.
+2. The wish of the majority or plurality of those clans of the family as customary in that family.
+3. The forcefulness, character, personality, and knowledge of Samoan customs.
+4. The value of the holder of the matai title to the family, the village, and the country. (Public Law 7-38,1962).
+On the issue of hereditary right, evidence shows that Isaako is the son of Maiava Sofala, last holder of the title “Maiava”. Isaako’s mother, Fia, was the daughter of Maiava Pauga. Evidence also shows that Maiava Sofala, being a person married to the Maiava family, had no hereditary right to the title prior to his becoming the holder. By unanimous consent of the family, the title “Maiava” was awarded to Sofala in recognition of his long and faithful services to the matai and family.
+The bestowal of a matai title upon a person unrelated by blood to the family, such as a married person, a son adopted by custom under the matai system, or any other individual, is an old traditional practice under the matai system. This is done to give recognition for exceptional services to the matai and the family, and to manifest appreciation for many years of faithful participation in family affairs. It is a reward much coveted by persons unrelated by blood to the family in which they reside. It is the unwritten law, however, that rights and privileges of the title bestowed do not extend beyond the life of the recipient, to persons related to the recipient unless they are also related by blood to the family. These rights and privileges are not part of the inheritance of recipient’s descendants and relatives who are not also related by blood to the family in which he holds the title by bestowal. Therefore the recipient’s children by marriage to a blood member of the family do not derive their blood rights to the title from their father who is the matai, but from their mother who is the blood member of the family.
+Under this Samoan custom, Isaako, being the son of Maiava Sofala, a married person to the Maiava family and recipient of title by bestowal, does not derive his blood rights to the title from his father, but from Fia, his mother, daughter of Maiava Pauga. He therefore possesses one-fourth Maiava blood in his veins.
+Fa’aleaoga, on the other hand, is the son of Tuilefano Maloata who was the son of Maiava Seuala. He, too, possesses one-fourth Maiava blood in his veins.
+The Court finds both claimants equally entitled on the first issue.
+On the matter of clan support, the Court is convinced from the testimony that there are two clans in the Maiava family. These clans are Lauiliu and Seulele. Evidence shows that each of the claimant is supported by members from both clans.
+The Court also finds both claimants equally entitled on the matter of clan support.
+Isaako is 42 years old; attended the Brothers’ School at Leone, the Samoan High School for one year; the Mira Costa College, the Marine Corps Training School, and the Church of Christ Academy. He was in the United States Marine Corps for about 20 years serving in various capacities as Police Sergeant, Platoon Leader, Tactics Instructor, and Manager, Officer and NCO Club. Prior to joining the Marines he was employed at Edna Maintenance Co., the Consolidation Co., Charles Checkers Co., Masons Shoes Co., and the Puller Brush Co. He was the Treasurer of the Oceanside Congregational Church, President of the Youth Organization, Leading Deacon, and now holding the position of Teacher in his Church. He receives an income of $328 from his G.I. Bill educational benefits, and $170 rent income from his home in Oceanside.
+Pa’aleaoga is 55 years old. He attended the Marist Brothers’ School at Leone, the St. Joseph College in Western Samoa, and the Community College in American Samoa. During World War II he worked as a time keeper in the Public Works. After the war he was employed as a Librarian, and then join [sic] the ministry as a Catechist in the Catholic Church. He served in this capacity for more than 25 years. His present employment is with the Education Department of the Government of American Samoa as a Special Educational Worker. He works as a farmer during in his spare times. As an educational worker he receives a salary of $3,600 per year. He also receives a monthly check from his daughter now working in New Zealand, and another check of $50 from another daughter in Hawaii. Prom his plantation he receives about $30 each month from sale of produce. At present he is active in maintaining the village water system, and participates in welfare activities in his parish.
+The Court carefully considered the evidence and testimony on the respective capacities for leadership, character, personality, and knowledge of Samoan, of each claimant, as well as their demeanor and appearance on the witness stand, and the Court is convinced that both claimants are equal in the third consideration.
+Since the two claimants are equal in the matter of forcefulness, character, personality, and knowledge of Samoan customs, it follows therefore that they are on a parity in the matter of value of the holder of the matai title to the family, the village, and the country. This Court has said many times that the value of the holder of a matai title to the family, the village, and the country depends primarily upon his forcefulness, character, personality, and knowledge of Samoan customs. Fa’amalolo et al. v. Liligo Letuli, No. 25-1956 (High Court of American Samoa); Pito Tufono v. Kisi, No. 17-1958.
+Since the Court holds that Isaako and Fa’aleaoga are equal in the first consideration, each having one-fourth Maiava blood in his veins, and since the Court also holds that they are on a parity in the second consideration in the matter of clan support, in the third consideration in the matter of forcefulness, character, personality, and knowledge of Samoan customs, and also in the fourth consideration in the matter of the value of the holder of the matai title to the family, the village, and country, the Court therefore finds equally for Isaako and Fa’aleaoga in all four considerations set forth in Section 6.0107 of the Revised Code of American Samoa.
+Accordingly, it is the unanimous decision of this Court, and it is hereby ORDERED, ADJUDGED AND DECREED that Isaako S. Maiava and Fa’aleaoga Maloata be both registered as joint holders of the matai title Maiava of the village of Leone, with the right of survivorship.
+Costs in the amount of $25 are hereby assessed against both claimants with each paying $12.50 within 15 days from the date of this decree.
+Copies of this shall be furnished by the Clerk of the High Court to all parties and to the Territorial Registrar.
