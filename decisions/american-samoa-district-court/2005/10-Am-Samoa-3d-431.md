@@ -1,0 +1,38 @@
+---
+court: "American Samoa District Court"
+docket: "UTC No. 231716; UTC No. 231717; UTC No. 231718"
+decided: "2005-02-24"
+citations: ["10 Am. Samoa 3d 431"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WARD, District Court Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff, v. IFALEMI HUAKAU, Defendant."]
+source_url: "https://static.case.law/am-samoa-3d/10/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4357057
+---
+
+# American Samoa Government v. Huakau
+
+## Majority
+
+DECISION AND INTERIM ORDER
+This matter came on regularly before the Court on February 1,2005 for a hearing on defendant’s motion to suppress the defendant’s breathalyzer test results of September 2, 2004, after his arrest for driving under the influence of intoxicating liquor, a violation of A.S.C.A. § 22.0707. Counsel stipulated that Public Safety Officer Leato was certified to operate the Breathalyzer machine (“RBT IV”).
+Officer Leato testified that she was on duty and dispatched by central station personnel in Fagatogo to the adjacent village of Utulei in response to a suspected D.U.I. traffic stop at 2:08 a.m. on September 2, 2004. At the scene of the traffic stop, Officer Leato decided to transport the defendant back to the central station and conduct her investigation there. She transported the defendant to the central station, and commenced administering the standardized field sobriety tests (“F.S.T.s”). Upon determining the defendant had not passed the F.S.T.s, Officer Leato placed the defendant under arrest and warned the defendant of his Miranda rights. She next explained the implied consent form, which defendant then signed as witnessed by another certified D.U.I. officer, Sgt. Ray Noa.
+Officer Leato then activated the RBT IV, showed defendant the zero alcohol reading of .0005 on the machine and explained how the defendant was to use the machine. Defendant then blew into the machine and a result of .169% B.A.C. was recorded and printed out by the RBT IV at 2:18 a.m. No additional tests were administered and defendant was transferred to the Tafuna Correctional Facility until his first court appearance some six horns later.
+Defendant moves to suppress the breathalyzer test results on two grounds relating to the test’s administration. First, because it appears that Officer Leato observed the defendant for less than 16 minutes before administering the breathalyzer test, the defendant alleges his test results could have been skewed by mouth, not deep lung, breath alcohol based upon possible ingestion of alcohol immediately before his traffic stop or by eructated or regurgitated alcohol within 15 minutes of the breathalyzer test. Secondly, defendant argues that the operating procedures manual for the RBT IV machine requires a second test to be administered whenever the first test registers a B.A.C. of .002 or more.
+Discussion
+As demonstrated by defendant’s cited case law, most jurisdictions in the United States have statutorily prescribed various breath-testing standards for D.U.I. and administrative driver’s license suspension cases. Many of those statutes prescribe that tests performed in compliance with such standards are prima facie admissible into evidence.
+The Legislature of the Territory of American Samoa has not, however, statutorily set forth specific standards of breath testing with respect to a particular testing device, a prescribed observation period of the defendant prior to administering the test, or even the requirement that a second, confirmation test be administered (with or without an additional waiting period). Under the implied consent statute, A.S.C.A. § 22.0601, a motor vehicle operator “is deemed to have given consent to a chemical test of his breath, blood, urine, or saliva” to determine the operator’s blood alcohol content if arrested for driving under the influence of intoxicating liquor. Under the test administration statute, A.S.C.A. § 22.0602, each subsection specifically uses either “a test” or “a chemical test” when prescribing when the test may or may not be administered. The same, singular term is used in establishing the right of the defendant to additional testing upon request. A.S.C.A. § 22.0604.
+Defendant asserted in a last minute, handwritten supplemental brief that the operating manual for the RBT IV requires a 15-20 minute observation period and if the initial test registers .02 B.A.C. or greater, then a second confirmation test.
+This Court has no reason to disbelieve these assertions nor to question that such “best practices” procedures are contained in the manual, especially in light of those several jurisdictions which by rule or statute have prescribed that these very procedures be strictly observed.
+In this Territory, however, the Legislature has statutorily provided for “a chemical test” of a suspect’s breath, blood, urine or saliva. Defense counsel has not provided this court with any evidence that the RBT IV does not rely upon chemical analysis technology, as opposed to certain other breathalyzers in general use which rely upon infrared spectrometry technology. Nor has defense counsel demonstrated that the single test required by the statutes is so scientifically or statistically unreliable that its chemical analysis of the defendant’s breath for a blood alcohol level should be excluded from consideration by a finder of fact in the absence of a second, confirmation test.
+As to suppressing the defendant’s B.A.C. because of failure to comply with a 15 minute manufacturer’s observational period recommendation, given the factual issues as to the exact time Officer Leato transported the defendant, administered the F.S.T.s, advised defendant of his Miranda rights, explained the implied consent form and demonstrated the breathalyzer test, the Court finds that a reasonable trier of fact could find such activities could have taken 15 minutes or more to perform. Even if a shorter period were found, such a deviation from department practice would go to the weight of the evidence, not to inadmissibility.
+As to defendant’s second issue, that a manufacturer’s recommended second, confirmation test was not conducted, this Court will defer to the wisdom of the Legislature in prescribing a single chemical “test.” Nothing prevents defendant from introducing evidence at trial as to the weight the trier of fact should give to this single test, but it is admissible under the prevailing statutes.
+Order
+Motion denied. This matter will be calendared for a pretrial hearing on March 3, 2005 at 8:30 a.m. It is so ordered.
+On redirect, Officer Leato testified that it was “approximately 2:08 a.m.”
+The standardized field sobriety tests consist of the Horizontal Gaze Nystagmus test, the Walk and Turn test and the One Leg Stand test.
+Defendant’s original motion to suppress was far broader, including allegations that the RBT IV was inherently unreliable, that the F.S.T.s produce inaccurate results, and that the initial police stop of the defendant’s vehicle was not based upon reasonable suspicion and probable cause. All grounds other than defendant’s objections to the procedures used in the administration of the breathalyzer test were withdrawn by defendant prior to the hearing.
+The Court notes that Officer Leato testified that her training on the RBT IV included second testing procedures, but only a single test is conducted in the Territory. Sgt. Noa also testified Officer Leato administered the test correctly that evening.
