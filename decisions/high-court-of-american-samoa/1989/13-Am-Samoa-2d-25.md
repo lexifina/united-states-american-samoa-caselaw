@@ -1,0 +1,42 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 18-89"
+decided: "1989-10-26"
+citations: ["13 Am. Samoa 2d 25"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, REES, Associate Justice, VAIVAO, Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["DAVOUD RAKHSHAN, Appellant v. IMMIGRATION BOARD, AMERICAN SAMOA GOVERNMENT, Appellee"]
+source_url: "https://static.case.law/am-samoa-2d/13/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 988245
+---
+
+# Rakhshan v. Immigration Board
+
+## Majority
+
+On Petition for Stay:
+Appellant moves to stay the order of the Immigration Board that he leave the Territory for his country of origin.
+An interlocutory stay of a deportation order should be granted "only when there is a substantial likelihood that the petitioner will prevail on the merits and the petitioner will be greatly or irreparably injured if the stay is not granted." Loti v. Immigration Board, 8 A.S.R.2d 107, 109 (1988). Because deportation tends severely to disrupt the life of the one deported, whether a stay is granted pending trial usually depends on whether the petitioner appears to have a good chance of prevailing at trial.
+The present proceeding began a$ a request by petitioner Rakhshan himself that the Board allow a change in his sponsorship. The Board denied the request. Since Rakhshan’s former sponsor had moved out of the Territory, he was left without a sponsor and would appear to have had the right to remain in American Samoa for only ten days. See A.S.C.A. § 41.0408(i). Mr. Rakhshan contends, however, that the Board routinely allows change of sponsorship and that the denial in this case was therefore an abuse of discretion.
+The Board gave threé reasons for denying the change of sponsorship:
+(1) Petitioner has "changed sponsors several times without any clear reasons."
+(2) "Mr. Rakhshan’s main purpose here is to. look for employment," his previous employment having been terminated.
+(3) After being asked "whether he was involved with the law in the Philippines," he answered that he had not. "When alien Rakhshan was confronted with [a] document," however, to the effect that "one Davoud Rakhshan was arrested in Manila, Philippines and that a warrant for his arrest is outstanding. ... .his counsel announced that Mr. Rakhshan will not gay anything that might tend to incriminate him."
+Hie Immigration Board’s decision implies, although it does not clearly state, that the third ground for its decision was the most important. Petitioner contends, however, that he was never arrested in Manila, never knew of any warrant for his arrest, and did not lie to the Board. He admits that he was technically "involved with the law," but only as the complaining witness in an assault case; his counsel speculates that the defendant in that case may have filed a countercharge which resulted in a warrant that .was never served on Mr. Rakhshan.
+Petitioner’s counsel further represented to the Court that this, explanation of the Manila.incident had been tendered to the Board at its hearing on his motion for reconsideration; and therefore that the Board’s conclusions that Rakhshan was a fugitive from the Philippines and had lied to the Board about this were inconsistent with the record.
+Judicial review of Immigration Board orders "is confined to the record; however, the court in its sound discretion may receive evidence to supplement the record." A.S.C.A. § 41.0210. Whatever else this may mean, it would seem to direct that the starting point for our inquiry be the record itself. After the hearing on the present motion we granted a temporary stay pending production of the record. Without determining exactly what it was Mr. Rakhshan told, the Board about "involvement with the law" in the Philippines, and how he explained himself later at the hearing on his motion to reconsider, we cannot begin to evaluate his claim that the Board’s conclusion is inconsistent with the record.
+Unfortunately, however, the record with respect to these questions turns out not to exist. Counsel for the Board has submitted a transcript of the original hearing interspersed at frequent intervals with ellipses (". . . .") and with the notation "(NOT CLEAR)." It includes the following exchange:
+TUINEI: Did you have any confrontation with the law in the Philippines?
+RAKHSHAN: (NOT CLEAR)
+Counsel for the Board further informs us that no record at all exists of the hearing on Rakhshan’s motion for reconsideration.
+Since it was the responsibility of the Board to produce a record, the absence of-any süch record compels us to find the missing facts favorably to Mr. Rakhshan. .We therefore conclude, that he did not tell the Board that he had never been "involved with the law." Nor does the record reflect that he lied when he said he had never been arrested. Insofar as the Immigration Board’s order was based on false statements made by Mr. Rakhshan, therefore, we must conclude for the purposes of this motion that it was not supported by the record.
+The allegedly false statements were, however, only one of three, grounds cited by the Board for denying the change of sponsorship. At least as important was the-Board’s finding that Mr. Rakhshan was no longer employed. On this ground the record is more complete: it reflects that Mr. Rakhshan originally came to American Samoa as a tourist. On May 23, 1988, his status was changed to that of an alien admitted for the purpose of professional employment in accordance with A.S.C.A. § 41.0303(a)(4)(b). The Immigration Board’s approval of this change in status was granted "only as follows: .... One year contract until May 11, 1989."
+The immigration statute provides that when a person loses the status which entitled him to enter or remain in American Samoa, he shall "be deemed to be a person seeking to enter American Samoa from the date when he ceases to hold such status." A.S.C.A. § 41.0407. That is, he has' no further right to remain indefinitely in the Territory. If the Board’s decision to'deport the present petitioner had been based solely on his loss of employment, therefore, we would be inclined to deny his petition for a stay of enforcement.
+It is by no means clear from the Board’s decision, however, that in the absence of the alleged false statements Mr.-Rakhshan would have been deported solely because he was no longer employed. In its written opinion the Board treats the two issues as though they were one. Concluding a paragraph about Mr. Rakhshan’s current employment status, for instance, and before going on to discuss his search for new employment, the Board observes that his "false statement before the board and his effort to hide the truth is in clear violation of immigration rules." The Board seems to be saying that an unemployed alien is bad enough but that a lying unemployed alien is a good deal worse. There is much to be said for this proposition, but it leaves us unable to conclude that the Board would wish to deport Mr. Rakhshan if it did not believe him to be a liar.
+The two issues are even more closely intertwined in the record, such as it is, of the Immigration Board hearing. This record reflects that the Deputy Director of Education — who was apparently present to testify on behalf of Mr. Rakhshan — had second thoughts after learning about the Philippine arrest warrant. He thereupon spontaneously rescinded á request that Mr. Rakhshan be allowed to remain in the Territory for re-employment as a teacher.
+Because there is no récord with respect to any statements made by petitioner about the Philippine incident, and because the Immigration Board relied heavily on that incident and those statements to the virtual exclusion of other grounds for deportation, a stay will be granted pending further proceedings.
+For the same reasons, it would seem impossible on the present record for the Court to conduct a "review of the board’s interpretation of the evidence, its factual inferences, and its conclusions of law" as required by A.S.C.A. § 41.021Ó. Accordingly, we remand the case to the Immigration Board for a new hearing. The Board is free to take evidence with regard to any or all of the grounds on which it based its previous decision or to such other grounds as it may choose. Care should'be taken to produce a complete transcript and to state clearly the grounds for any action taken.
+It is so ordered.
