@@ -1,0 +1,28 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 85-89"
+decided: "1990-05-31"
+citations: ["15 Am. Samoa 2d 77"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, TAUANU‘U, Chief Associate Judge, and OLO, Associate Judge."]
+parties: ["IOKAPETA TO'OMALATAI, Plaintiff v. NATIONAL PACIFIC INSURANCE COMPANY, GALUFUAINA MOLIGA, and TALAGU MOLIGA, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/15/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 989031
+---
+
+# To'omalatai v. National Pacific Insurance Co.
+
+## Majority
+
+Plaintiff seeks damages for personal injuries sustained following a collision between a certain bus in which she was riding as a passenger, and another vehicle driven by the defendant Talagu Moliga. Galufuaina Moliga is joined principally because she is registered as joint owner with Talagu Moliga of the vehicle which the latter was driving. National Pacific Insurance is sued as the insurer of the vehicle under the Compulsory Insurance Act, A.S.C.A. §§ 22.2001 et seq. Through a series of pre-trial agreements developed immediately before trial in a rather untidy fashion, the following stipulations were presented to the Court: that the defendants Talagu Moliga and National Pacific Insurance conceded liability to the extent of coverage under the terms of the insurance policy, namely, $10,000.00; that the collision occurred on September 17, 1988, at approximately 1830 hours; and that defendant Galufuaina be dismissed from the case.
+The parties did not agree on damages. Plaintiff contended that her actual damages were in excess of the policy limits while defendants submitted that $10,000.00 adequately represented damages. To this end, the Court heard testimony.
+Subsequent to the accident, plaintiff was seen by Dr. Teariki No’ovao, of the Surgical Services Division, L.B.J. Tropical Medical Center. At the time, plaintiff was found to have suffered a broken arm (X-Rays confirmed a fractured left humerus). She had also sustained some minor cuts about her face and bruises to her chest, and her blood pressure was noted to be elevated. At the time of admission, she was conscious and lucid and her vital signs intact. Plaintiffs lacerations were treated and, according to Dr. No‘ovao, have healed nicely. For her broken arm, Dr. No'ovao opted for closed reduction and the application of a split cast. After a week’s admission plaintiff was discharged, and over the next few months, she made several visits to Dr. No'ovao on an outpatient basis. During this time, plaintiff endured much pain and discomfort. Follow-up X-rays revealed a slow mending process in the break, so much so that upon her visit to see Dr. No’ovao on December 5, 1988, he recommended to plaintiff the option of open surgery and internal fixation of a plate and screws to bind the break. Plaintiff declined and did not return for her next appointment. However, in the following month of March, 1989, plaintiff did undergo the operation suggested by Dr. No’ovao in Hawaii. Plaintiff was seen very recently by Dr. No'ovao regarding complaints with her knees; at the same time he had occasion to examine her arm. Dr. No’ovao testified that the arm had healed perfectly.
+Plaintiffs proof of damages essentially related to pain and suffering and lost wages. For lost wages, plaintiff testified that for more than a year prior to the accident, she had been employed by Star-Kist as a fish cleaner earning an average weekly wage of $95.00. She further claims that she has not been able to work since returning from Hawaii.
+• In assessing pain and suffering, we consider that period of time between Dr. No'ovao’s recommendation for open surgery and the date of actual surgery in Hawaii as a period of healing delay attributable to plaintiff. Internal fixation of a broken bone is an operation available at the L.B.J. Tropical Medical Center, and Dr. No'ovao himself has performed many such operations. We further note plaintiffs reluctance for medical follow-up on her operation after returning to the territory. She testified that she last saw her doctor in Hawaii at the end of June, 1989, and she acknowledged that he had advised physiotherapy. Although plaintiff returned to the territory some time in July, 1989, she has not seen a doctor on her arm nor sought guidance on physiotherapy requirements. Her claims to continuing pain to date do not impress.
+With regard to loss in earnings we first reject counsel’s suggestion of permanent disability. In Dr. No'ovao’s opinion, plaintiffs arm had healed completely and that it was not her arm that prevented her from resuming work but a severe case of osteoarthritic knees. (Plaintiffs difficulty with ambulation were obvious to the Court when going to and from the witness stand. Furthermore we could not but notice plaintiffs obese condition which must certainly intensify her arthritic difficulties.) It seems that plaintiff, after returning to the territory, had simply resigned herself as being unfit to work again. Since returning from Hawaii, she has not sought the benefit of a medical opinion, nor had she considered the possibility of less strenuous work. Although she vaguely complained about her arm as not being able to pull weeds with the same effectiveness, she candidly admitted that her legs affected her ability to find work.
+On the foregoing, and bearing in mind the plaintiffs duty to mitigate damages, we fix total damages in the sum of $10,000.00.
+It is so Ordered.
+A.S.C.A. § 22.2018 provides a right of direct action against the insurer.
