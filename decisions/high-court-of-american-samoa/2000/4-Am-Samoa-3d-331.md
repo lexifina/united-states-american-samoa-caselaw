@@ -1,0 +1,37 @@
+---
+court: "High Court of American Samoa"
+docket: "MT No. 02-99"
+decided: "2000-11-01"
+citations: ["4 Am. Samoa 3d 331"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Chief Justice, TUA'OLO, Chief Associate Judge, LOGOAI, Associate Judge, ATIULAGI, Associate Judge, and SAGAPOLUTELE, Associate Judge."]
+parties: ["ARTHUR RIPLEY, JR., Plaintiff, v. AMERICAN SAMOA GOVERNMENT, Defendant."]
+source_url: "https://static.case.law/am-samoa-3d/4/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3530420
+cites_cases: ["263 U.S. 179", "494 U.S. 827"]
+---
+
+# Ripley v. American Samoa Government
+
+## Majority
+
+ORDER ON MOTIONS FOR SUMMARY JUDGMENT
+Plaintiff Arthur Ripley Jr. (“Ripley”) wishes to succeed to the matai title “Fepulea'i” of the Village of Utumea. He filed his claim for this title with the Territorial Registrar on May 7, 1997. When the Registrar did not act on the claim, Ripley initiated this action for declaratory relief on January 29, 1999. Defendant American Samoa Government (“ASG”) answered on February 19, 1999, stating that the Registrar had declined to register the title on the grounds that it was not registered prior to January 1, 1969, as required by A.S.C.A. § 1.0401. During a hearing on September 23, 1999, the parties agreed to brief the issue for summary judgment purposes. The parties’ briefs were filed, and we held a hearing on the issue on March 20, 2000.
+Discussion
+A. The “Fepulea’i” Title Existed before 1969
+Ripley has proved by a preponderance of the evidence that the “Fepulea'i” title was in existence in the Territory early in the 20th century. In Fepuliai v. Faumuina and Lealataua County, 1 A.S.R. 174, 175 (1908), this Court referred to the title when it vested title to land in “Faumuina and the Lausoalii (a body of ‘matais’ of which Fepuliai is a member).” Two cases concerned challenges to registration of the title: Faumuina, Toi'a, Utu, Fuaata, Letuli, Sevaaetasi & Solomona v. Sagatu & Pusa, No. 16-1917 (1918), and Salave'a N. and Posu v. Pusa and Solomona, No. 18-1917 (1918).
+B. The “Fepulea'i” Title Was Not Previously Registered
+None of these cases, however, explicitly establish that the “Fepulea'i” title was ever registered in the matai title register. The records in the two cases involving actual registration of the title merely indicate that the disputes were reconciled and the complaints were withdrawn in September of 1918. Ripley asserts that, the complaints having been withdrawn, the original claimant Pusa’s application necessarily went forward and resulted in his registered succession to the title. The problem with this argument is that we cannot be certain that the title was indeed registered following the court actions. It is logical that, having litigated the issue, the family installed a titleholder following the court actions. On the other hand, perhaps the family resolved to leave the title vacant. In any event, without evidence to the contrary, we must presume the Territorial Registrar’s records to be accurate. Seva'atasi v. Pago Pago Village Council, 19 A.S.R.2d 133, 135-136 (Land & Titles Div. 1991). We accordingly hold that Ripley has not established by a preponderance of the evidence that the “Fepulea'i” title was registered before, at the time of, or after any of the court actions described above.
+C. A.S.C.A. § 1.0401 Prohibits Registration
+Having concluded that the title was not registered earlier in the century, we must then examine the effects of A.S.C.A. § 1.0401. The statute clearly mandates that matai titles had to be registered by January 1, 1969. Matai title registration closed on that date, after which titles not registered could not be registered. The “Fepulea'i” title was not registered by this date, and therefore, under the plain terms of the statute, no one can presently register as the successor to the title.
+The issue before us was raised and decided in Mailo v. Fuimaono, 4 A.S.R. 757, 759-60 (Trial Div. 1967). However, the title involved in Mailo was a newly created title that was not only unregistered but also had never been used before. Id. at 760-61. Mailo may be distinguished in that the present case involves a title with substantial historical existence and apparent cultural significance. This fact brings into consideration the constitutional policy “to protect the lands, customs, culture, and traditional Samoan family organization of persons of Samoan ancestry.” Am. Samoa Rev. Const, art. I, § 3.
+This constitutional protective policy may at first seem to be at odds with the A.S.C.A. § 1.0401 statutory time limit prohibiting later registration of a recognized title of venerable and trdditiorial importance that was not registered by the prescribed deadline. Yet allowing the registration of titles at this late date, however valid, might also result in the derogation, rather than preservation, of this particularly significant aspect of the Samoan way of life. Judicial. creation of a tacit exception into the statute, without appropriate statutory criteria to establish and account for legitimate exceptions to the 1969 title registration deadline, would invite false claims and interject subjective judicial evaluations into the decision.
+The Legislature has spoken with a statute that clearly promotes the constitutional policy of protecting the Samoan way of life and provides an objective standard in application. The possibility of occasional adverse impact in situations like the present one is not sufficient to render A.S.C.A. § 1.0401 constitutionally invalid. In the absence of evidence to the contrary, we must regard the plain wording of the statute as conclusive. Kaiser Aluminum v. Bonjorno, 494 U.S. 827, 835 (1990). Facially, § 1.0401 makes no distinction between old and new titles. No evidence before us, in the form of legislative history or otherwise, indicates a legislative intent to limit the statute’s application to new titles. Had the Legislature intended § 1.0401 to apply to newly created titles only, it could and should have said so. We cannot and will not read an implication into a statute that it does not warrant. See United States v. Merriam, 263 U.S. 179, 187-88 (1923). Rather, only the Legislature can and should change the statute if it agrees that there are circumstances when holders of old titles that are revered and unregistered should be excepted according to the constitutional policy regarding protection of the matai system.
+Order
+We declare that A.S.C.A. § 1.0401 prohibits the Territorial Registrar from registering Ripley as successor to the “Fepulea'i” title. Based on this declaration, summary judgment is awarded to ASG.
+It is so ordered.
+See also Tia v. Faumuina, 1 A.S.R. 201 (Trial Div. 1909); In re Matai Title “Leoso", 1 A.S.R. 560 (Trial Div. 1937); Tautoo v. Tua'a, 15 A.S.R.2d 10 (Land & Titles Div. 1990).
+None of the predecessor statutes made any distinction between old and new titles. See Codification of the Regulations for the Government of American Samoa § 45.1 (1917) (October 31, 1906, deadline); Code of American Samoa § 927 (1949) (November 1932 deadline); Rev. Code of American Samoa § 6.0102 (1961) (November 1, 1932, deadline); 1 American Samoa Code § 701(b) (1973) (the present January 1, 1969 deadline). Again, we have no history or other evidence of any different legislative intent at the time of these enactfnents.
