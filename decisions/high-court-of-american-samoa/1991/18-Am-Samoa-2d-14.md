@@ -1,0 +1,30 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 22-89"
+decided: "1991-01-30"
+citations: ["18 Am. Samoa 2d 14"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Associate Justice, FONG, Acting Associate Justice, KLEINFELD, Acting Associate Justice, TAUANU’U, Chief Associate Judge, and LOGOAI, Associate Judge."]
+parties: ["MEKI SOLOMONA, Appellant v. GOVERNOR OF AMERICAN SAMOA, AMERICAN SAMOA GOVERNMENT, ECONOMIC DEVELOPMENT PLANNING OFFICE, and PRODUCT NOTIFICATION AND REVIEW SYSTEM, Appellees"]
+source_url: "https://static.case.law/am-samoa-2d/18/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987316
+cites_cases: ["480 U.S. 470"]
+---
+
+# Solomona v. Governor of American Samoa
+
+## Majority
+
+This appeal was from a denial of permit to build a home on filled land within the Leone Pala Lagoon. We held that the land in question was "tidal or submerged" land belonging to the Government, which therefore had the authority to deny private persons permission to build on the land.
+Appellant now urges that we misapprehended the facts of the case. We noted that the administrative panel below found that "tidal levels and action are clearly evident" and that "the area would most likely be inundated" had it not been for appellant’s prior unpermitted filling of the area. Appellant argues that this finding was "inconclusive" and "unclear at best," stressing the panel’s use of the term "most likely." He also suggests that it was improper for the Court to take notice of a "site plan,” contained in the record of the proceeding below, which shows the entire proposed building site to be within the lagoon, because the map "was never stipulated to be an exact topographical drawing." Finally, appellant points to other language in the opinion below, to the effect that" [a]t least two-thirds of the land, perhaps more," is tidal land. He argues that this language compels the conclusion that one-third of the land (about a quarter of an acre) "is now and always has been dry land subject to private ownership."
+The panel’s use of the term "most likely" provides no support for appellant’s argument. In an administrative proceeding such as the one below, as in most judicial proceedings, a fact need not be proved beyond a reasonable doubt or even by clear and compelling evidence in order to be proved conclusively. Rather, it is sufficient that the fact appear from the evidence to be more probably true than not. The panel’s language, although somewhat colloquial, restates this standard.
+Appellant’s objection to the Court’s use of the site plan is also without merit. The plan was part of the record below. It clearly shows the entire building site to be within the lagoon. If appellant had any objection to the accuracy of this depiction, he should have made it in the proceeding below. No such objection appears on the record, and appellant does not now indicate that he ever made one. Rather, he suggests that the plan should not be regarded as evidence in the absence of an affirmative stipulation with respect to its accuracy. The law of evidence is to the contrary.
+A far more substantial basis for appellant’s objection to our original opinion is afforded by the panel’s reference to "at least two thirds of the land, perhaps more," as submerged or tidal land. This language does cast doubt on our interpretation of the panel’s more general statement that "the area would most likely be inundated" as including the entire area in dispute.
+These two statements of the location of the building site vis-a-vis the lagoon are among several in the panel’s opinion. The panel also described the site as "in the midst of the mangrove swamp in the pala lagoon"; as "bounded all around by a cement wall sunk into the lagoon area"; and as "mostly, if not entirely, man-made fill." Two of these five references, taken in isolation, would suggest that a small part of the site might have been dry land before appellant began his illegal fill activities some years ago. The other three references place the entire site squarely within the lagoon.
+It must be borne in mind that the determination of what an area would have looked like if someone had not dumped many tons of rocks and dirt on it entails a certain measure of speculation. Our reading of the panel’s treatment of this issue in its totality is that the great preponderance of the land was certainly, and the entirety of it was more probably than not, submerged or tidal before the filling began.
+This reading is borne out by the evidence in the record. Not only the site plan, but every single recorded reference to the building site at any stage of the proceedings below, places it within the lagoon and designates it as the "landfill" or the "fill area." Though appellant’s proposed reading of the administrative decision is not semantically impossible, we believe our original reading to be a fairer one in the context of the entire decision and of the evidence received by the administrative panel.
+Finally, even if Mr. Solomona did own a quarter acre island within the lagoon, constituting a portion of the land on which he proposes to build, we would still not reach the larger questions posed by his appeal. The American Samoa Government would be entitled to deny a permit for a house with a septic tank on a small island in a lagoon, at the mouth of a stream, even without the coastal-management regulations. See generally A.S.C.A. §§ 25.0101 et seq., 25.1501 et seq., 25.3001 et seq. As we observed in our original opinion, no compensation is due for what would otherwise be a regulatory taking when the government "‘merely restrains uses of property that are tantamount to public nuisances. Solomona v. Governor of American Samoa, 17 A.S.R.2d 186, 191 (1990) (quoting Keystone Bituminous Coal Association v. DeBenedictis, 480 U.S. 470, 491 (1987)).
+Accordingly, the petition for rehearing is denied.
