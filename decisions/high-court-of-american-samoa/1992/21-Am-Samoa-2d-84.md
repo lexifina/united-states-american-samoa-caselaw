@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "CR No. 15-92; CR No. 16-92"
 decided: "1992-05-28"
-citations: ["21 Am. Samoa 2d 84", "21 Am. Samoa 2d 82"]
+citations: ["21 Am. Samoa 2d 84"]
 reporter: "am-samoa-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. FAGAVAO LUKI, aka FUNKY, and 
 source_url: "https://static.case.law/am-samoa-2d/21/cases/0084-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11896044
-cites_cases: ["321 F.2d 704", "357 U.S. 480", "358 U.S. 307", "371 U.S. 471", "384 U.S. 436", "396 U.S. 829", "409 F.2d 474", "414 F.2d 1119", "418 U.S. 87", "420 U.S. 103", "451 U.S. 477", "459 U.S. 1111", "475 U.S. 412", "679 F.2d 504", "824 F.2d 761"]
+cites_cases: ["384 U.S. 436", "418 U.S. 87", "451 U.S. 477", "459 U.S. 1111", "475 U.S. 412", "679 F.2d 504", "824 F.2d 761"]
 ---
 
 # American Samoa Government v. Luki
