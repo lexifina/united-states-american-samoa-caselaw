@@ -1,0 +1,41 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 62-97"
+decided: "1998-02-09"
+citations: ["2 Am. Samoa 3d 132"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, TAUANU'U, Chief Associate .Judge, and ATIULAGI, Associate Judge."]
+parties: ["RUTA FOU and TOGAIIA FOU, Plaintiffs v. TALOFA, INC. dba TALOFA VIDEO, Defendant."]
+source_url: "https://static.case.law/am-samoa-3d/2/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8434317
+---
+
+# Fou v. Talofa, Inc.
+
+## Majority
+
+OPINION AND ORDER
+Plaintiffs Ruta Fou (“Ruta”) and Togaiia Fou (collectively “the Fous”) brought suit against defendant Talofa, Inc. dba Talofa Video (“Talofa Video”) to obtain damages for defamation. The trial was held on October 24, 1997 with both counsel present.
+Facts
+On August 11, 1996, Ruta paid $15 by check to Talofa Video for video rental fees. The check was drawn on the Fous’ joint account. The check was deposited, and the depository bank credited Talofa Video’s account accordingly. Talofa Video, however, subsequently displayed this check on a post near the store’s front counter for its employees to see as an example of an “unacceptable” check, one that is drawn on an off-island bank. The check had remained there for some time when one of the employee’s turned it over to jot telephone numbers on the backside. In doing so, the check was placed in public view. When family and friends of the Fous asked why the check was displayed, Talofa Video’s employees told them that it was there as a reminder that the check was no longer acceptable at their store.
+Ruta learned of this situation from a friend at another store several months after she originally tendered the check. She immediately contacted Talofa Video, and an employee confirmed that the check was still displayed. Ruta retrieved the check and, through counsel, demanded an explanation and apology from Talofa Video. Talofa Video’s manager, Lo Shi-Kai, explained in his letter of March 27, 1997 that the check was not being posted because of insufficient funds, but rather “as a reminder to [Talofa Video’s] employees that only local checks could be accepted.” Despite the fact that the check was in plain view for the public to see, he denied that the check was on “public display.”
+Discussion
+Defamation by means of libel is statutorily defined:
+Defamation is effected by:
+(1) libel which is a false and unprivileged publication by writing, printing, picture, effigy, or other fixed representation to the eye which exposes any person to hatred, contempt, ridicule, or obloquy which causes him to be shunned or avoided or which has a tendency to injure him in his occupation.
+A.S.C.A. § 43.5201. Oral words which would -typically be considered slander constitute libel when said in association with a libelous act. “[I]t is generally held that it is a publication of a libel to read a defamatory writing aloud. This might suggest that the distinction is one of embodiment in some more or less permanent physical form, and is frequently so stated.” W.L. Prosser & W.P. Keeton, The Law of Torts 786-87 (5th ed. 1984). Posting defamatory material to be viewable by third persons constitutes publication. Publication of defamatory matter is its communication intentionally or by negligent act to one other than the person defamed. See RESTATEMENT (SECOND) OF TORTS § 577(1). The form of the statement is not important, so long as the defamatory meaning is conveyed. Prosser, supra, at 776. “A communication is defamatory if it so harms the reputation of another as to lower him in the estimation of the community or to deter third persons from associating or dealing with him.” RESTATEMENT (SECOND) OF TORTS § 559.
+Talofa Video asserts that it posted the check as a “teaching device” to its employees not to accept off-island checks. We view this rationalization to be less than compelling, and certainly not exculpatory of Talofa Video’s actions. A clearly worded notice to its employees not to accept a check drawn on an off-island bank could have easily sufficed.
+Worse perhaps, Talofa Video shirked its responsibility to issue an apology. Instead of assuming accountability for its actions, Talofa Video insulted the Fous’ intelligence by its rather dismissive explanation of its actions, terming them “a misunderstanding.” First, Talofa Video seemed to suggest that its wrongdoing was Ruta’s fault for having written a check on an “off-island” bank. Second, Talofa Video implied that its actions were justified because of financial inconveniences associated with accepting an “off-island” check. Third, Talofa Video contended that its actions were reasonable because even though the Fous’ check was displayed to the public it was not displayed for the public. Moreover, Talofa Video could have easily mitigated the harm at anytime by taking the check down after it was flipped over or by refraining from telling patrons that the check was “unacceptable.”
+Talofa Video then essentially dismissed the Fous’ grievance by suggesting that the Fous misconstrued its benign motives. Talofa Video excused its conduct by stating that “there was never a question of [the check’s] not being ‘good,’ only of having been off-island.” But we cannot look into the mind of Taiofa Video’s manager and neither could the public. The court must use a reasonable person standard to assess Talofa Video’s actions. Patrons who saw the check on display would have probably have thought that the Fous’ check was returned due to insufficient funds. This is the logical conclusion, one which Talofa Video reaffirmed when telling customers who inquired that the check was displayed as an example of an “unacceptable” check. No notation was on the check referring to its “off-island” status, and it is not clear to the court that the employees themselves were sure exactly why the check was posted. Apparently, the check had been displayed for a lengthy period before an employee finally flipped it over to post telephone numbers on the backside.
+Talofa Video seeks to draw the specious distinction between the check’s being displayed for the public, not to the public. Again, this excuse rings hollow. Others cannot look into a defendant’s mind to discern intent, and so we must look to an external standard to judge a defendant’s action. Even if the check was not intended “for the public,” it was still in plain view for the public to see. Even though Talofa Video claims that it “was never a question of [the check’s] having been ‘good,’” this is still the implication given.
+We conclude that Talofa Video’s conduct of posting the check, in conjunction with the check’s written nature and its employees stating that “the check is unacceptable,” constitutes libel.
+Since the implication was that Ruta committed a crime — the writing of a bad check — the libel per so rule applies in this case. “[A] written or printed imputation of any crime [of moral turpitude or punishable by confinement] is libelous [per se]. RESTATEMENT (SECOND) OF TORTS § 569 comment d. Even though we could easily infer harm to the Fous’ reputation, we need not be concerned with proof of actual harm.
+The record is devoid of evidence of any privilege or other defense. Thus, for the reasons stated above, we conclude that Talofa Video’s actions were libelous and damage to the Fous need not be proved. We hold Talofa Video liable to the Fous for its defamatory conduct in the amount of $6,000.
+Order
+Talofa Video shall pay $6,000 in damages plus actual costs suit to the Fqus.
+It is so ordered.
+Manager La Shi-Kai wrote “Talofa Video, like most businesses in American Samoa, does not accept off-island checks .... [Ruta], unfortunately, presented [an off-island] check to our employees who should not have accepted it.” Talofa Video’s letter of March 27, 1997.
+Manager Lo Shi-Kai claimed “Talofa Video, like most businesses in American Samoa, does not accept off-island checks, the foremost reason being that they are held by the banks until they clear Stateside, often a period of several weeks.” Talofa Video’s letter of March 27, 1997.
