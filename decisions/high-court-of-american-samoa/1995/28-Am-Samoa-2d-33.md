@@ -1,0 +1,39 @@
+---
+court: "High Court of American Samoa"
+docket: "JR No. 18-95"
+decided: "1995-05-11"
+citations: ["28 Am. Samoa 2d 33"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND Associate Justice, and TAUANU'U Chief Associate Judge."]
+parties: ["In the Matter of A MINOR CHILD"]
+source_url: "https://static.case.law/am-samoa-2d/28/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 399250
+cites_cases: ["145 Cal. Rptr. 190", "150 F.2d 979", "160 Cal. Rptr., 379", "330 U.S. 610", "331 F.2d 803", "356 U.S. 604"]
+---
+
+# In re a Minor Child
+
+## Majority
+
+Order Awarding Child Custody:
+HISTORY
+This case concerns the physical custody of a minor child. Petitioner is the child's maternal grandfather. Respondent is the child's father.
+The child's father and mother were divorced in 1986 in the State of Oklahoma, with custody awarded to the mother. Although the father had physical custody of the child for periods of time after the divorce, the child was in his mother's custody in California when he engaged in illegal conduct and was adjudged a delinquent. The Superior Court of California, City and County of San Francisco, Juvenile Division ("California court"), issued an order November 18, 1994, declaring the child a ward of the California court for a period of five years and eight months and requiring him to reside with his grandfather in American Samoa. The child's father was unaware of these proceedings and was therefore not involved in them.
+After finding out that the child was residing with his grandfather in American Samoa, his father took him from a Boy Scout meeting and refused to return him to his grandfather. On March 7, 1995, this court issued an order to show cause and temporary restraining order requiring the father to return custody of the child to the grandfather, pending the hearing scheduled on March 14, 1995, on the grandfather's application for a temporary injunction.
+On March 14, 1995, this court appointed the Public Defender to represent the child, continued the hearing until March 15, 1995, and set aside the temporary restraining order to permit the child to stay with his father until the next day.
+On March 15, 1995, this court directed the preparation of a social services report on the child's present circumstances, set an evidentiary hearing for April 12, 1995, returned custody of the child to his grandfather in deference to the California court's order, pending the evidentiary hearing, and mutually enjoined the father and grandfather from removing the child from American Samoa.
+Because the child was in school and not the courthouse at the scheduled time on April 12, 1995, we postponed the evidentiary hearing until April 13, 1995. On April 13, 1995, a hearing was held with all parties present with counsel. At that hearing, which included consideration with the parties of the findings of the social services report and a private consultation between the judges and the child, we awarded custody of the child to his father, and reasonable visitation rights to the grandfather, mother, and other family members.
+Our custody determination was based on three principal factors. First, the child's past relationship with his father has been positive and beneficial. Second, the child's father has remarried, adding a measure of stability to the family environment. Circumstances indicate a good relationship between the child and his stepmother and his stepsiblings. Third, the child has a strong preference to live with his father, although he appreciates his grandfather's efforts in his behalf.
+DISCUSSION
+When we awarded custody of the child to the father, we stated our intention to issue a written decision explaining our order in the light of the California court's order placing custody with the grandfather.
+The U.S. Constitution, Article IV, section 1 requires that "[fjull faith and credit shall be given in each state to the . . . judicial proceedings of every other state." Despite the fact that American Samoa is a territory, rather than a state, the full faith and credit requirement is applicable here. A.S.C.A. § 43.1702 et seq.; Southwest Marine of Samoa v. S & S Contracting, 6 A.S.R.2d 62, 64 (App. Div. 1987).
+According to the U.S. Supreme Court, a judgment is not more conclusive (or deserving of "faith and credit") in any state than it is in the state in which it was rendered. New York v. Halvey, 330 U.S. 610, 614 (1946). In other words, the forum state has as much leeway to modify or depart from a foreign judgment as does the state in which it was rendered. Id. at 615; Kovacs v. Brewer, 356 U.S. 604, 607 (1958).
+When a court obtains jurisdiction over a minor, its power to modify the custody arrangements in the interest of that child are equal to those of the state issuing the original decree. Brown v. Stevens, 331 F.2d 803, 805 (D.C. Cir. 1964). The forum should respect the earlier judgment to the extent that issues presented therein received a res judicata determination. Id.
+In a case factually very similar to the present case, the U.S. Supreme Court held that a custody decree is not res judicata where circumstances call for a different arrangement to protect the child's welfare. Kovacs, 356 U.S. at 608. Under California law, the primary consideration in a child custody determination is "the best interest and welfare of the child," and the trial court is given "broad discretion in awarding custody or in modifying a prior award." Schlumpf v. Super. Ct., 145 Cal. Rptr. 190, 195 (1978); In re Marriage of Popenhager, 160 Cal. Rptr., 379, 383 (1979). In a state where the welfare of the child is the primary consideration in shaping a custody decree and where the custody decree is not irrevocable or unchangeable, "the result is that the custody decrees of [California] courts are ordinarily not res judicata in [California] or elsewhere, except as to the facts before the court at the time of judgment." Halvey, 330 U.S. at 613. The D.C. Circuit similarly found that "[i]n California as in the District, the paramount consideration is the welfare of the child, and it is the duty of the court to which the question is presented, to change the custody if the best interests of the child require it." Langan v. Langan, 150 F.2d 979, 983 (D.C. Cir. 1945). The D.C. Circuit further found that courts act not as arbiters determining adversary rights in human chattels, but as parens patriae, making awards solely on the basis of the child's welfare. Id. at 980.
+When the California court awarded custody to the grandfather, it adjudicated the fitness of the child's grandfather to serve as his guardian as compared to the mother, not as compared to the father. The facts about the father's fitness to serve as the child's natural guardian were neither before the California court, nor were his parental rights adjudicated in the California proceeding. There was no res judicata determination of the father's fitness as a parent to the child.
+While there is a presumption in favor of preserving a child's existing custody arrangement in order to prevent disruptions in a child's life, we find that the combination of circumstances, including the child's clearly stated preference, make it advantageous for him to live with his father at this time. Hence, we continue in effect the bench order of April 13, 1995, awarding the child's custody to his father, subject to reasonable visitation rights by his grandfather, mother, and other family members.
+It is so ordered.
+The court also imposed a curfew on the child from 6:00 p.m. until 6:00 a.m., required him to attend school, and allowed the father to liberally exercise visitation rights, including during after-school hours before the curfew and on weekends.
