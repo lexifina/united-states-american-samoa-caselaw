@@ -1,0 +1,30 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 13-78"
+decided: "1980-02-25"
+citations: ["1 Am. Samoa 2d 3"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MURPHY, Associate Justice, presiding., SCHWARTZ, Acting Associate Justice, SHRIVER, Acting Associate Justice, TA'IAU, Associate Judge, and ASUELU, Associate Judge."]
+parties: ["UIVA TE'O, Appellant, v. FANENE FAMILY, FONOTI AUFATA, SALOFI R. SOTOA PEMERIKA TAUILIILI, and MOETAI LEOMITI, Appellees."]
+source_url: "https://static.case.law/am-samoa-2d/1/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11983579
+cites_cases: ["337 U.S. 265", "338 U.S. 25"]
+---
+
+# Te'o v. Fanene Family
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This case came before the trial division of this court as a consolidation of 11 separate cases involving disputes over title to a large1 tract of land approximately 265 acres in area. In preparation for thq-trial, the court held three pre-trial conferences during which the procedure for the trial was established. This procedure was agreed to by all parties,1 and on October 24, 1977, what was to be a two week trial began. Appellant made a motion for a new trial on substantive and procedural grounds, said motion being denied by the trial division. Appellant now appeals the decision of the lower court on the ground that the procedure used below denied appellant due process of law. For the reasons discussed below, the judgment of the trial court is affirmed.
+Appellant claims that the procedure adopted by the trial court denied him the right to cross-examine all witnesses. Because of this Appellant argues he was deprived of a full hearing or opportunity for a full hearing and thereby denied due process of law. In sppport of his proposition," counsel for appelant cites several U.S. Supreme Court cases. Although they do support the broad hypothesis, they do not really address the issue at bar.
+Due process of law has never been a term of fixed and invariable content (Federal Communications Commission v. WJR, The Goodwill Station, 337 U.S. 265 (1949)). Ordinarily, the courts do not attempt to define in a few words what is meant by this term, but are disposed to ascertain their intent and applicatin by the gradual process of judicial inclusion and exclusion, as the cases presented for decision shall require (Wolf v. People of the State of Colorado, 338 U.S. 25 (1949)). It is well established that a litigant who is not permitted a full hearing or opportunity for a full; hearing has not been afforded due process of law. The issue presented |n this case is whether or not this Appellant was deprived of an opportunity for a full hearing.
+The procedural limitations for this territory are contained in 5 ASC' section 412(b), which states in part, "...the Land and Titles Division may act in each case in such manner as it considers to be most consistent with patural justice and convenience. Whether or not "natural justice and ponvepience" encompasses due process of law is an issue which has never been pésolved by this Court.
+The fifth amendment to the U.S. Constitution and Article I, Section 2 of the Revised Samoan Constitution both state that no person shall be deprived of his property without due process of law. To permit the Land and Titles Division of this court to handle each case in any manner it felt convenient would permit that court to make up its own rules as it went along, with no discernible standard. This is particularly offensive here because the issues most frequently presentd in the' Land and Titles Division are issues which most affect the people of American Samoa, namely the land on which they live. To permit someone to take another's home and surrounding property without due process of law goes against the very foundation upon which both American law and natural justice are based. We hold therefore that the concept of due process of law is encompassed within the meaning of natural justice and convenience as used in 5 ASC 412(b).
+The question presented then is did the procedure established by the trial court afford this appellant due process of law?
+In the case at bar, the trial court directed each person who claimed lend within the 265 acres to file a claim with the territorial registrar. All eligible people were then given 60 days to object to all applicants' claims of land. Prior to trial, the order in which the claimants would present their cases was established. Each applicant for registratin of title was permitted to present his case in chief. All persons objecting to that claim were permitted to cross-examine each witness after his direct testimony. Each applicant, when his turn came, was permitted to present his’ qase in full by calling all witnesses he felt necessary. Adverse witnesses CQuld be declared hostile witnesses at the outset of the questioning if Qounsel deemed it necessary. Objectors with no claim were given opportunity to present their testimony also.
+The crux of Appellant's argument is that he was not permitted to cross-examine certain witnesses immediately after their testimony. Procedurally, this was not permitted because Appellant had not objected to that applicant's claim of land. As noted above, counsel for Appellant was permitted to call any witnesses he felt necessary when it came time to prove his plaim to the land in dispute.■ And in fact, he did call one of the opposing parties as a hostile witness and was permitted to cross-examine him pt.tlhgtt time.
+.Having considered the briefs filed in this case, the partial transcript qf the pase below, and the argument of counsel, we find that the procedure followed by the trial court did not prejudice the Appellant in any way, and this procedure did not violate either the notions of convenience and natural justice, or due process of law. That being the case, the judgment of the trial court is affirmed.
