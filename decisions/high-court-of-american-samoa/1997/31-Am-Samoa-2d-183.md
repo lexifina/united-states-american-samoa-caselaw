@@ -1,0 +1,34 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 3-96"
+decided: "1997-03-03"
+citations: ["31 Am. Samoa 2d 183"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, AFUOLA, Associate Judge, and ATIULAGI, Associate Judge."]
+parties: ["CONGREGATIONAL CHURCH OF JESUS IN SAMOA and AMERIKA SAMOA BANK, Plaintiffs v. AMERICAN SAMOA GOVERNMENT, MARY ROE 1-10, JOHN DOE 1-10, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/31/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8436270
+---
+
+# Congregational Church of Jesus v. American Samoa Government
+
+## Majority
+
+Order Denying Motion for Reconsideration or New Trial:
+On January 13, 1997, this court issued an opinion and order declaring the respective rights and obligations of the parties under a lease agreement and related documents, and resolving counterclaims by defendant American Samoa Government ("ASG") of alleged violations of statutes and administrative rules. On January 22, plaintiffs Congregational Church of Jesus in Samoa ("CCJS") and Amerika Samoa Bank ("ASB") filed a motion for reconsideration or a new trial, and on February 10, 1997, the court heard oral arguments from all parties on the motion.
+DISCUSSION
+First, the CCJS and ASB submit that the lease in the instant case is not subject to A.S.C.A. § 37.2030 because the statute does not mention “options.” Additionally, the CCJS and ASB argue that approval by the Legislature of American Samoa is only required when the lease “by its terms” goes beyond 10 years. We disagree. We cannot allow form to override substance when an important issue of public policy is concerned. If we condone the lease in this dispute, in which the lessee is given five successive unilateral “options” to continue the lease in nine year fragments, we will establish a precedent that permits leases of government land without the Legislature's review for potentially unlimited duration — as long as the parties to the lease are clever enough to utilize unilateral options. We refuse to create such a precedent, and feel compelled to uphold the public policy concern that the Legislature established in A.S.C.A. § 37.2030.
+Second, the CCJS and ASB claim that the court erred when it concluded that an “ineffective” lease under A.S.C.A. § 37.2030 merely created a periodic tenancy. However, the court’s position is supported by the Restatement (Second) of Property § 2.3 and case law. See American Samoa Gov’t v. South Pacific Island Airsystems, CA No. 13-94 at 7-8 (Trial Div., June 5, 1995). The CCJS and ASB offer no alternative definition for the term “ineffective” in § 37.2030 and cite no authority for their assertions. We affirm our analysis in the original opinion and order.
+Third, the CCJS and ASB declare the court erred when it concluded that the lease only required a one month notice to terminate the lease. The CCJS and ASB insist that they were entitled to a 90 day notice under the Lessor’s Consent and Estoppel agreement, and were entitled to continue the lease as long as they corrected problems that the ASG raised. The CCJS and ASB overstate the protections of Section 2 of that document, which states that
+[t]he Lessor will not terminate the Lease ... by reason of the bankruptcy or insolvency of the Lessee-Mortgagor or because of the occurance of any other default under the Lease, if the Mortgagee, within ninety (90) days after receipt of written notice from the Lessor of intention to terminate the Lease for any such cause, shall either remedy such default....
+This provision, which deals only with termination of the lease “for cause,” assumes that the lease’s durational terms were valid; but the CCJS was merely a periodic tenant paying rent on a monthly basis. Thus, the ASG could terminate the lease for any reason or no reason, as long as the ASG gave the CCJS one month’s notice of the termination of the tenancy.
+Fourth, the CCJS anmd ASB contend that the court erred in concluding that they were not entitled to due process. The CCJS and ASB do not even address the court’s conclusion that at-will relationships are not “liberty” or “property” interests within the meaning of constitutional due process. Furthermore, the CCJS and ASB do not identify the error in the court’s conclusion that the Governor of American Samoa, not the Parks and Recreation Commission, has the authority to extend periodic tenancies. We are not impressed with the CCJS's and ASB's argument and affirm our earlier due process analysis.
+Fifth, the CCJS and ASB assert that the court erred in its factual findings regarding the Governor’s use of discretion and the CCJS’s actual knowledge of ASCMP rules. After again reviewing the evidence presented at trial, we hold that our factual findings on these issues are correct.
+Sixth, the CCJS and ASB claim that the court’s eviction order constitutes an unlawful taking of private property without just compensation. Nothing in our original opinion and order can or should be construed to divest the CCJS of their title in the building on the land, or to grant the ASG unlimited access to the building. The ASG has not challenged the CCJS's and ASB's representations that the CCJS owns the building. However, since the ASG has terminated the periodic tenancy with respect to the land on which the building sits, the CCJS has no right to traverse across the ASG's land to enter the building, except to “remove machinery, equipment and personal property from the premises.”
+Seventh, the CCJS and ASB argue that the court failed to .apply the equitable defenses of laches and unclean hands to the ASG’s counterclaims for summary eviction. However, we found no evidence that the ASG committed fraud, deceit, misrepresentation or concealment, or that the ASG negotiated the lease in bad faith. Cf. Hardy v. Anderson, 9 A.S.R.2d 79, (Trial Div. 1988). Nor did we find evidence of “an unreasonable delay in the assertion of their rights by [the ASG] and undue prejudice to the [CCJS or ASB].” Jennings v. Jennings, 21- A.S.R. 2d 40, 49 (Land & Tit. Div. 1992) (citing Siofele v. Shimasaki, 9 A.S.R.2d 3, 14 (1988)). Rather, the evidence indicated that both the CCJS’s assignor and ASG mistakenly believed that their legal creativity could help them evade the Legislature’s review of their lease. We find this case inappropriate for the application of laches and unclean hands. We will not, as the CCJS and ASB would have us do, continue a lease that violates important public policy on the grounds of mutual mistake.
+CONCLUSION AND ORDER
+Accordingly, the motion for reconsideration or a new trial is denied. It is so ordered.
+Though the question is not before us, we note that there appears no obstacle to the CCJS selling the building back to the ASG or to the next lessee of the land.
