@@ -1,0 +1,27 @@
+---
+court: "High Court of American Samoa"
+docket: "CA. No. 89-86"
+decided: "1986-12-05"
+citations: ["3 Am. Samoa 2d 121"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Chief Justice, VAIVAO, Associate Judge, Associate Judge."]
+parties: ["OTI SAMOA, Plaintiff v. SAM GIBBENS & PRISCILLA GIBBENS, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/3/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 985281
+---
+
+# Samoa v. Gibbens
+
+## Majority
+
+This case concerns a failed relationship between landlord and tenants. Its outcome depends on which of two starkly different versions of the events surrounding the termination of that relationship the Court believes.
+According to plaintiff Oti Samoa, in July of 1983 his house in Aua was a dream cottage needing only a little tender loving care. Although he could have rented it to a palagi family for $350 per month, he chose instead to let the Gibbens family have it for $150. In return they were to do some work on the house and the yard. Instead they failed to pay rent, destroyed furniture, dumped rubbish in the yard, clogged the stream behind the yard so that it flooded and destroyed the foundation of the house, and even took the front door from its hinges and left it outside. Samoa's, complaint asks for $4,800 for his loss of "fair market rental return as a result of his discounted rent agreement, " and also for damages to the property in the amount of $3,285. <At trial he estimated that the damages were actually much higher.)
+Sam and Priscilla Gibbens testified that the place was a mess when they moved in. Although they deny entering into a "discounted rent agreement," they testified that they did a lot of work on the house and yard in order to make them livable. The front door, Mrs. Gibbens said, had no doorknob, so they replaced it with one that did. They destroyed no furniture, and paid rent regularly in accordance with Mr. Samoa's complex and whimsical instructions as to times, places, and manners. Mrs. Gibbens says they dumped no rubbish in the yard, although Mr. Gibbens says he dug a deep hole in a far corner of the lot for this purpose. They were forced to move not because of any problems with their tenancy but because Mr. Samoa and his son returned to the territory so that his son could take a government job. When they moved out Mr. Samoa inspected the house and found no problems with it. They suggest that any damage to the house and furniture was done later by Mr. Samoa's son, about whom he once called the police after an alleged drunken rampage resulting in destruction of property. (Mr. Samoa says his son only destroyed a couple of things, not the things he is blaming the defendants for.)
+In cases like this it is helpful to have "objective" sources of evidence. If there had been a written contract, or if either side had brought in any of the several eyewitnesses to whom they alluded in their testimony, our task would be easier. The only outside witness, however, was a neighbor called by Mr. Samoa whose testimony was slightly favorable to the Gibbenses but whose apparent primary concern was to say nothing bad about either side.
+Gn balance, we believe Mr. and Mrs. Gibbens. Although there were contradictions and gaps in each side's story, the demeanor of the defendants and the general consistency and plausibility of their story were more impressive than those of the plaintiff. In particular, we note that Mr. Samoa initially testified that he had taken the pictures of the house and yard which were his principal evidence, and that he had taken them the day after the defendants moved out. When defendant's counsel thought he noticed Mr. Samoa in one of the pictures, Mr. Samoa said the photographer was actually his daughter. Later a niece testified that she took the pictures after Mr. Samoa and his son had been living in the house for some time. The defendants' unrebutted account of the disposition of their rent receipts --- that Mr. Samoa had asked for them on the pretext of bringing a lawsuit against his former attorney, and had subsequently been unwilling to return them --- also had the ring of truth, as did Mrs. Gibbens's account of her efforts to turn the house into a decent home for her family.
+Judgment will therefore be entered for the defendants on the principal complaint. Defendants did not, however, present any evidence in support of their counterclaim, and even testified that they had vacated the premises voluntarily and allowed Mr. Samoa to keep their security deposit as a sort of good will gesture. Plaintiff therefore prevails on the counterclaim.
+This is one of those rare cases in which manifest injustice will result from the usual rule that each party is required to bear the burden of his own attorney's fees. The Court has found, if only by a preponderance of the evidence,- that Mr. and Mrs. Gibbens were the innocent victims of a lawsuit that was not a good-faith effort to recover money that was arguably owed. They will therefore be awarded reasonable attorney's fees in an amount not to exceed the amount they actually contracted to pay their attorney, and excluding any fees for the preparation of the counterclaim. The requested fee award should be submitted to the court by written motion-.
+Court costs are assessed against the plaintiff.
