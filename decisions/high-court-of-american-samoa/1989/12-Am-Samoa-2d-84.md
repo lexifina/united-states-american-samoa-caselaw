@@ -1,0 +1,28 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 18-87"
+decided: "1989-08-31"
+citations: ["12 Am. Samoa 2d 84"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Associate Justice, VAIVAO, Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["PUAILOA TAVETE, Plaintiff v. Estate of LAGAFUAINA LAISENE, FA‘AOPOOPO LAGAFUAINA, Executrix; HUGO GEBAUER; MARCUS LANGKILDE, personally and as Executor of the Estate of MARIE LANGKILDE; LEFAGA BEAVER; SMITH HO CHING; TELE'A PULETASI; FALENOFOA STEFFANY; ROBERT C. PAYES; ROY J.D. HALL, Jr.; TUI MARCUS; and SOLA PENEI SEWELL, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/12/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 455847
+---
+
+# Puailoa v. Estate of Lagafuaina
+
+## Majority
+
+On Motion for Reconsideration:
+Plaintiff argues that our decision was erroneous in several ways:
+First, plaintiff correctly observes that the rule of collateral estoppel binds not only the parties to a proceeding that decidetl the issue in question, but also their "privies." Plaintiff is wrong, however, in his contention that the present defendants are "privies" of the Mormon Church. They neither bought their land from the Church nor otherwise claim through the Church. The only connection is that the chain of title to their land includes some of the same people who were links in the chain of title to the land once claimed by the Church.
+* The rule that judgments bind parties "and their privies” is merely a corollary of the proposition that a buyer or other assignee, receives only the title his assignor had the right to convey. It is true that both the present defendants and the Church would have been bound by the judgment in a case to which their common ancestor was a party, insofar as it resolved issues common to both chains of title. The journey from this premise to the conclusion that anyone who buys land is bound by the results of lawsuits against anyone else who should ever buy land from the same seller — or, as is argued here, against anyone who traces his title back through any number and kind of transactions to such a seller — would carry the privity rule far beyond the limits of its logic. As a matter of juristic theory it would be equivalent to saying that since the sins of fathers are sometimes visited upon sons, they might as well also be visited upon cousins. In practice it would encourage litigants to bring suit not against the parties whose claims they really wish to contest, but against the least effective and attractive available members of some class to which the real adverse parties happen also to belong. The judgments thus obtained would then bind the people who should have been sued in the first place.
+Although some of the cases cited by plaintiff do speak in terms of litigants "representing the interests" of other litigants, none stands for the proposition that a litigant may be bound by the result of a prior lawsuit to which neither he nor anyone on whom his claim depends was a party. This proposition would carve a gaping hole in the rule that no one can be denied property without having had a day in court. The appellate court in Reid v. Puailoa specifically rejected an almost idéntica] proposition when it reversed the trial court’s attempt to adjudicate title to the land presently in dispute. We also reject it.
+Plaintiff further suggests that we were simply wrong on the facts: that the "weight of the extrinsic evidence" surrounding the 1931 Nouata decision is that it did not hold Salataima to be the owner of Malaeimi. We did try to take account of the evidence cited in plaintiff’s brief. If it were the only evidence, it might support plaintiffs suggested conclusion; but it is not. We believe the "weight of the extrinsic evidence" — particularly the evidence cited in subparagraphs (10)(a)-(i) of our findings of fact in which the trial judge and the losing parties to the Nouata case repeatedly treat the case as having adjudicated title to the land — supports the language of the decision itself to the effect that "that part of Malaeimi that is leased to the Mormon Missionaries is the property of Salataima."
+Plaintiff also contends that our alternative holding with regard to adverse possession conflicts with the holding of Justice Murphy’s opinion in Reid, not just with obiter dictum. For the reasons stated in our original opinion, we are convinced that the statement in question was not part of the holding of Reid. In any case the statement would appear to have been unprecedented and ill-considered. Communal land comprises, by the most common estimate, about ninety per cent of the land in American Samoa. If the Court really did hold in 1983, in the teeth of precedent and without briefing or argument by any party, that a statute applicable on its face to all land in the Territory really applied to only ten per cent of it, then the holding deserves re-examination. If an appeal should be taken from the present decision and if the appellate court should find it necessary to reach the question of adverse possession, we reiterate our suggestion that the question be carefully and thoroughly considered.
+Finally, we agree with plaintiffs observation that laches is an equitable doctrine that does not convey title to land but supports compensation for improvements made in good faith by a possessor who is not the legal owner. Because we held that the defendants were the owners of the land, we did not find it necessary to assess the value of their various improvements.
+For the foregoing reasons, the motion to reconsider is denied.
