@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "LT No. 22-94; LT No. 14-97"
 decided: "2001-06-18"
-citations: ["5 Am. Samoa 3d 230", "5 Am. Samoa 3d 237"]
+citations: ["5 Am. Samoa 3d 230"]
 reporter: "am-samoa-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
