@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "CR No. 10-03; CR No. 21-03"
 decided: "2004-06-16"
-citations: ["8 Am. Samoa 3d 176", "8 Am. Samoa 3d 173"]
+citations: ["8 Am. Samoa 3d 176"]
 reporter: "am-samoa-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff, v. RICHARD PATRICK MAJHOR, Defe
 source_url: "https://static.case.law/am-samoa-3d/8/cases/0176-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3501480
-cites_cases: ["123 S. Ct. 2527", "140 Idaho 53", "277 F.3d 261", "372 U.S. 335", "416 N.W.2d 47", "446 U.S. 335", "466 U.S. 668", "483 U.S. 776", "487 U.S. 815", "537 P.2d 1369", "6 F.Supp.2d 269", "619 A.2d 123", "632 F.Supp. 418", "680 A.2d 147", "884 P.2d 1150"]
+cites_cases: ["123 S. Ct. 2527", "140 Idaho 53", "277 F.3d 261", "372 U.S. 335", "446 U.S. 335", "466 U.S. 668", "483 U.S. 776", "487 U.S. 815", "6 F.Supp.2d 269", "619 A.2d 123", "632 F.Supp. 418", "680 A.2d 147", "884 P.2d 1150"]
 ---
 
 # American Samoa Government v. Majhor
