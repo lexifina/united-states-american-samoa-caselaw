@@ -1,0 +1,32 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 14-90"
+decided: "1990-06-04"
+citations: ["15 Am. Samoa 2d 87"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Associate Justice, VAIVAO, Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["JIMMY STEPHENS and MAAMU STEPHENS, Plaintiffs v. TALI PETER COLEMAN, COMMISSIONER OF REVENUE, AMERICAN SAMOA GOVERNMENT, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/15/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 989034
+cites_cases: ["237 F.2d 784", "26 U.S.C. § 6213", "26 U.S.C. § 7422", "572 U.S. 212"]
+---
+
+# Stephens v. Coleman
+
+## Majority
+
+On Motion to Dismiss;
+On October 27, 1988, the Tax Office of respondent American Samoa Government (ASG) mailed the petitioners a Notice of Deficiency. On January 25, 1990, the petitioners filed with the High Court a petition for redetermination of the deficiency.
+26 U.S.C. § 6213(a), which as incorporated by reference in A.S.C.A. § 11.0403 governs actions for redetermination of American Samoa income taxes alleged to have been erroneously assessed, requires that a petition for redetermination be filed within 90 days after the notice of deficiency was mailed. January 25, 1990, was the 91st day after October 27, 1989. Respondent ASG moves for dismissal on the ground that the Court lacks subject matter jurisdiction over a petition not filed within the requisite 90 days.
+It is well settled that the 90-day filing requirement imposed by 26 U.S.C. § 6213(a) is jurisdictional. See Shipley v. Commissioner of Internal Revenue, 572 U.S. 212 (9th Cir. 1978), and authorities cited therein at 213. Indeed, the statute itself expressly provides that "the Tax Court shall have no jurisdiction . . . unless a timely petition for a redetermination has been filed." 26 U.S.C. § 6213(a). A.S.C.A. § 11.0401 provides in pertinent part that the words "tax court" in the Internal Revenue Code shall be construed to mean "High Court" for the purposes of the American Samoa income tax provisions. The High Court therefore has no jurisdiction over this action.
+Petitioners urge, however, that the High Court (unlike the United States Tax Court) is a court of general jurisdiction. The implication seems to be that this Court can therefore treat an untimely filed petition for redetermination as though it were an ordinary civil action of which the Court has general subject matter jurisdiction. This argument, however, overlooks the provision of A.S.C.A. § 11.0409(a) that actions for the recovery of erroneously or illegally assessed or collected income taxes are subject to the same rules that would govern such actions in the district courts of the United States. This provision acts as an explicit limitation on our general jurisdiction; perhaps the most important statutory requirement incorporated therein is the requirement that the taxpayer pay the disputed tax before suing for its recovery. See 26 U.S.C. § 7422.
+The resulting jurisdictional scheme is well settled and clearly defined: "The High Court sits as a Tax Court in deficiency proceedings, and ... as a District Court when hearing refund cases." Klauk v. American Samoa Government, 13 A.S.R.2d 52, 55 (1989). As a tax court, we have no jurisdiction to hear a deficiency petition unless it was filed within the statutory deadline; as a district court, we lack jurisdiction to hear a refund suit until there has been payment or collection.
+Finally, petitioners cite several cases in which courts treated time limits as procedural rather than jurisdictional. In one case even more poignant than the one now before us, a petitioner arrived in the offices of the Federal Communications Commission a few minutes before closing time on the last day provided for filing his petition. It took him a few minutes to sort out his papers, however, and during this time the Commission’s official business hours came to a close. The petition was therefore dismissed as untimely filed. The D.C. Circuit reversed the Commission’s decision, pointing out that the closing time was a matter of administrative convenience not set by statute nor even by regulation, and suggesting that "[z]eal for orderly procedures hardly calls for such Cinderella-like treatment of a protest. . . ." Valley Broadcasting Co. v. Federal Communications Commission, 237 F.2d 784 (1956) (Burger, J.).
+Valley Broadcasting and other cases cited by petitioners underscore the difference between time limits that reflect an institution’s own preferences and those that define the outer limits of the institution’s power. The former can be suspended, stretched, or overlooked for reasons of equity or even of convenience. The latter cannot. We did not make the ninety-day rule, and we may not break it. Although arguments about Cinderella are not without emotional and aesthetic appeal, they can no more supply jurisdiction to a court without it than to a pumpkin.
+Accordingly, the motion is granted and the petition is dismissed.
+It is so ordered.
+Petitioner urges that American Samoa’s statutes incorporating the federal statutory scheme are "on their face . . . unconstitutional, because they are overly broad and unnecessarily vague" and that "the only purpose is to circumvent due process in favor of the American Samoa Government and to the detriment of the taxpayer." With respect to the issues raised in this action, however, the statutory scheme is straightforward and affords the taxpayer notice and an opportunity to be heard, both before and after collection of the disputed amount.
+Petitioner also suggests that the Governor’s failure to adopt "needful rules" bars ASG from enforcing the statute. Again, it is conceivable that in some situation the failure to adopt a rule would result in impermissible vagueness or ambiguity with respect to the taxpayer’s rights. In the present case, however, the problem the taxpayer is up against is precisely the opposite: the statute itself provides a rule that is unusually easy to interpret and clearly designed to be self-executing. Indeed, although administrative law is a house in which there are many mansions, it is hard to see where the Governor would get the authority to promulgate a rule providing that ninety days should mean eighty-nine or ninety-one even if he wanted to.
