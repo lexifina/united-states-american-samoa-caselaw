@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "CA No. 21-02"
 decided: "2004-01-28"
-citations: ["8 Am. Samoa 3d 114", "8 Am. Samoa 3d 109"]
+citations: ["8 Am. Samoa 3d 114"]
 reporter: "am-samoa-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["CONSTRUCTION SERVICES OF SAMOA, INC., MORU MANE and SALLIE MANE, Plai
 source_url: "https://static.case.law/am-samoa-3d/8/cases/0114-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3500990
-cites_cases: ["1991 WL 49782", "282 F.3d 606", "477 U.S. 317", "50 P.3d 431", "502 A.2d 1057", "64 F.3d 1112", "653 A.2d 179", "653 A.2d 836", "832 So.2d 572", "985 F. Supp. 48", "Haw. Rev. Stat. Ann. §§ 490", "Haw. Rev. Stat. Ann. §§ 490:9-618", "Haw. Rev. Stat. Ann. §§ 490:9-625"]
+cites_cases: ["282 F.3d 606", "477 U.S. 317", "502 A.2d 1057", "653 A.2d 179", "653 A.2d 836", "832 So.2d 572", "985 F. Supp. 48", "Haw. Rev. Stat. Ann. §§ 490", "Haw. Rev. Stat. Ann. §§ 490:9-625"]
 ---
 
 # Construction Services of Samoa, Inc. v. Bank of Hawaii
