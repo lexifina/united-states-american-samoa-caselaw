@@ -1,0 +1,32 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 23-89"
+decided: "1990-01-25"
+citations: ["14 Am. Samoa 2d 23"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, AFUOLA, Associate Judge, and MATA‘UTIA, Associate Judge."]
+parties: ["MAIAVATELE P. HUNKIN, Plaintiff v. MAAE PAAKA and MULIMULI L. FASIMOLI, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/14/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 988647
+---
+
+# Hunkin v. Paaka
+
+## Majority
+
+Plaintiff is the senior matai of the Maiavatele family of Vailoatai village. He has filed suit seeking, among other things, the eviction of defendant Mulimuli L. Fasimoli from a certain piece of land on which the latter recently built a home. Plaintiff claims that the site on which Mulimuli has built his home is a part of the Maiavatele family’s communal holding known as "Vaigafi."
+While Maae Paaka is the senior matai of the Maae family from the adjacent village of Taputimu and a named defendant herein, he has actually had very little to do with anything regarding these proceedings. Rather, his brother, Ai‘i Maae, appears to have assumed the role of the senior matai as it was Ai‘i who encouraged Fasimoli and his wife to continue building their home, notwithstanding the objections from Maiavatele; Ai‘i also signed the relevant building permit application, as well as the separation agreement. These are ordinarily executed by the senior matai as owner of the building site on behalf of the family.
+Findings
+The site in question (some two and one half acres) was once in the exclusive use of the various pastors of the Christian Congregational Church who had been assigned over time to minister the Church in Taputimu. Accordingly, for many, many years, the land was left to the undisturbed possession of the incumbent pastor for his agricultural use.
+However, with the emergence of a dispute over the land, the pastors gave up the land assignment, wanting no part in the controversy. Consequently, a number of people in the vicinity soon jockeyed to assert in one manner or another their respective family’s ownership claim to the land. For example, members of both the Maiavatele and Maae families who live adjacent to the disputed land now argue that they have harvested the different crops growing thereon. At another time, in 1978, one Aiulu Manu, a member of the Maiavatele family, attempted to build a home on the area now disputed. He was stopped by his family matai because of the urging of Afoa, the senior matai of another family in the area. For reasons unknown, a confrontation over title was then avoided.
+Indeed, a peculiar feature of this case has been the conspicuous absence of any direct and serious attempts on the part of the relevant senior matai to address and confront the question of ownership and pule. The matter has become a lingering uncertainty ámong those in the vicinity. Pespite various vague claims to the land, nobody has bothered to attempt title registration proceedings as might be normally expected. The evidence at best pointed to simulated or feigned motions on the part of the matai.
+This reluctance to confront the issue of ownership was ¿Iso very evident at the trial itself with the noticeable absence of the senior matai. Although Maiavatele filed this suit, he was not at trial to testify and present the basis of his family’s claim — he left this primary duty to lesser matai. Nor was Maae, who seemed content throughout'to simply sit back and await the outcome of the proceedings. Maae did not attend any of the meetings called by the Office of Samoan Affairs, although his older brother Ai‘i attended and spoke on behalf of the Maae family. (Ai‘i unabashedly admitted that he had encouraged the disputed construction on the land in order to bring the dispute to a head before the courts.) We also noted, with equal puzzlement, that the senior matai of the neighboring Te‘o family, although not a party to the case but whose land, according to Maiavatele, 'yas also included in Maae’s survey, did attend the beginning of the trial but then did not choose to wait around and testify accordingly. Instead he suffered an untitled member of his family t<? do so rather poorly.
+Thp resulting evidence, given by those who took the stand, was thoroughly contradictory. The testimony essentially amounted to one side asserting ownership and pule, which in turn was met by the other’s equally earnest counter-assertion of ownership. If anything is clear from the testimony, neither side has had much of anything to do with the land within recent memory. (There is one grave on the land which, depending on who you listen to, is the final resting place of a deceased member of either the Maiavatele family or the Maae family.)
+We find neither side to be convincing with their respective claims to use and occupation of the land prior to its assignment to the pastors. Indeed, in those few instances where the testimony was not contradictory, it tended to show that neither side, apart from Fasimoli’s construction, had.ever built before on the disputed land. Both sides have, however, had family members who erected structures and lived immediately adjacent to the disputed area, and it is this particular factor which seems to have been heavily relied upon as a basis for each’s claim.
+Conclusiqns
+On the foregoing, we necessarily conclude that neither party has been able to shpty better title to the disputed land qrea. nor a superior . right to possession. In these circumstances, plaintiffs must be denied the relief sought herewith.
+We unfortunately note that the uncertainty over the land’s ownership will continue. It is equally unfortunate that this matter was qot first addressed by the senior matai pf the relevant families as opposed to its bping hastijy forced to a head hy individual family members and then rather badly presented before the Court. We sincerely hope that the senior matai will take the opportunity to. address their respective differences, if any, with regard to entitlement to the land, and if a resolution canpot be arrived at then fije land should be offered for title registration pursuant to A.S.C.A. §§ 37.0101 et seq., whence the matter may be dealt with in rem.
+Judgment accordingly. It is so Ordered.
