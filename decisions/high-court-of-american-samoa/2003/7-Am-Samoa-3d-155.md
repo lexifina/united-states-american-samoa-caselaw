@@ -1,0 +1,31 @@
+---
+court: "High Court of American Samoa"
+docket: "CR No. 19-03"
+decided: "2003-08-22"
+citations: ["7 Am. Samoa 3d 155"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, MAMEA, Associate Judge, and TAPOPO, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. TOFOI LAUMATIA, Defendant"]
+source_url: "https://static.case.law/am-samoa-3d/7/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3530985
+cites_cases: ["266 F.3d 1030", "367 U.S. 643", "384 U.S. 436", "425 U.S. 429", "429 U.S. 492", "442 U.S. 200", "463 U.S. 1121", "468 U.S. 420", "511 U.S. 318"]
+---
+
+# American Samoa Government v. Laumatia
+
+## Majority
+
+ORDER DENYING DEFENDANT’S MOTION TO SUPPRESS
+Early in the course of a police investigation into allegations of prostitution activity at the defendant’s place of employment, Detective Romeo Tiumalu and others visited the defendant’s work place on February 14, 2003. After finding the defendant there, officer Tiumalu requested her to accompany him to the police station for questioning. The defendant complied and rode to the central station in Fagatogo with the officers in a police vehicle. At the station, she was questioned by Detective Lima Togia, however, she was not given any Miranda warnings before being questioned. Officer Togia explained the omission in terms of their thinking at the time that warnings were not necessary since they were simply looking for information to aid them in their investigation; that the defendant was not a suspect at the time; and that the defendant had earlier indicated to the officers that she knew nothing of any prostitution activity at her work place. Officer Togia further explained that even though Detective Tiumalu was the lead investigator in the case, it was decided that Togia would undertake the interview since he was familiar to the defendant, having visited the defendant’s place of employment, a night club and bar, on a number of previous occasions under other circumstances. On those previous occasions, he had engaged the defendant in conversation.
+Three months after she was questioned by the police, the defendant found herself charged with one count of promoting prostitution, a crime under A.S.C.A. § 46.3706. She now moves to suppress the oral statements she gave to the police on February 14, 2003, contending, among other things, that the statements were made while she was in a custodial situation and that the police’s failure to advise her of her Miranda rights bars the admission of those statements.
+The central question before us is whether the defendant was, for Miranda purposes, in a custodial situation when she gave the statements. In this regard, “the ultimate inquiry is simply whether there is a ‘formal arrest or restraint on freedom of movement’ of the degree associated with a formal arrest.” California v. Beheler, 463 U.S. 1121, 1125 (1983) (per curiam) (quoting Oregon v. Mathiason, 429 U.S. 492, 495 (1977) (per curiam)). Moreover, “the initial determination of custody depends on the objective circumstances of the interrogation, not on the subjective views harbored by either the interrogating officers or the person being questioned.” Stansbury v. California, 511 U.S. 318, 323 (1994) (per curiam). Consequently, “the only relevant inquiry is how a reasonable man in the suspect’s position would have understood his situation.” Id. at 324 (quoting Berkemer v. McCarty, 468 U.S. 420, 442 (1984)).
+The facts before us are not unlike those reviewed in Beheler where it was held that Miranda warnings are not required when a suspect, not under arrest, voluntarily agrees to accompany police to the station and is released after a brief interview even though the questioning took place in a coercive atmosphere. See Beheler, 463 U.S. at 1121-22. At the same time, custody does not result simply because an individual is questioned in the “coercive environment” of the station house. Oregon v. Mathiason, 425 U.S. 429, 495 (1977).
+Here, the target of the investigation was the defendant’s employer. If anything then, and from the stance of the reasonable person, the station house would be the more neutral setting and the less coercive environment, rather than the defendant’s place of employment. Moreover, the evidence showed that the interview was brief — the defendant told the officers that she knew nothing about any prostitution at her place of employment — and it was conducted by an officer familiar to the defendant. After the- interview, officer Togia gave the defendant his card and asked her to contact him again if she came into any information; she left thereafter.
+We find nothing in the evidence that warrants a finding of custody. We find nothing in the evidence that suggests police excessiveness. As we have said before on a number of occasions, “the exclusionary rule came about as a prophylactic measure against police excessiveness.” Mapp v. Ohio, 367 U.S. 643, 656 (1961). “The rule has not, however, evolved into some sort of predisposition against anything involving police action and we refuse to draw inferences where there are none to be drawn.” Am. Samoa Gov't v. Afamasaga, 17 A.S.R.2d 145, 148 (Trial Div. 1990).
+We conclude that the defendant was not in a custodial situation at the time she spoke to the police and, therefore, Miranda warnings were not necessary at the time. Consequently, her rights were not violated in the officers’ failure to administer the Miranda warnings at the time.
+The motion to suppress is denied.
+It is so ordered.
+Notwithstanding, police failure to properly follow the guidelines of Miranda will result in the suppression of any statement taken thereafter, regardless of the degree of incrimination or whether it is inculpatory or exculpatory. Miranda v. Arizona, 384 U.S. 436, 476-77 (1966); United States v. Orso, 266 F.3d 1030, 1033 n.1 (9th Cir. 2001); JOHN W. STRONG ET AL., McCormick ON Evidence § 144 (5th ed. 1999). Furthermore, police questioning may amount to custodial interrogation for Miranda proposes even though it was conducted during an investigatory rather than accusatorial stage. Dunaway v. New York, 442 U.S. 200, 215-16 (1979).
