@@ -1,0 +1,42 @@
+---
+court: "High Court of American Samoa"
+docket: "99-1948"
+decided: "1948-12-27"
+citations: ["2 Am. Samoa 422"]
+reporter: "am-samoa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["A. A. MORROW, Chief Justice; MALEPEAI, District Judge."]
+parties: ["SELUSI of Vaitogi, Plaintiff v. TASI of Vaitogi, Defendant"]
+source_url: "https://static.case.law/am-samoa/2/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 206941
+---
+
+# Selusi v. Tasi
+
+## Majority (MORROW, Chief Justice.)
+
+DECISION
+MORROW, Chief Justice.
+The right to the succession to the matai name Talolo of Vaitogi is to be determined in this proceeding. Tasi filed his applicátion on July 28, 1948 to be registered as thé holder of the name. On July 30, 1948 Selusi filed his objection to the proposed registration thereby becoming a candidate for the name. Hence this litigation.
+Sec. 92.6 of the American Samoan Code prescribes the requirements for eligibility for succession to a matai title. From the evidence it is clear that both Selusi and Tasi comply with the requirements of Sec. 926 and are eligible to succeed to a matai title.
+Sec. 933 of the American Samoan Code provides as follows:
+“In the trial of Matai name cases, the High Court shall be guided by the following in the priority listed:
+1. The wish of the majority or plurality of the family.
+2. The forcefulness, character, personality and capacity for leadership of the candidate.
+3. The best hereditary right in which the male and female descendants shall be equal in the family where this has been customary, otherwise, the male descendant shall prevail.
+4. The value of the holder of the Matai name to the Government of American Samoa.”
+The. candidates filed petitions purporting to be signed by various members of the Talolo family in support of their respective candidacies. There were 119 signatures on Tasi’s petition and 92 on Selusi’s. It was admitted by Tasi that five signatures on his petition were not made by the persons whose signatures they purported to be, .they having been in Hawaii when their signatures were put upon the petition in Tutuila. There was no evidence that they gave anyone authority to sign their names. It follows that the five cannot be counted as supporters of Tasi. Selusi claimed that 105 of the signers on Tasi’s petition were not members of the Talolo family. While the evidence on this point was conflicting, we believe that it preponderates in favor of the view that the 114 persons (we exclude the five living in Hawaii) who signed Tasi’s petition are members of the Talolo family. Tasi claimed that 90 of the 92 signers on Selusi’s petition were not members of the family, while Selusi claimed that they were. We believe from the evidence, despite conflict therein, that all of the 92 signers are members, of the family. Our conclusion is that a majority-of the family favor Tasi and that he prevails over Selusi on the issue of the wish of the majority or plurality of the family.
+Tasi has completed the sixth grade in school. He has plantations which he works, For two years during the war he was a truck driver for the Navy, receiving $37 a week. He then went to work as an auto mechanic (learner), receiving $11 a week for two years. He now has an income of about $1,200 a year from the sale of copra, bananas and taro and mats. Selusi has plantations on which he works. He was in the Marine Corps for four years during the war. He has an income of about $300 a year from the sale of products from his own plantations. In addition he receives about a $1,000 a year from the sale of copra which is produced by himself and other members of his immediate family. He- rendered considerable service to Talolo Simene, a former holder of the title. Tasi also rendered service to Talolo Simene but much less than Selusi. The court observed the personalities of the two candidates during the course of the hearing. Based upon our observation and the evidence, our conclusion is that Selusi prevails over Tasi on the issue of forcefulness, character, personality and capacity for leadership.
+Tasi is the great grandson of Talolo Tilesa. He has one-eighth Talolo blood in his veins. Selusi is the legally adopted son of Talolo Simene, he having been adopted by other than judicial proceedings pursuant to what is now Sec. 787 of the Code. Subsection (d) of Sec. 787 reads as follows:
+“After the registration of adoption, as herein provided, the matai and the adopted person shall sustain toward each other the legal relation of parent and child, including the rights of inheritance from each other, and have all the rights and be subject to all the duties of that relation and such registration shall thereby terminate all the rights and legal responsibilities and incidents existing between the adopted person and his or her natural parents, except such child may still inherit property from his or her natural parents.”
+It will be observed that this subsection fixes the relationship between the matai and the adopted child “including the rights of inheritance from each other.” The matai .title belongs to the family. It does not belong to the matai. He is merely the holder of it during his mataiship. The above statute does not expressly confer upon an adopted child any hereditary right to the matai title. Applying the familiar maxim of the law that the expression of one thing is the exclusion of another, it would follow that the conferring of the “rights of inheritance from each other” would exclude by implication the conferring of any hereditary right to the title upon the adopted child. In Toilolo Lui v. Tuliloa, No. 60-1948 (Am. Samoa), a case involving the right to the succession .to the matai name Poloa, we said:
+“Toilolo is the great grandson of Poloa Fualemilo. Consequently he has Poloa blood in his veins. Tuliloa is not a descendant of a former holder of the Poloa title. He has no Poloa blood in his veins. His only connection with the Poloa title is through his marriage with Sesi, who is the daughter of Poloa Mikaele. It is our opinion that the term ‘hereditary right’ used in subdivision 3 of Sec. 933 of the Code means right based upon blood and not upon marriage.”
+In Gagamoe v. Toti, No. 48-1948 (Am. Samoa), which case involved the right to succession to the matai name Faasii, we hold that the term “hereditary right” as used in subdivision 3 of Sec. 933 means a right based upon blood.
+Inasmuch as Selusi is merely the adopted son of a former holder of the title and has no Talolo blood in his veins, we hold in accordance with our rulings in the Poloa and Faasii cases that Selusi has no hereditary right to the Talolo title. It follows that Tasi having one-eighth Talolo blood in his veins prevails over Selusi on the issue of hereditary right.
+Inasmuch as Tasi has the majority of the family favoring his candidacy he will probably be able to consolidate it into a harmonious unit sooner than Selusi despite the fact that we believe that Selusi is better qualified for a mataiship than Tasi because of his forcefulness, personality and capacity for leadership. The value of the holder of a matai title to the Government of American Samoa depends in a large measure upon the manner in which he handles the affairs of the family. Everything considered we believe from the evidence that Tasi and Selusi are substantially upon a par with respect to the issue of the value of .the holder of the title to the Government.
+Under Sec. 933 we must give more weight to the wish of the majority or plurality of the family .than to the forcefulness, character, personality and capacity for leadership of the candidate. Likewise we must give more weight to the matter of hereditary right than we do to the value of the holder of the matai name to the Government.
+Since we find that Tasi prevails over Selusi on the first and third issues and is on a par with Selusi with respect to the fourth, it follows that we must award the matai name Talolo to Tasi although Selusi prevails over him on the issue of forcefulness, personality, character and capacity for leadership.
+Accordingly it is ORDERED, ADJUDGED and DECREED that Tasi shall be registered as the holder of the matai title Talolo of Vaitogi. The Registrar of Titles will be advised of this decree.
+Costs in the sum of $12.50 are hereby assessed against Selusi, the same to be paid within 30 days.
