@@ -1,0 +1,43 @@
+---
+court: "High Court of American Samoa"
+docket: "LT 35-81"
+decided: "1981-09-23"
+citations: ["2 Am. Samoa 2d 27"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MURPHY, Associate Justice, Presiding, MAMEA, Chief Associate Judge and TAGO, Associate Judge."]
+parties: ["ATOFA'I FAU NAUMA and her Children, Plaintiffs, v. FAU PULEMAU, Defendant."]
+source_url: "https://static.case.law/am-samoa-2d/2/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 345662
+cites_cases: ["114 So. 2d 237", "269 Ala. 44", "28 Idaho 556"]
+---
+
+# Nauma v. Pulemau
+
+## Majority
+
+This matter came on for trial before the undersigned court on August 31. The action was initiated when plainfiff filed a complaint seeking a permanent injunction against defendant to restrain him from interfering with her peaceful possession and enjoyment of, and ingress and egress to, certain land upon which she and her children dwell. The defendant answered and counterclaimed seeking an order of eviction. Testimony and evidence was received by the court and the matter was taken under advisement. From the testimony and evidence the court makes the following findings of fact.
+The land Mali'o, upon which the plaintiff resides, is communal land of the Fau family. The Plaintiff Atofa'i Olive claims a relationship to the Fau family through her mother. Her mother's father was a Fau title holder. She was born in 1913 and from 1925 until 1961 lived in Western Samoa. In 1961 she received permission from Fau Fa'avae, the title holder, to build a house and dwell on the property.
+She has resided upon the land until the present time. Fau Fa'avae was the father of the present title holder, Defendant Fau Pulemau. It is undisputed that the defendant is a senior matai of the Fau Family. Plaintiff and five of her daughters eventually constructed five Samoan fales on the subject property at a total cost of approximately $4,500. She rendered service to Fau Fa'avae during his lifetime and has attempted to render service to the present Fau. He has rejected her service and contends that she has no blood relationship to the Fau Family. In his capacity as senior matai he now seeks to evict her and her family from the subject property.
+We must in this case consider two factors in reaching a decision.
+I. The powers of a matai and limitation of his power.
+II. The rights of the family members.
+In the past the high court has addressed these issues with varying results. In Tali v. Tupeona (1961) 4 A.S.R. 199 the court held that the matai has pule over family lands but that it must be exercised fairly and justly for the benefit of the family. The court rejected the matai's effort to evict family members. The court cited its own previous decisions as authority. See also Tuanaitau v. Paogofie (1963) 4 A.S.R. 375 and Fuga v. Olive (1962) 4 A.S.R. 283.
+In addition, the power of the matai to have control over family lands to assign pieces of family land to family members is recognized in such cases as Tiumalu v. Scanlan (1961) 4 A.S.R. 194 and Masalosalo v. Isumu (1962) 4 A.S.R. 309. This court recognized that under Samoan custom, a matai of the family has jurisdiction over the land of his family. Lutu v. Fuimaono (1964) 4 A.S.R. 450. The court in the past has taken upon itself the authority to review decisions of the matai in the management of the family affairs. The result is a series of ad hoc decisions which provide no useful guidelines at all for any future management of the trust res.
+It seems to us that if the action of the matai is lawful, statutorily permissible, and not calculated to destroy or impair the assets of the family with which he is entrusted, the court should not attempt to exercise supervisory control over the assignment of living space, or indeed the denial of such space, to members of the family.
+Due to the series of ad hoc decisions in this area this court is left without any consistent guidelines to direct it in future cases. In the past, the court has vacillated with decisions appearing to vary with the changes in the weather. Therefore, the court today seeks to state some guidelines for the people involved in this case but also for those in the future.
+The Samoan people acquired title to their land through first occupancy coupled with claim of ownership, and this was true before the establishment of the government in 1900. This court recognizes that under Samoan custom communal family land is owned by the family and each member has a right to use a portion. Tuana'itau v. Paogofie (1963) 4 A.S.R. 375. Use of this portion is limited by the judgment of the matai as shown in the findings that evidence sustained that clearing of the land from bush and cultivation of the land established its ownership in the family and not the individual, who occupied with permission of the matai. Fialoa v. Meredith (1941) 2 A.S.R. 129.
+We agree with the past high court decision of Fialea v. Meredith, above, which ' stated that permission to use family lands given to family members by a matai continues as long as the family member lives on and uses the land, subject to changes by the succeeding matai. Id. at 132-33. Additionally, the court said that an oral gift of interest in land by a matai to a family member which is relied upon by construction of a fale and plantations on land cannot be-terminated by mere whim of the matai, but .continues as long as the donee abides by the terms of the gift and continues to live on and use the land, or until the death of the present' matai, who did not intend to bind his successors. Id. at 134-35.
+As we stated above, this administration by the matai cannot be so capricious as to be unjust to the family or wasteful of the land. Therefore, within these guidelines a succeeding matai, in fairness, can change property apportionments made by the previous matai without interference from the'courts.
+It should be noted here that the Fono has recognized that there may arise an occasion to remove a matai. Therefore we have a provision in the statutes to remove a matai for cause and the family always has this avenue of redress available to them outside the courts. Sagapolu v. Tanielu (1922) 1 A.S.R. 331.
+This court does recognize that under common law it has a duty to protect everyone, property holder or not, from abuses of their rights. Therefore a person in possession of land is presumed to have certain rights and this court, in equity, will protect them.
+Although there are no Samoan cases on this point, some American state courts have recognized a private condemnation action, although it is very limited in its force. Blackwell Lumber Co. v. Empire Mill Co. (1916) 28 Idaho 556, 155 P. 680. A person may condemn a private easement if necessary for proper use and enjoyment of his property. However, this person must pay for the private condemnation and it must be a just compensation. City of Dothan v. Wilkes (1959) 269 Ala. 44, 114 So. 2d 237.
+Therefore we hold that a matai is the administrator of family lands, that the court will not interfere if the administration is fair, that a succeeding matai cannot be bound by a previous matai's decisions, that expelled family members may be compensated for their investments/contribution to the land rather than be given the land in question.
+CONCLUSION
+This court states its desire to observe fa'a Samoa which may not have been done in the past but is required by the Treaty of Cession. 48 U.S.C. sec. 1661. Furthermore, we recognize the authority of the matai who has pule over the communal lands.
+Therefore, it is the judgment of this court that the plaintiff be denied her prayer for a permanent injunction and the defendant be allowed to legally evict the plaintiff from the land in question. Although this may appear to be a harsh result, evicting an elderly woman from a home she has occupied for over 20 years, the court "will not get itself into the position of substituting its judgment for that of the matai in the administration of familial affairs." A'au v. Falealili (1980) LT 33-79, at 2.
+However, equity must be done. This woman must be compensated for the loss of her home and the other fales that she built. This court will authorize an appraisal for the property upon petition and determine the amount due the plaintiff at that time.
+ORDER
+It is ordered that the plaintiff's complaint for permanent injunction be denied and that the plaintiff vacate the premises upon payment to her by defendant of just compensation as determined by the court.
