@@ -1,0 +1,45 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 11-89"
+decided: "1990-12-11"
+citations: ["17 Am. Samoa 2d 168"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before FONG, Acting Associate Justice, KLEINFELD, Acting Associate Justice, MALEATASI, Acting Associate Justice, TAUANU‘U, Chief Associate Judge, and LOGOAI, Associate Judge."]
+parties: ["SEIGAFOLAVA R. PENE (H/C) and CARMENCITA PENE, Appellant v. BANK OF HAWAII, Appellee"]
+source_url: "https://static.case.law/am-samoa-2d/17/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 986178
+cites_cases: ["10 F.2d 263", "230 S.W. 566", "254 S.W.2d 716", "3 A.L.R.2d 809"]
+---
+
+# Pene v. Bank of Hawaii
+
+## Majority
+
+Appellants Seigafolava R. Pene (H/C) and Carmencita Pene (hereinafter the Penes) appeal the trial court’s order granting summary judgment in favor of appellee-plaintiff Bank of Hawaii.
+On December 22,1982, plaintiff-appellee Bank of Hawaii loaned appellants, the Penes, $5,000.00 to finance a "promotional trip." See Appellants’ Exhibit A (copy of Note and Security Agreement executed on December 22, 1982); see also Trial Court’s Opinion and Order filed July 18, 1988, at 1. The entire principal amount, plus a finance charge of $270.41, was to have been paid by March 26, 1983, approximately ninety days after the date of the loan. Id.
+It is undisputed that appellants did not repay the loan when it came due on March 26, 1983. On February 25, 1985, Mrs. Pene responded to a bank collection letter with a handwritten note acknowledging the debt and asking that the bank allow the Penes to make $100 monthly payments until she and her husband could find employment. See Trial Court’s Order at 3-4. Four payments totalling $250.00 were made to the Bank of Hawaii between March and August of 1985. Id. at 4.
+On March 28, 1988, plaintiff Bank of Hawaii filed a complaint against the Penes, alleging that the Penes had defaulted on the loan. The Penes filed an answer on May 23, 1988. Thereafter, plaintiff Bank of Hawaii filed a motion for summary judgment, for which a hearing was held on June 27, 1988. On July 18, 1988, the trial court issued an opinion and order granting plaintiff Bank of Hawaii’s motion for summary judgment.
+The Penes filed the instant appeal on July 31, 1989, arguing that the trial court erred in failing to dismiss plaintiff-appellee Bank of Hawaii’s complaint for failure to state a claim upon which relief could be granted.
+This court must decide whether the Note and Security Agreement executed by the Penes on December 22, 1982 is a "written" or an "unwritten" contract.
+Appellants-defendants, the Penes, have argued that the Note and Security Agreement is an "unwritten" contract, and consequently the 3-year statute of limitations found in A.S.C.A. § 43.0120(3) precludes the instant lawsuit. Appellants have argued that since the Bank of Hawaii never executed the agreement by written acceptance, the Note and Security Agreement is null and void. In the alternative, appellants have argued that A.S.C.A. § 43.0120 is unconstitutionally vague and therefore violates appellant’s right to due process.
+Appellants have cited no case authority supporting their argument that the written Note and Security Agreement is, in reality, an unwritten contract. Appellants have argued that the intent of the Fono in drafting A.S.C.A. § 43.0120(5), which provides for a 10-year statute of limitation for written contracts, was to require a writing with the full terms, provisions and conditions of the contract fully set forth, the parties to the agreement ascertainable on the face of the instrument, and execution of the instrument by both parties. See Appellants’ Reply Brief at 2. Appellants, however, have cited no authority supporting their argument that both parties must execute the instrument.
+Appellee-plaintiff Bank of Hawaii has argued that the Note and Security Agreement is a "written" contract and, therefore, the 10-year statute of limitations found in A.S.C.A. § 43.0120(5) applies. Appellee contended that since the cause of action arose when the Penes defaulted on the loan on March 26, 1983, and the instant lawsuit was filed on March 28, 1988, the complaint was timely filed within the ten-year statute of limitations period.
+As a general rule, where an instrument containing all the f '-ms of a completed contract between the two parties is executed by one of the parties and accepted or adopted by the other, the instrument constitutes a contract in writing within the meaning of the applicable statute of limitation, notwithstanding the fact that the instrument may not have been signed by the latter party. 3 A.L.R.2d 809, 819 (1949).
+This general rule was restated in Mills v. McGaffee, 254 S.W.2d 716 (Ky. 1953):
+A written contract is one which is all in writing, so that all its terms and provisions can be ascertained from the instrument itself.
+Id. at 717.
+Appellants have argued that Bank of Hawaii’s reliance on the above authority is misplaced because "[f]ederal statues and related components do not apply to proceedings in the High Court of American Samoa.” See Appellants’ Reply Brief at 1 (citing Security Pacific National Bank v. the M/V Conquest, 4 A.S.R.2d 59 (1987)).
+Appellants’ argument itself is misplaced. First, Bank of Hawaii has not cited any federal authority to support its position. A.L.R. (American Law Reports) is a treatise, and the Mills case is a state appellate decision. Second, although the High Court of American Samoa Trial Division did hold in Security Pacific National Bank v. the M/V Conquest, 4 A.S.R.2d 59 (1987), that a federal statute does not apply to proceedings in the High Court of American Samoa, the court also held that the passage of a federal statute by Congress should be considered in determining whether changed circumstances warrant the application of rules announced in nineteenth-century precedents.
+In the present case, it is beyond dispute that the Note and Security Agreement is an instrument in writing, that all of its terms, provisions and conditions are fully set forth in writing, and the parties to the agreement are ascertainable on the face of the agreement. Although Bank of Hawaii did not sign the agreement, it is clear that bank of Hawaii accepted or adopted the agreement and relied on its validity as a promissory note to repay the $5,000.00 loan. These facts support a finding that the Note and Security Agreement is a written contract and that the 10-year statute of limitations applies.
+Appellants have cited no case authority in support of their position that the Note and Security Agreement constitutes an unwritten contract. Appellee Bank of Hawaii, on the other hand, has cited case authority, albeit old and not Samoan, that supports its position that the Note and Security Agreement constitutes a written contract. Accordingly, the court finds that the Note and Security Agreement is a written contract, and therefore, Bank of Hawaii's action was filed within the requisite 10-year statute of limitations period.
+Appellants’ alternative argument, that A.S.C.A. § 43.0120 is unconstitutionally vague and violates appellants’ right to due process, is also unmeritorious. Section 43.0120 reads:
+43.0120 Limitations periods. Actions may be brought within the following times after their causes accrue, and not afterward, except where otherwise especially declared:
+*****
+(3) actions founded on unwritten contracts, or brought for injuries to property, within 3 years; *****
+(5) actions founded on written contracts, or a judgment of a court of record, within 10 years.
+The statute clearly expresses that a 3-year statute of limitations period applies to actions founded on unwritten contracts, and a 10-year statute of limitations period applies to actions founded on written contracts. The fact that the statute does not define what constitutes an unwritten as opposed to a written contract does not make the statute unconstitutionally vague. Parties can rely on case law and other legal authority to determine what is meant by an unwritten as opposed to a written contract. Any argument that the statute’s failure to define these terms violated due process is totally frivolous. The court finds that the statute in question is not unconstitutionally vague and that due process has not been violated.
+Accordingly, having reviewed appellants’ arguments in support of their appeal and finding none compelling, the decision of the trial court isi grantisiig plaintiffs motion for summary judgment is hereby AFFIRMED
+Appellants cite cases which explain and define implied contracts, but these cases do not involve the question of how to determine whether a writing constitutes a written contract or an unwritten contract for purposes of determining which statute of limitations applies. See London v. Kansas City Gas Co., 10 F.2d 263 (8th Cir. 1926); Caldwell v. Missouri State Life Ins. Co., 230 S.W. 566 (Ark. 1921).
