@@ -1,0 +1,27 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 45-90"
+decided: "1992-10-28"
+citations: ["23 Am. Samoa 2d 22"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, LOGOAI, Associate Judge, MAILO, Associate Judge."]
+parties: ["UTU SINAGEGE and UTU FAMILY, Plaintiffs v. PAOLO SIVIA, MOENOA SIVIA, and PAOLO FAMILY, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/23/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 493071
+---
+
+# Sinagege v. Sivia
+
+## Majority
+
+The Utu family seeks to enjoin the construction of a certain structure by the Paolo family on land which each party claims as its communal property. The construction concerned is a proposed, 16’ x 16’ "FEMA home” of hurricane Ofa era. It consists of a concrete slab to which wooden framing was later added, notwithstanding the issuance of a preliminary injunction. The proposed structure is intended to replace a fallen faleo‘o (a small shack), which plaintiffs have described as an umu (a cook house) but which the defendants have said was also a residential structure. The plaintiffs maintain that the disputed site is a part of their burial ground located on Utu land known as "Malaetele." They acknowledge the Savea family alone as their neighbor to the east, claiming that the Paolo family came upon Malaetele through the permission of Utu Ta‘a. The Paolo family, on the other hand, claims that the site is within Paolo-family land known as "Amoamoniu"; they claim that Utu’s presence in the area was derived through the pule (authority) and permission of a past Paolo titleholder. After the evidentiary hearing, the court visited the disputed site.
+The location of the construction is immediately adjacent to, if not upon, what is very obviously a long-established cemetery. While a few of the more recent graves are well-marked and appear to be attended to, a great number of the other graves are very evidently neglected and perhaps even forgotten. Indeed, the testimony alluded to an umu that was once set up amidst the graves by a member of the Utu family and to a driveway, set up by the defendants, which traversed through the graveyard until one Utu tomb started to cave in. (The tomb has since been visibly marked with characteristic concrete work).
+For the reasons given, we find that the disputed site lies within the Utu family’s communal land. First, the burial ground is clearly that of the Utu family. Except for two relatively recent burials of the Paolo family, the cemetery is comprised entirely of late Utu members. In our assessment of the evidence, the fact of Paolo burials in the graveyard is better explained by plaintiffs’ permission claim, rather than by defendants’ somewhat-tenuous attempt to set up a boundary line through the cemetery~a boundary line which not only proposes to incorporate the two Paolo graves but also unavoidably those of Utu-family members as well. Additionally, the Utu-family presence in the vicinity is markedly more established. Towards the sami side of the old graves, the Utu guest-house is located on a site that has been long established for that purpose-the Utu guest-house site, traditionally known as "Mataava." Utu testified that there have been in his lifetime at least three different Utu guest-houses built on the site. Furthermore, the Utu family has had houses in the immediate vicinity for many generations.
+By comparison, the Paolo presence is only of recent origin; theirs is a history which can hardly be viewed as that of an extended family with long-established roots in the disputed area. The defendants are the son and grandchildren of Paolo Fa‘aoli, who first came into the vicinity in the early 1940s following his ministry with the Methodist Church. The parties had for many years managed to co-exist in harmony until, it seems, the defendants began to replace their faleo‘o-type housing with modern structures of a more-permanent nature. For instance, the claimed Paolo guest-house, the first one they have ever built on the site, originated as the private residence of one Fita S. Paolo, a grandson of Paolo Fa’aoli. It was built in 1974 over the unsuccessful objection of certain Utu-family members, at a time when the Utu title was vacant. The site had previously housed a faleo‘o which, according to the testimony of Sivia Paolo, had been occupied by him. Similarly, the genesis of the dispute before us is, as alluded to above, defendants’ attempt to a replace another faleo’o, destroyed by hurricane Ofa, with a new structure, albeit 16’ x 16’, involving concrete and other building materials of a more-lasting nature.
+We find that the preponderance of the evidence favors the Utu family and conclude that the proposed construction by the Paolo family is located on communal land of the Utu family. The defendants are hereby permanently enjoined from further construction on the said burial ground. The defendants shall have 60 days to remove, without disturbing any of the graves in the vicinity, their property from the site.
+It is so ordered.
+See Lavea‘i v. Paolo, LT No. 1391-74 (1974).
+Subsequently, on November 6, 1985, Fita Paolo executed a deed in favor of his father, defendant Paolo Sivia, transferring his "europeantype house . . . located on a certain portion of land known as ’Mataava.’"
