@@ -1,0 +1,25 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 16-90"
+decided: "1992-06-23"
+citations: ["21 Am. Samoa 2d 115"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, GOODWIN, Acting Associate Justice MUNSON, Acting Associate Justice, VAIVAO, Associate Judge, and BETHAM, Associate Judge."]
+parties: ["OPAPO AFUALO, Appellant v. T.M. PUAILOA, MOEA‘I UILIATA, ALAI'A FILIFILI, and PENIROSA FANENE, Appellees"]
+source_url: "https://static.case.law/am-samoa-2d/21/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11896554
+---
+
+# Afualo v. Puailoa
+
+## Majority (RICHMOND, J.:)
+
+RICHMOND, J.:
+This is an appeal from a decision of the Land and Titles Division in two consolidated cases over the offer of registration of a parcel of land on the western slopes overlooking Malaeimi Valley, Tutuila. In the first case, appellant Opapo Afualo (Afualo) offered the 24-acre tract for registration as the individually owned land of "the children of Luteru Afualo" in 1988, and the Appellees objected. T.M. Puailoa (Puailoa) claimed that the land belonged to his communal family; Penirosa Fanene (Fanene) claimed that he owned the land by right of original occupation; and Moea‘i Uiliata and Alai‘a Filifili (the Faleniu families) claimed that the land belonged to the communal families of Faleniu, an adjacent village. The second case was an injunctive action by Afiialo against Puailoa and his son-in-law, also relating to this tract.
+The trial court found that Afualo’s father, Luteru Afualo (Luteru), came to Malaeimi in his capacity as an officer or employee of the Mormon Church (the Church), which long occupied a tract of approximately 300 acres of the Malaeimi Valley (the 300-acre tract) adjacent to the present survey, and began cultivating land that overlapped the boundary of this 300-acre tract as a licensee of the Church. Additionally, the court found that Afualo had not sufficiently proved that he had acted on his own account under a claim of right in cultivating land outside that possessed by the Church. The court also found that the preponderance of the evidence showed that the present 24-acre survey was cleared by a Church group that Luteru supervised, not by Luteru himself. The court concluded that activities of those acting as licensees cannot give rise to claims of ownership. Finally, the court found that Afualo did not claim individual ownership of any land in Malaeimi until 1987, after Puailoa, claiming that it was Puailoa communal land, ordered Afualo to leave the land. Because the court found that Afualo did not present evidence sufficient to prove ownership, it held that he could not claim the land. The trial court did not determine who ultimately owns the land because it had insufficient evidence to decide between Puailoa and the Faleniu families.
+Afualo now appeals, claiming that the trial court erred because there was not sufficient evidence to support its finding that Afualo was acting as a licensee of the Mormon Church or its finding that Afualo did not claim the land in the present 24-acre survey as individually owned land before 1987. Appellant also urges that the preponderance of the evidence supports his position, but this Court is not free to weigh the evidence or determine where the preponderance lies; instead, we must examine the evidence only to determine whether the trial court’s decision was clearly erroneous.
+The issues on appeal here are ones of fact. The relevant test is not whether there were facts in the record sufficient to support a decision for the appellant, but whether there was sufficient evidence to support the trial court’s decision. The court carefully considered the testimony offered by both interested witnesses and disinterested witnesses, as well as the surveys and photographs submitted by the various claimants. The trial court’s thorough and well-reasoned opinion addressed the plausibility of each claimant’s theory on who cleared the land, when, and why, and it was clearly supported by sufficient evidence. Thus, the trial court’s resolution of these issues was not clearly erroneous. On the contrary, it was very well supported on the record. We therefore AFFIRM.
+Fanene claimed that he owned a tract of land within the 24-acre survey by right of original occupation. The trial court found that while the Fanene family does own Malaeimi land on the sami or sea side of the main government road, Fanene does not own the parcel at issue, which is on the mauga or mountain side of the road, either because he is collaterally estopped from making this claim, see Reid v. Fanene, LT No. 7-79 (one of the consolidated cases decided in Reid v. Puailoa, 1 A.S.R.2d 85 (1983)), or because the land had long been occupied by someone and was therefore not susceptible to new "original occupation. ” Fanene did not appeal this decision, and although he is named as a party by appellant, Afualo does not contest the Fanene portion of the decision.
