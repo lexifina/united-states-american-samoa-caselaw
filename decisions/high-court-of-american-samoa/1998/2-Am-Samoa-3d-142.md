@@ -1,0 +1,51 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 121-95"
+decided: "1998-03-04"
+citations: ["2 Am. Samoa 3d 142"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: KRUSE, Chief Justice, TIUANU'U, Chief Associate Judge,’ and SAGAPOLUTELE, Associate Justice"]
+parties: ["TAGAIMAMAO MASANIA'I, Plaintiff, v. APOUA AND BILL TEDRICK d.b.a. THE COUNTRY CLUB, ASUELU TIUMALU, SAMOA ALEFOSIO and ROBERT FAIRHOLT, Defendants."]
+source_url: "https://static.case.law/am-samoa-3d/2/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8434485
+cites_cases: ["256 S.E. 2d 879", "421 U.S. 397", "765 F.2d 1069"]
+---
+
+# Masania'i v. Tedrick
+
+## Majority
+
+ORDER DENYING MOTION FOR A NEW TRIAL
+Introduction
+Masania'i sued Bill and Apoua Tedrick d.b.a. the Country Club (referred to jointly as the “Country Club”) and Asuelu Tiumalu (“Tiumalu”) and Samoa Alefosio (“Alefosio”) to recover the damages suffered on the evening of February 24, 1994. A contested trial was held with counsel for both sides present. On January 9, 1998, we found that the Country Club breached its statutory duty to refuse to allow admittance to an intoxicated individual, thereby violating A.S.C.A. § 27.0531(f). We also found Tiumalu and Aiefosio liable for battery.
+We found the Country Club liable for 25 percent of the damages as follows: $79,499 for future wages and $25,000.00 for pain and suffering. Total damages accorded these defendants were $104,499.
+We ordered Alefosio and Tiumalu jointly and severally liable for 50 percent of all damages as follows: $158,997 for future earnings, $50,000 for general damages including pain and suffering and $100,000 in punitive damages. Total damages accorded these defendants were $308,997.
+On January 20, 1998, Masania'i brought a motion for a new trial, arguing that the court mistakenly neglected to apply joint and several liability to all defendants. On January 18, 1998, the Country Club also brought a motion for a new trial, alleging that insufficient evidence existed for the court’s finding that the Country Club breached its statutory duty under A.S.C.A. § 27.0531(f).
+Discussion
+A. Apportionment of Fault and Liability
+The first issue presented to us by plaintiff deals with the apportionment of fault and liability. Plaintiff argues that “but for his admittance onto the premises of the Country Club, he would not have been hurt” — and, therefore, joint and several liability should apply. Plaintiff posited an alternative argument — that “it is impossible to say how much damage is apportioned to which actor.” (Oral Argument, February 17, 1998.)
+We find that although each actor may have played a role in the harm suffered by Masania'i, the conduct of each was not jointly linked. Masania'i would not have been hurt had he not been out there seeking and inciting trouble. But, on the other hand, he would not have suffered had others, including Tiumalu and Alefosio, not acted on their compulsions, conduct which served as the supervening cause of his harm. These actions serve as disparate links in the harm suffered by Masania’i and these parties did not act in concert as part of one inextricable, continuous act. We, therefore, do not believe that they fall within the intended strictures of joint and several liability, a remedy which is invoked when the harm is considered indivisible or the tortfeasors were acting in concert. We also believe that it is possible to apportion liability in this case, a fact which negates the need to invoke joint and several liability. This court has apportioned damages in the past and believes that the allocation of fault is fitting here.
+Legislatures enacted comparative liability statutes for a simple reason: to eliminate the harsh result of the complete bar to recovery that would result when the plaintiff himself may have been partially at fault.
+This statutory and judicial departure to the common law served to achieve greater fairness in situations in which even the most minor contributory negligence may have barred any sort of recovery. By enacting A.S.C.A. § 43.5101, the Fono clearly abolishes the contributory negligence bar to recovery, but remains silent on the appropriate application of the principles of joint and several liability or comparative fault in a multiple tortfeasor situation. The court, therefore, must decide on the proper standard to apply.
+In the past, we have diverged from strictly adhering to the common-law rule of joint and several liability when we find it is possible to ascertain and allot comparative liability to the parties involved. While it is trae that this course is one that only a minority of jurisdictions have adopted, we feel it the most just position to take. And moreover it is under our purview to adopt this albeit minority position, but one which marks the emerging trend in the common law.
+The fundamental goals of fairness and equity underlied the Fono’s statutory divergence from the common law and they similarly motivate us here. Oliver Wendell Holmes observed, “The law should be stable, but should never stand still.”
+Just as comparative negligence is a more equitable outcome than contributory negligence, so is the apportionment of liability according to fault. If it is possible to estimate and assign fault, this would be a more equitable and fitting approach than automatically deeming liability “joint and several.”
+Moreover, we disagree with plaintiffs argument that we should diverge from the common law in one instance (i.e. to grant him relief notwithstanding his own contribution to his injuries) and invoke the common law in another (i.e. to grant joint and several liability to all defendants) for ostensibly no reason other than to afford him the greatest award of 'damages. We can come to no other conclusion since the rationale and logic underlying these arguments counter, and thus negate, each other.
+Abrogating the harshness of contributory negligence doctrine was the intention of the Fono when they passed A.S.C.A. § 43.5101. This statutory modification served as a legal departure from the common law that more equitably apportioned liability according to culpability. Although not explicitly stated in the statute, this statute operationally functions as a comparative fault mechanism.
+This court has previously affirmed the doctrine of comparative fault in our jurisdiction. In United Airlines Employee Credit Union v. M/V Sans End, 15 A.S.R.2d 95, 106 (1990), the court relied upon the rule enunciated by the United States Supreme Court: “liability for such damage is to be allocated among the parties proportionately to the comparative degree of their fault.” United States v. Reliable Transfer Co., 421 U.S. 397, 411 (1975). See also Hercules, Inc. v. Stevens Shipping Co., 765 F.2d 1069, 1075 (11th Cir. 1985) (in which the court refused to allow the doctrines of intervening negligence and last clear chance to circumvent the concept of proportional fault).
+In Saufo'i v. American Samoan Gov’t, 14 A.S.R.2d 15 (1990); aff'd 19 A.S.R.2d 54 (App. Div. 1991), the court found plaintiffs themselves liable for a portion of the damages and allocated a percentage of the damages to each of the parties involved. Id. at 20. The court in Interocean Ships, Inc. v. Samoa Gases, 23 A.S.R.2d 76, also relied upon the comparative fault doctrine. Cf. Euta v. Etimani, 24 A.S.R.2d 139 (1993).
+For the aforementioned reasons, we find that the Country Club should not be held jointly and severally liable. This court is not prepared to allow plaintiff to escape all blame for his own conduct under the cloak of this doctrine.
+B. Untimely Filing
+Second, the Country Club seeks a new trial on grounds that the court abused its discretion in finding that Masania'i was intoxicated when he was allowed entry onto the club’s premises. Unfortunately, although defendant submitted this motion in a timely manner, it failed to meet the deadline for the submission of its brief and arguments. As a result, we decline to consider defendant’s motion on procedural grounds. Our order and opinion with respect to this second issue stands without modification.
+Conclusion
+Both plaintiffs and defendant’s motions for a new trial are denied.
+It is so ordered,
+See W. Prosser and F. Keeton on the Law of Torts, Fifth Edition, St. Paul: West Publishing, 459 (1984); RESTATEMENT (SECOND) OF TORTS § 875, “Contributing Tortfeasors—General Rule” and § 876 “Persons Acting in Concert (1979); United Airlines Employee Credit Union v. M/V Sans End, 15 A.S.R.2d 95, 106 (1990); Saufo'i v. American Samoan Gov’t, et al., 14 A.S.R.2d 15 (1990); aff'd 19 A.S.R.2d 54 (App. Div. 1991); Interocean Ships, Inc. v. Samoa Gases, 23 A.S.R.2d 76; Cf. Eute v. Etimani, 24 A.S.R.2d 139 (1993).
+See e.g. Bradley v. Appalachian Power Company, 256 S.E. 2d 879 (W.Va. 1919).
+See supra note 1.
+The Fono enacted statute A.S.C.A. § 27.0531(f) to make those establishments that directly benefit financially from the consumption of alcohol accountable to the public. Along with profit and gain come social and legal responsibility, especially in an area that carries such a high potential for harm. But this statute was not intended to unfairly penalize businesses. It would be unfair to invoke joint and several liability when we find it is possible to apportion fault to the parties involved. The Country Club should not be made to bear the burden of damages alone in the event that indemnification is not possible.
+The Hercules court mled that: Under a “proportional fault” system . . . complete apportionment between the negligent parties, based on their respective degree of fault, is the proper method for calculating and awarding damages.
+We note, however, that a great amount of evidence was presented to the court to show that Masania'i was intoxicated when he entered the Country Club, We carefully weighed the evidence and found that the Country Club breached its statutory duty, under A.S.C.A. § 27.0531(f), to refrain from allowing intoxicated patrons onto the premises. (See Masaniai v. The Country Club, 2 A.S.R.3d 120, 128 which reads, “Masania'i voluntarily consumed an inordinate amount of alcohol.”)
