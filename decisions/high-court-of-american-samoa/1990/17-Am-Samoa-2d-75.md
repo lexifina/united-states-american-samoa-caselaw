@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "MT No. 5-89"
 decided: "1990-11-13"
-citations: ["17 Am. Samoa 2d 75", "17 Am. Samoa 2d 71"]
+citations: ["17 Am. Samoa 2d 75"]
 reporter: "am-samoa-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
