@@ -2,7 +2,7 @@
 court: "High Court of American Samoa"
 docket: "CR No. 8-90"
 decided: "1991-05-14"
-citations: ["19 Am. Samoa 2d 99", "19 Am. Samoa 2d 105"]
+citations: ["19 Am. Samoa 2d 99"]
 reporter: "am-samoa-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. HARRY TAYLOR aka TAPU AVALOGO
 source_url: "https://static.case.law/am-samoa-2d/19/cases/0099-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 987437
-cites_cases: ["430 U.S. 387", "467 U.S. 371", "467 U.S. 431", "66 Cal. Rptr. 95", "712 F.2d 388", "743 F.2d 123"]
+cites_cases: ["467 U.S. 371", "712 F.2d 388", "743 F.2d 123"]
 ---
 
 # American Samoa Government v. Taylor
