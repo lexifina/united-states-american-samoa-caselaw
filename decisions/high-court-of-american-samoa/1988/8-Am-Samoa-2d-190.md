@@ -1,0 +1,42 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 85-88"
+decided: "1988-10-24"
+citations: ["8 Am. Samoa 2d 190"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Chief Justice, TAUANU'U, Chief Associate Judge, and TUIAFONO, Associate Judge."]
+parties: ["DEVELOPMENT BANK OF AMERICAN SAMOA, Plaintiff v. RON PRITCHARD GROUND SERVICES, Inc., Defendant"]
+source_url: "https://static.case.law/am-samoa-2d/8/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 989613
+cites_cases: ["401 U.S. 321", "462 F.2d 214", "544 F.2d 297", "650 P.2d 657", "736 F.2d 538", "88 L. Ed. 2d 114"]
+---
+
+# Development Bank v. Ron Pritchard Ground Services, Inc.
+
+## Majority
+
+In 1982 the plaintiff (hereinafter the Bank) and defendant (hereinafter Pritchard) entered into a lease agreement. The agreement provided in pertinent part as follows:
+1) Pritchard was to rent office space in the Lumana'i Building for five years.
+2) Pritchard was to have an option to renew. (Although most of the text of this provision is missing from the copy of the lease provided to the Court by the Bank, we take judicial notice of the business custom to the effect that options to renew generally belong to the tenant and are most often for a term equivalent to the principal term of the lease.)
+3) Pritchard was not to sublease any portion of his space without permission of the Bank, but the Bank was bound not to withhold such permission unreasonably or arbitrarily.
+4) In addition to paying the rent on a monthly basis, Pritchard was to pay the Bank for his share of the utility bills.
+5) Payment on time was of the essence of the contract.
+At least since 1986 Pritchard has been frequently late with his rent and utility payments. On September 8, 1986, August 19, 1987, January 6, 1988, January 26, 1988, February 3, 1988, March 21, 1988, and July 6, 1988, and perhaps on other occasions the Bank sent letters reminding Pritchard of amounts overdue, emphasizing that time was of the essence, and/or threatening eviction. On August 1, 1988, the Bank sent a notice to vacate by August 31. Pritchard ignored the notice. This led to the present suit for eviction.
+The Bank was no angel either. During 1986 and early 1987 there were problems with the air conditioning of the Lumana'i Building, and Pritchard maintains that the Bank took a casual attitude toward repairs. Although we have insufficient evidence to conclude that this was a breach of the lease agreement, the Bank clearly did breach the agreement in two other ways.
+First the Bank management arbitrarily and unreasonably denied tenants, including Pritchard, the right to sublease. At the time they gave no reason at all; at trial counsel for the Bank said the reason was that some tenants were making a profit by subleasing, and the extra money might as well go to the Bank as to the tenants.
+Then management wrote a letter to the tenants stating that since they were trying to sell the building, no leases would be renewed. Instead all tenants would continue on a monthly basis at the expiration of the current five-year lease. At least in Pritchard’s case this was a violation of the provision giving the tenant an option to renew.
+Pritchard contends that his breaches of the lease were excused by the Bank’s breaches. He also contends that in May 1988 the Bank agreed to a reformation and renewal of his five-year lease.
+This agreement was the result of a request byPritchard to subdivide his space with another tenant. Counsel for the Bank went to the Lumana'i Building with Pritchard and the prospective tenant. They made observations, took measurements, and reached a verbal agreement. On May 10, 1988, counsel for the Bank sent Pritchard a letter whose stated purpose was "to summarize the agreement between you and the Development Bank . . . with regard to the changes made in the subject leasehold agreement."
+The Bank’s letter stated that "[y]ou will retain as your leasehold interest approximately 328.2 square feet." It stated a new rent figure and certain other terms of the agreement, and added that “[i]t is our intent to further memorialize this agreement . . . . Until that time all other provisions of the leasehold agreement entered into on April 26, 1982 . . . shall remain in full force and effect."
+The letter concluded with a request that Pritchard sign and return the letter if the arrangement therein described was satisfactory. At the bottom of the letter was the legend "ACCEPTED:" followed by a blank line for the signature of Ron Pritchard, president of the defendant corporation. The Bank, however, never received the signed acceptance and Mr. Pritchard does not remember whether he sent it. We conclude that he did not.
+We are inclined to agree with Mr. Pritchard that as of May 10 there was an agreement for a new five-year lease on the modified terms, or at least that there would have been such an agreement if Mr. Pritchard had returned the "acceptance.” Both parties had been in breach during the last year of the original five year term. Although Pritchard’s position with regard to a renewal would have been stronger if an exercise of the option had been formally tendered in April of 1987, the Bank’s advance notice that it would not honor such a tender probably excused Pritchard’s failure to make one. In any case, the May 10 letter seems to indicate mutual forgiveness of past breaches and a willingness to enter into a new lease on the same terms as the old one except as specifically modified.
+Even if there was a new agreement, however, Pritchard almost immediately dishonored it. Leaving aside the question whether the failure to return the "acceptance" amounted to a repudiation of any earlier verbal agreement, the evidence reflects that Pritchard was in default again by July 6 and was still in default on August 1.
+On July 6 the Bank notified Pritchard that "[u]tility payments for February 1988, March 1988 and April 1988 are past due." (Emphasis in original.) The letter threatened eviction if the money, along with July rent and a $60 amount still owing on the April rent, was not paid “this month." At the conclusion of the month the Bank carried out its threat, again referring to "amounts past and currently due." These letters are strong evidence that the amounts in question really were past due. Since Pritchard offered no contrary evidence, we conclude that they were.
+The default by Pritchard after May 10 gave the Bank a right to evict him. There is no evidence that plaintiff subsequently excused the default, either by accepting rental payments under circumstances amounting to a waiver or otherwise. Cf. Jose v. Iglesias, 462 F.2d 214 (9th Cir. 1972); Riverside Development Co. v. Ritchie, 650 P.2d 657 (Idaho 1982). Accordingly, judgment shall issue putting plaintiff in possession of the premises.
+It is so ordered.
+At trial, after both sides had presented their evidence and oral argument had begun, the Court asked whether evidence had been introduced about whether Pritchard was in default during July and August of 1988. The Bank offered to produce its ledger, and the Court asked if Pritchard would consent to the reopening of evidence to admit this exhibit. Pritchard objected, however. The Bank made an offer of proof, and Pritchard stated no objection to the exhibit other than that the time for taking evidence was over. The Court reserved judgment on whether to admit the ledger.
+It appears that it is within the Court’s discretion to reopen the evidence in order to admit an exhibit such as this one, which was highly probative and readily available and whose authenticity was not in question. See, e.g., Zenith Radio Corp. v. Hazeltine Research, Inc., 401 U.S. 321, 331 (1971) (motions to reopen the evidence are "addressed to [the trial judge’s] sound discretion]; Students of California School for the Blind v. Honig, 736 F.2d 538 (9th Cir. 1984), vacated on other grounds, 471 U.S. ___, 88 L. Ed. 2d 114 (1985); Calage v. University of Tennessee, 544 F.2d 297 (6th Cir. 1976).
+In this case, however, the ultimate fact proved by the ledger --- that Pritchard was in default at least throughout the month of July --- also clearly appears from the uncontroverted assertions in the Bank’s July 6 and August 1 letters. We therefore decline to admit the ledger and decide the case without reference to it.
