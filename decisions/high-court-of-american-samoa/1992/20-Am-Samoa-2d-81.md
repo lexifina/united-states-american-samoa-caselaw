@@ -1,0 +1,33 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 22-90; AP No. 23-90"
+decided: "1992-03-12"
+citations: ["20 Am. Samoa 2d 81"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, RICHMOND, Associate Justice, MALAETASI, Acting Associate Justice, LOGOAI, Associate Judge, and MAILO, Associate Judge."]
+parties: ["AFOA SANERIVE, Appellant/Appellee v. ASI KOKI, Appellee/Appellant"]
+source_url: "https://static.case.law/am-samoa-2d/20/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 985526
+---
+
+# Afoa v. Asi
+
+## Majority
+
+Afoa Sanerive surveyed 3.43 acres of land in the village of Taputimu and offered the same for registration as the communal property of the Afoa family. His claim attracted the objections of others in Taputimu, including the Asi family, the Meleisea family, and the Si’i family. The Asi family also surveyed their claim, which roughly incorporates about half of Afoa’s claim. The resultant area of dispute between these two families encompasses an area of approximately 1.72 acres which is bisected by a secondary road referred to below as the Taputimu "loop road."
+The trial court, while noting that "neither party had presented a particularly compelling case," slip op. at 3, found the evidence preponderating in favor of the Asi family with respect to that portion of the overlap west of the loop road’s median line (referred to below as the "strip"), and in favor of the Afoa family with respect to the remainder. Afoa and Asi both appeal these conclusions. The court also rejected Afoa’s claim insofar as it extended beyond that section of the loop road where it converges with the main Taputimu-Vailoa highway to the west-northwest. It appeared to the court that this part of Afoa’s survey encroached onto land belonging to the Meleisea and/or Si’i family. Afoa additionally appeals this aspect of the decision.
+These are essentially appeals on the court’s findings of fact, which findings may not be set aside except for clear error. A.S.C.A. § 43.0801(b). Afoa contends that the decision below was clearly erroneous because the "preponderance of the evidence clearly favors [his] side," and that the trial court "failed to give proper consideration to a previous judicial determination." He claims that his testimony about the boundary location was more "clearly" presented while Asi’s key witness, his son Filiva’a, was, on the other hand, vague and uncertain. Similarly, the Asi family assigns error — arguing that their side had given "accounts of plantations and cultivations" on the area west of the strip even prior to the time Afoa made use of the area; that this evidence demonstrates "original and continuous occupation," while Afoa, on the other hand, failed to produce such evidence. They further argue that the court’s use of the loop road as a boundary between them and Afoa was arbitrary and without evidentiary foundation.
+We first note that it is not the appellate court’s function to decide factual issues de novo. Indeed, where credibility is at issue, due deference must of necessity be given to findings of the trial court who had the opportunity to observe and listen to live witnesses. T.C.R.C.P. 52(a); In re Matai title "Tauaisafune", 6 A.S.R.2d 59 (1987); National Pac. Ins. Co. v. Otto. 3 A.S.R.2d 94, 95 (1986). At the same time, the findings of the court, for which there is substantial evidence on the record, will not be disturbed although the record might also reflect that substantial evidence was given in support of the appellant’s position. Suapilimai v. Faleafine, 9 A.S.R.2d 16 (1988). Thus, "[w]hether or not a dissatisfied litigant had himself presented substantial evidence is not. . . the test for clear error. Rather, the question is whether there was substantial evidence to support the trial court’s conclusions." Moea’i v. Alai’a, 12 A.S.R.2d 91, 93 (1989).
+After reviewing the record below, we are satisfied that there was substantial evidence on the record to support the trial court’s findings. It seems clear from the judgment below that the court looked to corroborative indices of actual use and occupation given the contradictory testimony. Asi’s version appeared to be more likely with regard to the strip; his family’s claim to use and occupation was partly supported by the fact that the strip contained the curtilage of one of their family homes.
+On the other hand, Afoa’s claim to the remainder of the overlap--to the land east of the loop road — was corroborated by his acknowledged use of this area; he not only raised chickens in this vicinity but he also allowed a third party have a plantation in this area for a number of years. The attempts by the Asi family to explain this anomaly by way of permissive use was simply not convincing to the trier of fact. The court explained:
+Although stranger things have happened, it does not impress us as very likely that Asi would have allowed another matai with plenty of his own land to build a chicken coop on Asi land. . . .
+Slip op. at 3. This is hardly clear error.
+Additionally, Asi’s complaint about the delineation of the boundary line along the loop road also fails to impress. The court’s demarcation of the boundary as coinciding with the loop road is no more arbitrary than the Asi family’s own use of another part of the road to delimit their asserted claim. The line was drawn by the court according to the extent of each party’s possession. There is substantial evidence on record to sustain such a conclusion.
+Finally, with regard to the objections of Meleisea and Si’i, the court had substantial evidence to find that Afoa’s possession extended only up to the edge of the main road. Among other things, Meleisea’s understanding of the boundary was corroborated by the understanding of other matai of Taputimu. Afoa’s favorable comparisons of his testimony against that of Chief Meleisea’s also fails to impress.
+We AFFIRM the judgment below.
+It is so ordered.
+The senior matai of the Asi family, Asi Koki, was apparently infirm by the time of trial and not capable of testifying.
+Afoa’s reference to a "previous judicial determination," is, at best, desperate. The reference is to an interlocutory order of the land and titles division enjoining an Asi family member from the construction of a septic tank that "possibly . . . may be [sic] situated on [Afoa’s] land." Afoa Sanerive v. Asi Sipusi, LT No. 42-80, (Order entered Sept. 8, 1980) (emphasis added). This matter never went to trial but was dismissed without prejudice on June 22, 1989, upon Afoa’s own motion.
