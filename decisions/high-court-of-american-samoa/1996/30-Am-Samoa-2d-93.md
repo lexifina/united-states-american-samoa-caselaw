@@ -1,0 +1,44 @@
+---
+court: "High Court of American Samoa"
+docket: "CR No. 9-94; CR No. 44-94"
+decided: "1996-07-12"
+citations: ["30 Am. Samoa 2d 93"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, AFUOLA, Associate Judge, and LOGOAI, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. THERESA FANUAEA GURR LEIATAUA, Defendant"]
+source_url: "https://static.case.law/am-samoa-2d/30/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400165
+cites_cases: ["282 U.S. 304", "454 U.S. 201"]
+---
+
+# American Samoa Government v. Leiataua
+
+## Majority
+
+Order Denying Motion To Correct Illegal Sentence and Revising Dates of The Detention Condition of Probation:
+On November 6, 1995, this court sentenced defendant Theresa Fanuaea Gurr Leiataua ("Leiataua") to two concurrent five-year terms of imprisonment for her convictions of two counts of bank larceny and fraud in violation of A. S.C. A. § 28.0111. Execution of the sentence was suspended and Leiataua was placed on probation for a period of five years. She was required to serve a 20-month period of detention as one of the conditions of probation, subject to refinement when and if the pending motion for reconsideration or new trial was withdrawn or denied.
+On January 11, 1996, after the motion for reconsideration or new trial was denied and following a further hearing on fixing the final conditions of probation, we revised the detention condition. We retained the 20-month detention period, but suspended execution of 10 of those months and required Leiataua to serve the remaining 10 months, commencing January 16, 1996 and ending November 15,1996. She was to be detained for the first three months without release, except by prior court order or in a medical emergency. Beginning on or after April 16, 1996, she was permitted daytime work release to perform gainful employment, leaving the correctional facility no earlier than 6:30 a.m. and returning there no later than 5:00 p.m., Monday through Friday of each week. She could commence work release only after the employer's submitted written verification of her employment submitted to her probation officer.
+On February 5, 1996, however, this court granted Leiataua temporary release from the correctional facility for purposes of traveling to Hawaii for medical examination and, if necessaiy, for treatment. Leiataua was to serve her remaining detention time as condition of probation upon her return to American Samoa, with one half-day added for each day she spent on the medical release, or with a minimum of one day added, depending on the circumstances, for each day if she was malingering.
+Modification of the Detention Condition
+Leiataua now argues that our order increasing her period of detention for every day of her medical release violates the double jeopardy prohibitions of the United States Constitution and the Revised Constitution of American Samoa. See U.S. Const, amend 5; Revised Const, of Am Sam art. I § 6. Leiataua relies solely, for this contention, on a statement by the U.S. Supreme Court in United States v. Benz, 282 U.S. 304, 307 (1930) (quoting Wharton, Criminal Pleading and Procedure § 913 (9th ed.)):
+As a general practice, the sentence, when imposed by a court of record, is within the power of the court dining the session in which it is entered, and may be amended at any time during such session, provided a punishment partly suffered be not increased. . . . [T]o increase the penalty is to subject the defendant to double punishment for the same offense in violation of the Fifth Amendment to the Constitution....
+In this case, however, detention was ordered as a condition of probation, pursuant to A.S.C.A. § 46.2206, and any condition of probation may be modified by the court at any time. A.S.C.A. § 46.2205(b). The U. S. Supreme Court clearly stated that the legislature has the power to permit the courts to modify conditions of probation in view of changed circumstances.
+The dissenting opinion asserts that our interpretation of congressional intent is inconsistent with the common-law rule that “a punishment already partly suffered be not increased.” That common-law rale simply does not apply when Congress has provided a court with the power to modify a sentence in light of changed circumstances. For example, a court may impose a sentence and probation, under the general probation statute____If the defendant violates the terms of his probation, the court may “increase” the punishment by requiring him to serve the initial sentence.
+Ralston v. Robinson, 454 U.S. 201, 217 n.10 (1981).
+Circumstances in this case materially changed after our order of January 11. On February 5, unlike in other jurisdictions, Leiataua was required to leave the jurisdiction of this court in order to receive the specialized medical diagnosis then indicated. The medical Release gave Leiataua a temporary reprieve from her period of detention and diluted the punishment, rehabilitative and deterrent aspects of her detention. It also gave her opportunity to further weaken these detention purposes by needlessly prolonging her stay in Hawaii. The addition of one half-day of detention, or more if appropriate, for every day of release from detention was, and still is, intended to strengthen the detention objectives in a way that is rationally related to the manner in which it was weakened by the reprieve from detention. The added detention time was also aimed at inducing Leiataua to complete her medical tests and return to American Samoa in a timely manner.
+Aside from the fact that we only changed a condition of her probation, not Leiataua's sentence, we also point out that in one sense, we did not even increase the period of detention. We imposed a 20-month detention period on Leiataua, the permissible maximum under A.S.C.A. § 46.02206(2), and suspended the execution of 10 of those months. The modification of the detention period only requires her to serve a portion of the suspended 10 months, which in no event could ever exceed the 20-month maximum. More important, however, the modification is expressly authorized by law and is based on an actual change in circumstances.
+For the above reasons, we will deny Leiataua's motion to correct the sentence. 1
+Revised Dates of Detention
+Leiataua's medical release in Hawaii began on February 16, 1996, and ended when she returned to American Samoa on June 19,1996, a period of 135 days. She actually returned to custody on June 25, 1996, five days later, for a total release time of 140 days. Thus, adding 67 and one-half days to the detention period for the time on medical release, Leiataua now must serve 207 and one-half days in detention at the correctional facility beyond November 15, 1996, or until noon on June 19, 1997.
+We will not modify the three-month no-release period before Leiataua may commence work release, but will reset die earliest starting date for work release. Leiataua served 21 days of the three months prior to her release on February 5. She must serve another 69 days before she has complied with this order. Thus, we will now establish September 3, 1996, the first workday in September, as the date when she may commence work release. The employer's prior submission of written verification of Leiataua's employment to her probation officer remains a prerequisite for work release to begin.
+Order
+1. The motion to correct the sentence is denied.
+2. Leiataua's present detention period now ends at noon on June 19, 1997.
+3. Leiataua may commence work release on or after September 3, 1996, provided she has actual gainful employment, which the employer has previously verified in writing to her probation officer. She may then leave the correctional facility no earlier than 6:30 a.m. and return no later than 5:00 p.m., Monday through Friday, to perform her employment.
+It is so ordered.
+The order of January 11, 1996, mistakenly set the ending date on December 15, 1996. This miscalculation is a clerical error and is formally corrected by this present order.
+Leiataua was diagnosed free of her feared disease at least as early as April 22, 1996, and ultimately further testing scheduled on June 2, 1996, was canceled. According to other reports, she was very active in other activities while in Hawaii. We are inclined to believe that Leaitaua violated at least the spirit of our February 5 order, and we could be persuaded that she was in fact malingering.
+Leiataua was not remanded to the correctional facility immediately upon her return on June 19,1996, but was permitted to remain in a release status in order to participate in the funeral and related activities for her mother on June 20-23, 1996. On June 24, 1996, she was remanded to custody as of 9:00 a.m on June 25, 1996.
