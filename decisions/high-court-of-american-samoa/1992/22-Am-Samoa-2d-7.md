@@ -1,0 +1,29 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 23-92"
+decided: "1992-07-10"
+citations: ["22 Am. Samoa 2d 7"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, AFUOLA, Associate Judge, and LOGOAI, Associate Judge."]
+parties: ["TALAUEGA LETUMU, POLAPIITASI FIASEU, and FAIAAI F. MATA’U, Plaintiffs v. SAMOA and JEANETTE MULIPOLA, and AIAVA UA, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/22/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 985625
+---
+
+# Talauega v. Samoa
+
+## Majority
+
+This dispute is essentially between first cousins, who are members of the Fiaseu family of Masausi, and it concerns entitlement to a certain homesite located on a ridge separating Masausi and Fagaitua. The site once contained the home of plaintiffs’ (Talauega Letumu and Polapiitasi Fiaseu) sibling, Vai Fiaseu, who built his home thereon in 1983 on the basis that the site was part of the Fiaseu family’s communal land "Sopomaleula." At the time Vai Fiaseu was also holding himself out as the senior matai of the Fiaseu family (having gone through a matai-installation ceremony with the village and having undertaken the matai-title registration process as required by statute), and as such he executed a separation agreement for the construction of his home. He subsequently moved off-island. Sometime thereafter his cousin, Jeanette Mulipola, approached plaintiffs about the use of their brother Vai’s home, since she and her husband were planning to build a home of their own on the opposite side of the road. Plaintiffs agreed; Jeanette and her husband consequently moved into Vai’s house and commenced construction of a house of their own across the road.
+It seems that the Mulipolas have since taken the position that plaintiffs’ side of the family has no right whatsoever to Sopomaleula. Plaintiff Talauega testified that in 1987, Jeanette’s father Pesefea Utu, who has been living off-island since 1952 and was visiting at the time on a church-related conference, told him and his sister that they had no rights at all to lands in the village of Masausi and that plaintiffs should confine themselves to Sailele village, where they belong. Talauega further testified that Pesefea also gave him and his sister the ultimatum that Vai’s house would be burnt to the ground if plaintiffs’ side of the family refused to stay in Sailele. He also testified that Vai’s home was indeed burnt to the ground - and that the Mulipolas had thereafter commenced to erect yet another home on the disputed site, after obtaining a building permit under signature of the defendant Aiava Ua, who now holds himself out illegally as the Fiaseu titleholder. Plaintiffs seek a preliminary injunction to halt the construction by the Mulipolas, pending trial on the merits.
+At the hearing, Pesefea Utu claimed that the site in question is part of his individually owned land, also known as "Sopomaleula." He claims that he began clearing the land after the Second World War; however, he also acknowledges that he went upon this area after obtaining permission from his father, the then-Fiaseu titleholder. Vai Fiaseu, who also attended and testified at the hearing, disputes his uncle’s claim to individual landholding.
+We hold that plaintiffs have established sufficient grounds for the issuance of a preliminary injunction pursuant toA.S.C.A. §43.1301(j). We conclude that there is a substantial likelihood that the applicants will prevail at trial on the merits. The evidence here essentially reveals a forced ouster of one Fiaseu family member by another on the unlikely premise that the land in question is individually owned land. Among other things, the evidence tended to show that Pesefea Utu had gone on the land Sopomaleula through permission of the family matai. This is hardly consistent with individual ownership. See Fanene v. Magalei, LT No. 64-77 (1977).
+On the issue of great or irreparable harm, we find in favor of plaintiffs. The Court visited the scene and observed a rectangular, concrete foundation with cinder-block walls in the process of going up; the slab had yet to be poured. The construction is located somewhat precariously on the edge of a steep ravine, with little room for anything else on the site. On the opposite side of the road, however, we also noticed an impressive structure yet to be completed. This is the home which the Mulipolas were originally building, while temporarily occupying Vai Fiaseu’s home, which subsequently burned. This structure has been substantially built; however, its construction has been very obviously halted while the complained-of construction was begun. In the circumstances, it is difficult to resist the conclusion that the primary purpose behind the construction complained of is an attempt, in derogation of plaintiffs’ claims to entitlement, to assert pule in a permanent way — a concrete fixture of defendants’ choosing. This construction ic in a preliminary stage, and in our view, the equities weigh in favor of a provisional injunction to secure the status quo until a decision on the merits of this case.
+IT IS THEREFORE ORDERED that construction, by the defendants and all those in active concert with them, on the structure located on the site that contained Vai Fiaseu’s house until it was burnt, is hereby ENJOINED until final disposition hereof.
+This enactment provides:
+"Sufficient grounds for the issuance of a preliminary injunction" means:
+(1) there is a substantial likelihood that the applicant will prevail at trial on the merits and that a permanent injunction will be issued against the opposing party; and
+(2) great or irreparable injury will result to the applicant before a full and final trial can be fairly held on whether a permanent injunction should issue.
