@@ -1,0 +1,35 @@
+---
+court: "High Court of American Samoa"
+docket: "CR No. 47-89"
+decided: "1989-09-29"
+citations: ["12 Am. Samoa 2d 111"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Associate Justice, VAIVAO, Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. TUIA T. LAUMOLI, Defendant TUIA T. LAUMOLI and MASALOSALO I'AMENE, Respondents to Order to Show Cause"]
+source_url: "https://static.case.law/am-samoa-2d/12/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 455856
+---
+
+# American Samoa Government v. Laumoli
+
+## Majority
+
+On Order to Show Cause:
+On September 27, 1989, having been presented with evidence that the respondents violated the Court’s previous order by causing Tuia Laumoli to be released from the Correctional Facility on Saturday, September 23, the Court ordered respondents to show cause why they should not be held in contempt of Court and sentenced accordingly,
+The hearing on the Order to Show Cause was held Thursday, September 29, and continued to Friday, September 30. Tuia Laumoli was represented by counsel. Masalosalo Pamene, the Warden of the Correctional Facility, was advised of his right to counsel and chose to represent himself. Each of the respondents was given the opportunity to present evidence, and each respondent testified on his own behalf. The Court then heard other witnesses, after which each respondent presented further evidence in rebuttal.
+The Court finds that respondent Tuia Laumoli was released from the Correctional Facility on Saturday, September 23, in direct violation of the Court’s order that he not be released "for any reason except medical emergency." The Court further finds that both respondents were aware of the terms of the order and wilfully disregarded them.
+There is no merit in the Warden’s contention that since the copy of the order he initially received did not bear the signatures of the judges, the order was not binding on him. The sentence in this case was announced from the bench on Wednesday, September 20. The Attorney General’s office then drafted a written order which was presented to the Court for review and signature by the judges. The Warden was apparently provided with a copy of this document at the same time it was presented to the Court.
+An order issued in open court is binding from the moment it is announced, whether or not it is ever reduced to writing. In providing the Warden with a document stating the terms of Tuia Laumoli’s sentence, the Attorney General’s office was doing exactly what it should have done in its capacity as lawyer for the Government: acting to ensure compliance by government officials with an order that had already been publicly announced in the presence of counsel for the Government and was already binding on the Government as well as on the defendant. The Attorney General’s office was under no duty to wait until the judges had signed the written order before providing a copy to the Warden. Receipt of this document imposed a duty on the Warden to inquire further of the Court or the Attorney General’s office, at the very least, before releasing the defendant in direct violation of the notice he had been given.
+Nor is there any merit in the contention of both respondents that they did not fully understand the sentence. Even without the specific admonition that defendant was not be released except for medical emergency, most people would understand a sentence of "seven weekends in the Correctional Facility" to exclude the possibility that defendant could spend all day Saturday at a rugby game.
+Moreover, if the respondents had not known they were doing wrong they would presumably not have bothered to cover their tracks. Although the Warden authorized the release of Tuia Laumoli on Friday night and again on Saturday, the records of Tuia’s comings and goings on both days are conspicuously absent from the prison log book. Each respondent also lied to the Court when first asked whether Tuia had been released on Friday night. Under repeated questioning from the Court, both respondents stuck to their story that Tuia had been present in the Facility at all times between 6:00 p.m. Friday and 9:00 a.m. Saturday. They admitted the contrary only after testimony by two witnesses who had seen Tuia elsewhere that night and by a third (Acting Commissioner of Public Safety Fonoti Jessop) to whom the Warden had admitted authorizing the Friday release.
+The respondents are accordingly held to be in contempt of Court and are sentenced as follows:
+Respondent Tuia Laumoli is sentenced to serve thirty days in the Correctional Facility. Execution of the sentence is suspended on condition that Tuia serve the remaining term of his sentence for Second Degree Assault in strict accordance with the conditions imposed by the Court, and that he also serve two additional weekends in the Correctional Facility.
+The total number of weekends included in both sentences, including the weekend of September 22-24, is nine (9). Respondent shall report to the Facility no later than 6:00 p.m, each Friday and shall leave no earlier than 6:00 p.m. on Sunday. During his periods of detention he is not to leave the Facility for any reason other than medical emergency.
+Respondent Masalosalo is also sentenced to serve thirty days in the Correctional Facility. Execution of the sentence is suspended apd respondent placed on probation for a term of two years on condition that he pay a fine of $500 no later than October 13, 1989, and that he comply strictly with the terms of all Court orders.
+This sentence is imposed only for the contempt of Court constituted by the release of respondent Tuia on Saturday. Although evidence of the release on Friday was relevant to the veracity of both respondents and to the pattern of conduct underlying the Saturday release, it is a separate incident with respect to which po Order to SJiqw Cause was issued.
+It is so ordered.
+Signing of the written order was delayed until Friday, September 22, pending the expedited hearing of a motion by defendant Tuia Laumoli asking the Court to revise his sentence. The signed order was served on the Department of Public Safety late Friday afternoon. The Warden says he did not personally receive a signed copy until Monday, September 25, but admits having read the unsigned copy on or before the previous Friday.
+At the request of the Speaker of the House, a slight change will be made in the schedule of respondent’s sentence for the weekend of September 29 to October 1. In order to allow respondent to attend a meeting of the Fono that is required by law to be held on September 30, his detention for this weekend is modified to allow him to report to the Correctional Facility by 6:00 p.m. Saturday and leave no earlier than 6:00 p.m. on Monday, October 2. The terms of this change are incorporated in a separate written order.
