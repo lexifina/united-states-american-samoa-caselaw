@@ -1,0 +1,27 @@
+---
+court: "High Court of American Samoa"
+docket: "92-1948"
+decided: "1948-11-01"
+citations: ["2 Am. Samoa 408"]
+reporter: "am-samoa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["A. A. MORROW, Chief Justice; MALEPEAI, District . Judge; and APE, District Judge."]
+parties: ["MULI of Iliili and LEITUALA of Iliili, Plaintiffs v. OFOIA LI'A of Iliili and VA of Iliili, Defendants"]
+source_url: "https://static.case.law/am-samoa/2/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 206946
+---
+
+# Muli v. Ofoia
+
+## Majority (MORROW, Chief Justice.)
+
+DECISION
+MORROW, Chief Justice.
+Ofoia Ei’a and Va, his wife, both of Iliili offered certain land designated Leavapui in Iliili for registration as their individually owned property, the offer to register being accompanied by a survey of the tract. Muli and Leituala filed objections to such proposed registration each claiming to be the owner of the land involved. Hence this litigation. Sec. 905 of the American Samoan Code. Prior,to the hearing the court viewed the land in the presence of all parties except Muli who was represented at the view.
+At the trial, however, Muli claimed to be the owner of only a small triangular piece in the northern corner of the tract. He claimed the ownership of such piece as the matai of the Muli family. Leituala claimed to own the surveyed tract as the matai of the Leituala family.
+While there was some conflict in the testimony, as there normally is in this type of case, the court is clearly of the opinion from the evidence that Ofoia and Va cleared all of the tract except the small triangular part claimed by Muli in 1932 at which time it was bush, and that they have had plantations on such part ever since. Fea, an aiga of Leituala, also has a taro plantation on a small part which he put in after the survey was made in early 1948, without the consent of Ofoia and Va.
+Ofoia was born in Upolu 58 years ago. He came to.American Samoa when a boy, living in Nuuuli and Leóne until he married Va some 36 years ago, at which time he went to live with her in her family in Iliili. Va is the daughter of Fao, an Iliili chief. In view of the evidence we think that when this land (except the small triangular piece above referred to) was cleared by Ofoia and Va, it was cleared for the benefit of Va and with the intention that she should become the owner thereof. As a result of clearing and occupation of the part of the tract so cleared we conclude that Va became the owner thereof, her title being an original one. “And, as we before observed that occupancy gave the right to the temporary use of the soil, so it is agreed upon all hands that occupancy gave also the original right to the permanent property in the substance of the earth itself; which excludes every one else but the owner from the use of it. There is indeed some difference among the writers on natural law, concerning the reason why occupancy should convey this right, and invest one with this absolute property: Grotius and Puffendorf insisting, that this right of occupancy is founded on a tacit and implied assent of all mankind, that the first occupant should become the owner; and Barbeyrac, Titius, Mr. Locke and others, holding that there is no such implied assent, neither is it necessary that there should be; for that the very act of occupancy, alone, being a degree of bodily labor, is from a principle of natural justice, without any consent or compact, sufficient of itself to gain a title. A dispute that savors too much of nice and scholastic refinement. However, both sides agree in this, that occupancy is the thing by which the title was in fact originally gained ...” 2 Blackstone 8. The view that the occupant who first takes possession of land with the intention of having it as his own thereby becomes the owner is approved in Maine’s Ancient Law (3rd American Edition) at p. 238. We recently approved this doctrine of acquisition of original title by the first occupant, accompanied by a claim of ownership, in Faataliga v. Fano, No. 80-1948 (American Samoa). This principle applied to the facts as determined from the evidence confirms our conclusion that the part of the surveyed tract cleared by Ofoia and Va is the property of Va.
+Accordingly, it is ORDERED, ADJUDGED, AND DECREED that the land, as shown in the survey, beginning at a point 32.68 feet from the eastern end of the boundary (which point lies in such boundary) designated N 60°20' E, length 150.73 feet, thence N 60°20' E, 32.68 feet; thence N 52°67' E, 67.32 feet; thence S 39°11' E, 100 feet; thence N 81° W, 148 feet to the point of beginning, shall be registered as the communal family land of Muli in his capacity as matai of the Muli family and it is further ORDERED, ADJUDGED, AND DECREED that the remainder of the land as shown on the survey accompanying the offer to register shall be registered as the individually owned land of Va who is the wife of Ofoia Lia. The Registrar of Titles will be advised to register the above land in accordance with the provisions of this decree. Fea will have 60 days within which to remove his taro plantation from the land.
+Since the benefit of the survey made by Ofoia will inure partially to the benefit of Muli, costs in the sum of $5.00 are hereby assessed against him. Costs in the sum of $7.50 are hereby assessed against Leituala; all costs to be paid within 15 days.
