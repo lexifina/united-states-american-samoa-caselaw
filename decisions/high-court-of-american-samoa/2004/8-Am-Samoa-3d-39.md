@@ -1,0 +1,51 @@
+---
+court: "High Court of American Samoa"
+docket: "AP No. 13-03"
+decided: "2004-05-06"
+citations: ["8 Am. Samoa 3d 39"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, GOODWIN, Acting Associate Justice, TASHIMA, Acting Associate Justice, LOGOAI, Chief Associate Judge, and ATIULAGI, Associate Judge."]
+parties: ["AVEA T. VA'AFUSUAGA, Appellant, v. MA'AE TAEI, Appellee. [In re Matai Title “PUAILOA” of the Village of Nu'uuli]"]
+source_url: "https://static.case.law/am-samoa-3d/8/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3500706
+---
+
+# Va'afusuaga v. Taei
+
+## Majority
+
+OPINION AND ORDER
+This case involves a dispute over the succession to the Puailoa matai title in the village of Nu'uuli. Appellant Avea T. Va'afusuaga (“Avea”) contends that the trial court erred in its order and opinion awarding the Puailoa matai title to Appellee Ma'ae Taei (“Ma'ae”) by: (1) failing to malee appropriate findings of fact and conclusions of law under A.S.C.A. § 1.0409(d); and (2) erring in its findings, pursuant to A.S.C.A. § 1.0409(c), on the third statutory factor of the candidates’ forcefulness, character, personality, and knowledge of Samoan customs, and fourth statutory factor of the candidates’ value to the family, village, and country. For the following reasons, we AFFIRM the trial court’s decision.
+Background
+Tepatasi M. Puailoa (“Tepatasi”) offered the Puailoa title for registration with the Office of the Territorial Registrar. Subsequently, Tuitogamaatoe P. Fanene (“Tuitogamaatoe”), La'au Seui (“La'au”), Ma'ae, Archie Soliai (“Archie”) and Avea filed their objections and counterclaims. Pursuant to A.S.C.A. § 43.0302, the Secretary of Samoan Affairs issued a certificate of irreconcilable dispute after the parties failed to resolve their claims. Accordingly, the case was referred to the High Court for resolution. In Re Matai Title “Puailoa, ” 7 A.S.R.3d 228, 229 (Land & Titles Div. 2003).
+Trial was held over several days in January of 2003. On May 1, 2003, the trial court awarded the Puailoa title to Ma'ae. The court found candidates Tepatasi and Tuiotgamaatoe prevailed equally over Ma'ae and Avea on the first or hereditary right statutory criterion used in determining matai title succession. The court also found that no one prevailed on the second or clan preference criterion, and that Ma'ae prevailed over the other candidates on the third and fourth criteria. Avea filed a motion for a new trial or reconsideration which was denied by the trial court on July 7, 2003. Shortly thereafter, Avea filed a notice of appeal.
+Discussion
+I. Standard of Review
+The trial court’s factual detenninations are reviewed for clear error. See In re Matai Title “Tauaisafune, ” 6 A.S.R.2d 59, 61 (App. Div. 1987). The test for clear error is “not whether facts in the record may support a decision for an appellant, but whether sufficient evidence supported the tidal court’s decision.” Toleafoa v. American Samoa Gov’t, 26 A.S.R.2d 20, 21 (App. Div. 1994).
+II. Application of A.S.C.A. § 1.0409(d)
+Avea argues that the trial court’s findings and conclusions are deficient under A.S.C.A. § 1.0409(d). She claims the court is required to “separate the fact finding from the legal conclusions” and assess the “relative margins” by which a candidate prevails over other candidates on each statutory factor. (Appellant’s Br. at 4.) Additionally, Avea argues that the Appellate Division should “insist on an uniform and fair standards [sic]” for each criterion. {Id. 10.)
+The relevant part of the current statute states:
+(c) In the trial of title cases, the High Court shall be guided by the following consideration, in the priority listed:
+(1) the best hereditary right, as to which the male and female descendants are equal in families where this has been customary; otherwise, the male descendent prevails over the female;
+(2) the wish of the majority or plurality of those clans of the family as customary in that family;
+(3) the forcefulness, character and personality of tire persons under consideration for the title, and their knowledge of Samoan customs; and
+(4) the value of the holder of the title to the family, village, and country.
+(d) The court shall issue a written decision that must contain finding of facts and conclusions of law on each issue under (c) above.
+A.S.C.A. § 1,0409(c)-(d). The trial court made findings and conclusions consistent with the statute. In Re Matai Title "Puailoa,” 7 A.S.R.3d at 229-235.
+Appellant’s argument that the court needs to fonnulate some sort of additional standard is not in accordance with the Fono’s current statutory scheme. As Avea points out in her brief, the Fono has been tweaking and revising this statute over the years to provide the court with guidance on deciding matai title cases. (Appellant’s Br. at 3-5.) “When the Court attempts to resolve a dispute among family members about who should hold a matai title, it is doing its best to apply the criteria that the Fono believes the family would have applied if there were no external means of dispute resolution.” In re Matai Title "Soata,” 6 A.S.R.2d 91, 95 (App. Div. 1987). Indeed, if the Fono thought that the court’s decisions in matai title cases left something to be desired, it could revise the statute.
+Additionally, Avea argues that the trial court failed to assess the relative margins by which Ma'ae prevailed over the other candidates. The court is directed by statute to give each criterion less weight than the one it follows. A.S.C.A. § 1.0409(c). Other than this statutory requirement, “the comparative evaluation of the four statutory criteria is not, and cannot be, measured by mathematical exactness.” In re Matai Title "Tuaolo," 28 A.S.R.2d 137, 143 (Land & Titles Div. 1995); See also, e.g., In re Matai Title "Tuaolo," 27 A.S.R.2d 97, 102 (Land & Titles Div. 1995); In re Matai Title “Tauala,” 15 A.S.R.2d 65, 69 (Land & Titles Div. 1990). An assessment of the relative margins in all cases on all factors is impractical. In all respects, the trial court’s findings and conclusions satisfy A.S.C.A. § 1.0409(d). See, e.g., In re Matai Title "Tauaisafune," 6 A.S.R.2d at 60; In re Matai Title "Atiumaletavai, ” 22 A.S.R.2d 94, 95 (Land & Titles Div. 1992) (noting “the frequent but not universal approach in this Court’s matai-title decisions to include substantial comparative discussions of the title candidates’ qualifications under each of the four statutory criteria which must be considered. While this method can provide useful analysis to the reader of matai-title judicial decisions..., the only legal requirement is a written decision containing findings of fact and conclusions of law on each of the four statutory criteria.”).
+III. The Statutory Factors
+Avea contends that the trial court erred by finding in favor of Ma'ae on the third and fourth criteria.
+A. Forcefulness. Character. Personality. Knowledge of Samoan Custom
+Avea contends that the trial court erred by finding in favor of Ma’ae on this criterion. (Appellant’s Br. at 5-7.) The trial court noted “it relie[d] in part on personal observation of each candidate while on the witness stand.” In Re Matai Title "Puailoa,” 7 A.S.R.3d at 233. The court also listed “[leadership ability, honesty, education, public service, involvement in church and village affairs, and previous experience as a matai” as other factors it considered relevant to this criterion. Id. (citations omitted) (alteration in original). In finding Ma'ae prevailed on this criterion, the trial court noted Ma'ae’s matai and career experiences as well as his demeanor on the witness stand. “[I]t [i]s for the trial court to resolve conflicts in the evidence, and to judge the credibility of the witnesses.” Reine v. Taotoai, 25 A.S.R.2d 136, 138 (App. Div. 1994). The trial court’s detennination in favor of Ma'ae on this factor was supported by substantial evidence.
+B. Value to Family. Village, and Country
+Avea disputes the trial court’s conclusion that Ma'ae’s value to his family, village, and country is superior to that of the other candidates. In detennining this factor, the trial court noted that Ma'ae served his country through military service and commented on his service to the territory. In Re Matai Title "Puailoa,” 7 A.S.R.3d at 233. The trial court found that Ma'ae’s experience as a matai would serve his family and village. The court also based its conclusion on this factor on the in-court observation of the candidates’ testimony. “[Ajppellant is in essence urging this court to reweigh the facts presented at trial, an area specifically reserved for the trier of fact, who is in a unique position to hear evidence and observe the demeanor of witnesses.” Uiagalelei v. Ulufale, 26 A.S.R.2d 118, 119 (App. Div. 1994). The record amply supports the trial court’s findings, and we will not disturb them.
+Conclusion
+For the aforementioned reasons, the trial court’s decision is AFFIRMED.
+It is so ordered.
+The tidal court found La'au’s “hereditary connection claim to be, at best, doubtful,” and that Archie’s “connection is tenuous.” In Re Matai Title "Puailoa,” 7 A.S.R.3d at 231. While neither La'au nor Archie appealed the court’s decision, we caution that the decision should not be interpreted in and of itself as preventing either La'au or Archie from participating in the Puailoa family’s affairs or from asserting a claim to the Puailoa title in the future.
+Tuitogamaatoe filed a separate notice of appeal. See In re Matai Title "Puailoa,” 8 A.S.R.3d 41 (App. Div. 2004).
+Avea also contends that the trial court failed to make conclusions of law on the first criterion by failing to “assign [] what weight would be assigned to heredity.” (Appellant’s Br. at 5.) We believe this issue is adequately addressed in our discussion supra. The trial court made factual findings and ranked the candidates as follows: Tepatasi and Tuitogamaatoe prevailed equally over Avea and Ma'ae who, in turn, prevailed equally over La’au and Archie. In Re Matai Title “Puailoa,” 7 A.S.R.3d at 232.
