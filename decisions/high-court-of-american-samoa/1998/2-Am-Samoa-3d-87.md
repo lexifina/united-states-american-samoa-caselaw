@@ -1,0 +1,33 @@
+---
+court: "High Court of American Samoa"
+docket: "CR No. 74-97"
+decided: "1998-04-28"
+citations: ["2 Am. Samoa 3d 87"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, TUA'OLO, Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. MEALOFA TAUOA, Defendant."]
+source_url: "https://static.case.law/am-samoa-3d/2/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8433824
+cites_cases: ["116 U.S. 616", "389 U.S. 347", "466 U.S. 170", "480 U.S. 294"]
+---
+
+# American Samoa Government v. Tauoa
+
+## Majority
+
+ORDER DENYING MOTION FOR RECONSIDERATION OF ORDER DENYING MOTION TO SUPPRESS
+On December 16, 1997, plaintiff American Samoa Government (“ASG”) charged defendant Mealofa Tauoa (“Tauoa”) with unlawful production and possession of the controlled substance of marijuana. On January 30, 1998, Tauoa moved to suppress evidence on the basis that such evidence was the product of an unreasonable search and seizure and an unlawful arrest. The motion was denied. Tauoa now moves for reconsideration, stating that the court incorrectly characterized the area where the evidence was found as an open field and not curtilage. Tauoa does not contest the court’s decision as to the suppression of evidence in conjunction with the legality of his arrest.
+Discussion
+Individuals in American Samoa are guaranteed the right to be secure in their houses against unreasonable searches and seizures.
+Revised Constitution of American Samoa, Article I, § 5. This right extends to areas so closely connected with the use of the home such that they give rise to the same expectation of privacy. Thesp areas are defined as curtilage and fall within the definition of houses in Article I, § 5. Open fields, on the other hand, do not give rise to this expectation of privacy. They therefore are not curtilage and are not afforded the special protections of Article I, § 5.
+In denying the motion to suppress, we looked to the four part test of United States v. Dunn, 480 U.S. 294, 301, 107 S.Ct. 1134, 1139-40, 94 L.Ed.2d 326, 334-35 (1987), to determine the extent of curtilage. More importantly, however, we also looked to the overriding general principle of whether government intrusion into the area in question infringes upon-the personal and societal standards of privacy protected by. Article I, § 5.' We found that the clearing where the evidence was seized is not the type of area so closely associated with the ‘intimate activity of a man’s home and the privacies of life,’ Oliver v. United States, 466 U.S. 170, 180, 104 S.Ct. 1735, 1742, 80 L.Ed.2d 214, 225 (1984), quoting Boyd v. United States, 116 U.S. 616, 630, 6 S.Ct. 524, 29 L.Ed. 746 (1886), that it gives rise to a personal expectation of privacy. At page. 9 of the order we stated:
+Considering all of these factors, the land at issue is not curtilage. Thus, the clearing does not fall within the definition of “houses” in Article 1, § 5 of the Revised Constitution of American Samoa, and is not afforded the special protections of that section. The law enforcement officers’ intrusion into the clearing and the resulting seizure of evidence in the clearing did not violate Tauoa’s constitutional rights.
+Tauoa claims that the court erroneously applied the four part test enumerated in Dunn because we did not apply the test with unique Samoan circumstances and customs in mind. He states that we overlooked High Chief Muagututi’s testimony of this area as the tuamaota, and instead used the description given by law enforcement officers. He reiterates that the distance from the clearing to the house is 180-200 feet and emphasizes that the house is a high chiefs residence. The court did give heed to High Chief Muagututi’s testimony when applying the Dunn four part test. High Chief Muagututi, for example, gave a thorough description of the use made of the land and the type of crops cultivated there and in surrounding areas. We must emphasize, however, that no singular element of the Dunn test is controlling. All four parts are to be considered together, and, more importantly, under the umbrella of both the defendant’s subjective and society’s objective expectation of privacy of the area in question. A single factor such as the distance from the clearing to the house, therefore, is not a determinative element.
+Tauoa also contends that we failed to account for a uniquely Samoan expectation of privacy of the land in question. Although Tauoa states that definition of the land as the tuamaota means that it is accorded privacy, Tauoa does not indicate why this is so. Tauoa refers to the “importance,” “value,” and “respect,” placed on the tuamaota by Samoan society. The significance of communal land and due respect for a matai and his residence are important values in the Samoan culture. However, Tauoa’s reference to these matters misses the mark'. The intimate activity of one’s home, not the protection of property rights, is the gauge of an expectation of privacy. See Katz v. United States, 389 U.S. 347, 353, 88 S.Ct. 507, 512, 19 L.Ed.2d 576, 583 (1967). Protection is afforded to people, not places. Id. at 356, 88 S.Ct. at 514, 19 L.Ed.2d at 582. It was plain from the evidence presented at the hearing that the nature of the clearing, whether or not it is within the tuamaota, is not the same as that of Tauoa’s home. The location, character, use, accessibility, and general nature of the clearing clearly do not give rise to such an expectation of privacy for Tauoa as to bring it within in the definition of “houses” under Article I, § 5.
+Finally, Tauoa argues that our order denying the motion to suppress makes Article I, § 5 protection unavailable to communal land in Samoa. This argument is incorrect. We found that the clearing-is not curtilage and thus does not fit within the definition of “houses” under the Revised Constitution of American Samoa. This finding does not rest at all on characterization of this land as communal property. Therefore, nothing in our order would preclude Article I, § 5 protection in relation to communal land for which an individual had a reasonable expectation of privacy.
+Ordey
+The clearing where evidence was seized is correctly characterized as an “open field” and not “curtilage.” The clearing therefore does not fit under the definition of “houses” in Article I, § 5 of the Revised Constitution- of American Samoa. The motion for reconsideration is denied and the evidence seized by law enforcement officers from the clearing will not be suppressed.
+It is so ordered.
