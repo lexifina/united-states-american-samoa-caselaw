@@ -1,0 +1,27 @@
+---
+court: "High Court of American Samoa"
+docket: "LT. NO. 18-85"
+decided: "1986-10-23"
+citations: ["3 Am. Samoa 2d 78"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Chief Justice, TAUANU'U, Chief Associate Judge, and AFUOLA, Associate Judge."]
+parties: ["SIALEGA FAMILY, Plaintiffs v. TAITO FAMILY, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/3/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 985304
+---
+
+# Sialega v. Taito
+
+## Majority
+
+At the second hearing of this case the Sialega family produced witnesses who reiterated the family history to the effect that the Taitos had first came to Oneoneloa as guests of the Sialega family. This was again denied by the Taito witnesses.
+The Court also heard the testimony of Taito Tauaiga, the senior matai of the Taito family, who had not been present at the first hearing. He testified that he had lived on Oneoneloa as a child for several years beginning in around 1926, and named the members of his family who had occupied Oneoneloa continuously since that time.
+Each side presented evidence concerning Laumau Moe'olo, who appeared at the first hearing tohaye been the principal occupant of the land for many years. The Sialegas advanced the theory that Laumau was a lesser matai of the Sialega family with no formal relationship to the Taitos. This theory appears to have been something of an after thought; the evidence for it consisted primarily of the fact that Laurnau is a matai title of Nu'uuli whereas the Taitos are a family of Faganeanea. Laumau Moe'olo was not a member of the Sialega family by blood or by marriage, but the Sialegas claimed to have made him a matai of their family on account of his loyal service. In the first hearing, however, he appeared principally as a Taito relation about wham nobody seemed to have much information. His "service" with regard to Oneoneloa seems to have consisted largely in peopling it with Taitos.
+The Court is unanimous in believing the testimony of High Chief Taito to be the mast credible and consistent explanation of this matter. The Laumau title was held by his older brother, Laumau Taufase'e, prior to 1944. In that year Taufase'e was selected to hold the Taito title. He moved to Faganeanea and bestowed the Laumau title on Moe'olo, a native of Manu'a who was married to his first cousin Pupa. Witnesses for both sides testified that Laumau Moe'olo occupied Oneoneloa, as well as certain other land in Nu'uuli associated with the Laumau title, during most of the period from 1944 until his death in the early 1980s. Like his predecessor Taufase'e, he apparently regarded himself and was regarded as a Taito and not as a Sialega. High Chief Taito attended the funeral of Laumau Moe'olo in California and testified that no Sialega family members were present. The funeral of Pupa in Nu'uuli was also a Taito family affair. Although Laumau may originally been an independent Nu'uuli family, the title seems to have became closely associated with the Taito family. Similarly, the Taito family originated in Faganeanea and remains formally a Faganeanea family, but the Taito titleholders for most of this century have had their roots in Nu'uuli and many Taito family members reside in Nu'uuli.
+Regardless of the formal relationship between the Laumau and Taito titles, we are satisfied that the Taitos have occupied Oneoneloa since the early part of this century and have believed themselves to be occupying it in their own right. Moreover, testimony at the second hearing corroborated the evidence at the first hearing to the effect that during at least thirty years prior to the early 1980s the Taito family had on many occasions acted as owners of the land in ways that were utterly inconsistent with the claim of the Sialegac. By the time the Sialegas asserted or reasserted their ownership of the land in an incident leading up to a meeting or meetings at the Office of Samoan Affairs about which eyewitness accounts diverged wildly the Taitos would already have acquired the land by adverse possession even if they hod not done so by right of original occupancy.
+The defendants have filed a counterclaim, demanding compensation for the money the government would have paid if the removal of rocks and dirt from the land had. not been interrupted by this lawsuit, for damage to the defendants' crops that was caused by the government operations, and "for mental anguish ridicule and embarrassment suffered due to plaintiff's actions in claiming land which has always been known as defendant Taitos land from time immemorial."
+The Court is unaware of any case in American Samoa or anywhere else in which a litigant has been awarded damages for mental anguish at having somebody else claim to own his land, and does not wish to have the distinction of being the first court to make such an award. Nor can the Court calculate the actual economic loss, if any, to the defendants as a result of the interf er-ence with their contract• until it can be ascertained whether the government is willing to resume its operations under the contract. Judgment on the counterclaim is therefore deferred in order to allow the Taitos to resume negotiations with the government and to claim damages, if any, after the conclusion of such negotiations.
+Complaint dismissed? judgment on counterclaim deferred.
