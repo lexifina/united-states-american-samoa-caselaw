@@ -1,0 +1,35 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 106-96"
+decided: "1996-09-25"
+citations: ["30 Am. Samoa 2d 180"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, TAUANU'U, Chief Associáte Judge, and SAGAPOLUTELE, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff v. SIPA ANOA‘I dba SIPA’S FAMILY FITNESS CENTER, Defendant"]
+source_url: "https://static.case.law/am-samoa-2d/30/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400178
+---
+
+# American Samoa Government v. Anoa'i
+
+## Majority
+
+Order Granting Petition for Summary Eviction:
+FACTS
+This action arises out of a lease entered into by plaintiff, American Samoa Government ("ASG"), and defendant, Sipa Anoa'i ("Anoa'i"). Specifically at issue is Section 10 of the lease agreement, which reserves ASG the power to terminate the lease on 120 days notice "[i]n the event Lessor designates the premises for demolition." Apparently the premises have been so designated, in order to facilitate a parking lot for a proposed new library. Notice of the termination was initially delivered to Anoa'i on April 3,1995. Since then ASG has allowed Anoa'i to remain on the property for designated periods due to delays in the demolition and construction. The final extension, however, was to terminate on May 1,1996. Anoa'i agreed to vacate at this time, but did not. On May 28, 1996, ASG again served Anoa'i further notice to vacate and subsequently filed a notice of termination with the Territorial Registrar on July 31, 1996.
+ASG asserts that all requirements under Section 10 of the lease have been met and .that Anoa'i is a holdover tenant subject to summary eviction under A.S.C.A. § 43.1405(2)(A). Anoa'i, on the other hand, submits that ASG has no grounds to terminate the lease, and alternatively claims that ASG not only failed to give proper notice of the termination, but has also failed to perform a condition precedent to termination. ■
+DISCUSSION
+Anoa'i's first argument is that ASG may not terminate the lease in order to build a parking lot for the new library. He reads the lease as only allowing demolition of the leased premises "in connection with the development of the Executive Office Building"; and that since the library is not in connection with the Executive Office Building, Anoa'i urges that the new library's attendant parking lot is therefore not a contingency contemplated under the lease's termination clause.
+Anoa'i has misread the lease. The agreement states that "the [leased] premises are located in the vicinity of Lessor's new executive office building and may be designated by Lessor for demolition in connection with the development of the area surrounding the building." The terms of the lease nowhere require that the demolition be "in connection with the development of the EOB," rather the lease simply states that the demolition may occur "in connection with the development of the area surrounding the [EOB] building." Since the new library is in connection with the development of the area surrounding the Executive Office Building, ASG has proper ground for exercising its right to terminate under the lease agreement.
+Next Anoa'i argues that he was not provided proper notice in accordance with the provisions of the lease. Notice was originally provided to Anoa'i on April 3,1995, well before the 120 day requirement. The lease does not contain any specific requirements as to the substance of the notice; it only requires that the notice is written. We are satisfied that ASG's written notice reasonably apprised Anoa'i of the designation for demolition of the leased premises and the subsequent termination. Anoa'i's argument that ASG was somehow obligated to re-notice after the initial 120 day period had expired is specious. The 120-day notice requirement is a minimum time requirement, not a mandatory time requirement. We find that ASG has met the notice requirements of the lease, and has further met the seven-day notice requirement of A.S.C.A. § 43.1405(2)(A).
+Finally, Anoa'i argues that ASG has breached the lease requirements which allow Anoa'i "the option, with Lessor’s prior consent which shall not be unreasonably withheld, to either relocate to another building owned by Lessor in the general vicinity of the premises, ... or to construct a new facility in the general vicinity of the premises." Anoa'i argues that ASG did not present Anoa'i with alternative site options and that the one site proposed by Anoa'i was unreasonably rejected by ASG.
+The lease agreement clearly puts the burden on Anoa'i to submit a proposal to ASG. ASG’s only duty under the lease is to not unreasonably withhold its written consent to that proposal. ASG has no affirmative duty to assist Anoa'i in the exercise of his option. We are satisfied on the record that ASG met this requirement.
+On May 11, 1995, Anoa'i submitted a proposal to be relocated to the building occupied by the Drug Free Program and the South Pacific Games Committee. The Real Property Management Board (“RPMB”) considered Anoa'i’s proposal and declined the request based on the limited amount of space available at the proposed site. We have no reason to believe that the RPMB was acting unreasonable in its denial. Moreover, it was shown tha t ASG actually went beyond its duty and affirmatively assisted Anoa'i in his efforts to relocate. ASG’s actions, considered in totality, appear to us to have been more than reasonable.
+On the foregoing, we conclude that ASG has properly terminated the lease agreement and is entitled to the immediate possession of the premises, under A.S.C.A. § 43.1405(2)(A). ASG’s petition for summary eviction is, therefore, granted.
+It is so ordered.
+The Lease also contains an option "to rehabilitate the premises in a manner which is architecturally and operationally compatible with the development of the . . . area." This option is not viable since you cannot renovate a gym to function as a parking lot.
+Anoa'i proposed two other options: that the ASG rehabilitate the current site and that he be given preference for other government facilities. The first was not viable. The second is not available under the lease.
+It is unclear whether the provision regarding the option to relocate is a condition precedent to the termination. The cases are split on whether termination is conditioned on the performance of such a termination option. See Am. JUR. 2d, Landlord and Tenant § 1012 (1995). If the provision is a condition precedent then termination would be conditioned upon ASG’s performance of the provision. The actual lease provision was, at best inartfully crafted. It seems to start out as a condition precedent and then mutate into an incomprehensible proviso. This ambiguity, however, is ultimately unimportant since we find that ASG has adequately performed on the provision, whatever the provision’s legal classification.
