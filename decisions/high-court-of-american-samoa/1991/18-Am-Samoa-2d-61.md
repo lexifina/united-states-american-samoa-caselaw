@@ -1,0 +1,25 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 45-81; LT No. 45-82; LT No. 08-84; LT No. 22-86; LT No. 06-87"
+decided: "1991-02-11"
+citations: ["18 Am. Samoa 2d 61"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Associate Justice, and TAUANU’U, Chief Associate Judge."]
+parties: ["TONY WILLIS on behalf of himself and the HEIRS OF AMELIA VA, Plaintiff v. FAI‘IVAE GALEA‘I and FAI‘IVAE FAMILY, TO‘OMATA M.T. TUITELE, CHIEFS OF LEONE VILLAGE, SUAPA‘IA ANETERE‘A, PIO LE‘OSO and SE‘E LE‘OSO, Defendants SA‘AGA LEVI on behalf of himself and the HEIRS OF AFELE LEVI, Plaintiff/Intervenor WILLIAM AH KUOI, Defendant/Intervenor PAT M. GALEA‘I, Defendant/Intervenor OLO LETULI, Defendant/Intervenor SUAFO‘A VELIO, Defendant/Intervenor PIO SAGOTE on behalf of himself and the SAGOTE FAMILY, Defendant/Intervenor PULETU M. MEREDITH, Defendant/Intervenor TAELEIFI MANE, Defendant/Intervenor ROMAN CATHOLIC DIOCESE OF SAMOA-PAGO PAGO, Intervenor LE‘OSO A. RIPLEY on behalf of the LE‘OSO FAMILY, Defendant/Intervenor LE‘OSO A. RIPLEY on behalf of the Estate of EDWARD RIPLEY, Defendant/Intervenor TONY WILLIS and VAETOIFAGA D. ASUEGA on behalf of themselves and the HEIRS OF AMELIA VA, Plaintiffs/Objectors v. FAI‘IVAE FAMILY and MALUOLEFALE P. SALAVE‘A, Claimants/Defendants TO‘OMATA M.T. TUITELE, AVEGALIO FAMILY, LE‘ALAIALOA FAMILY, AIGAMAUA FAMILY, CHIEFS AND TALKING CHIEFS OF LEONE, FAI‘IVAE GALEA‘I, TAELEIFI A. RIPLEY, and FAILAUTUSI AVEGALIO, Plaintiffs/Objectors v. DOROTHY V. ASUEGA on behalf of the HEIRS OF AMELIA VA TALAMAIVAO, Defendant/Claimant TONY WILLIS, Plaintiff v. SU‘A of the Village of Auma, ETUALE & SONS of the Village of Auma, and DOES I through X, Defendants TUITELELEAPAGA NAPOLEONE, Plaintiff v. TONY WILLIS, Defendant LUCY UO AH CHING, EUGENE UO, EDWARD UO, and EMILE UO for the UO FAMILY, Plaintiffs v. AMOS GALEA‘I and FAI‘IVAE GALEA‘I, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/18/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987318
+---
+
+# Willis v. Fai'ivae
+
+## Majority
+
+The hearing on this motion by Le’oso for new trial or amendment of our judgment was continued several times so as to allow the parties to attempt a settlement.
+At the most recent hearing, counsel for Le’oso and counsel for Iuli informed the Court that these parties had reached a settlement. The terms of this settlement appear to be that Iuli will cede to Le’oso a portion of the land held to be his family’s property but presently occupied by members of the Le’oso family, and Le’oso will agree to the dismissal of his motion for new trial or amendment of the judgment with respect to the remainder of this land. We have been promised a written stipulation, which we expect to receive momentarily and which will be entered as an amendment to our judgment.
+The remainder of the Le’oso motion had to do with land held to be the property of Taeleifi. At the recent hearing we were also informed that Le’oso and Taeleifi had not reached a settlement. Each of these two parties agreed that the motion (insofar as it relates to land held to be Taeleifi property) would be submitted to the Court on the previous post-trial submissions, along with any additional written submissions the parties should submit by February 8. We have, however, received a "supplemental memorandum" (filed February 8) from Taeleifi, to the effect that some sort of settlement has in fact been reached between him and Le’oso. The terms of this settlement, according to Taeleifi, are that Taeleifi will "designate a portion of said disputed land awarded to the Sa Taeleifi family, for the use and occupation by Le‘oso family members." It appears, however, that the details are yet to be worked out and that the parties have agreed "for counsel Ripley’s appeal [on behalf of Le’oso] to proceed" while the parties negotiate such details.
+The court has received no additional submission from counsel for Le’oso and therefore assumes that Taeleifi’s memorandum represents the understanding of all parties.
+Accordingly, the motion by Le‘oso for new trial, reconsideration, or amendment of judgment is denied for the reasons stated in Part III(F) of our original opinion. We note, however, one apparent factual error in that opinion. A Taeleifi house which we identified as being "near the southeastemmost boundary" of the Taeleifi survey, although marked in that location on one of the exhibits, appears in fact to have been the same house which (prior to its substantial destruction by the 1990 hurricane) belonged to the children of Pepa Taeleifi and was adjacent to Pepa’s house in the central, not the southeastern, portion of the Taeleifi survey. Although this change in our findings of fact tends to help Le‘oso, we are not convinced that it should change our conclusion that there was sufficient Taeleifi activity in the area to prevent the Le‘oso occupation from being exclusive for the requisite twenty-year period.
+Accordingly, the motion is denied.
