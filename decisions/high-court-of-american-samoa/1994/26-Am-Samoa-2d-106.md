@@ -1,0 +1,38 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 15-91"
+decided: "1994-07-01"
+citations: ["26 Am. Samoa 2d 106"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, and TAUANU'U, Chief Associate Judge."]
+parties: ["PLAZA DEPARTMENT STORE, INC.,dba PLAZA HOME FURNISHINGS, Plaintiff,and LUMANA'I DEVELOPMENT CORP., Intervenor v. MARTY DUCHNAK dba PRIMO BUILDERS, Defendant/Cross-Claimant, and CIGNA INSURANCE COMPANY and CIGNA PROPERTY AND CASUALTY COMPANY, Defendants/Cross-Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/26/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11595942
+cites_cases: ["263 N.W.2d 770", "369 U.S. 654", "394 US 973", "402 F.2d 339", "407 F.2d 1091", "427 F.2d 1355", "757 F.2d 1042", "799 F.2d 437", "94 L.Ed.2d 761"]
+---
+
+# Plaza Department Store, Inc. v. Duchnak
+
+## Majority
+
+Order Denying Motion for Partial Summary Judgment:
+The motion now before this court is for partial summary judgment, brought by defendants/cross-defendants Cigna Property and Casualty Company ("Cigna"), against defendant/cross-claimant Marty Duchnak ("Duchnak"). For the reasons detailed below we deny Cigna's motion.
+Summary judgment, in whole or in part, is appropriate where the pleadings and supporting papers show "that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law." T.C.R.C.P. Rule 56. In ruling on such a motion, the court must view all pleadings and supporting papers in the light most favorable to the opposing party, United States v. Diebold, 369 U.S. 654 (1962), treat the opposing party's evidence as true, and draw from such evidence the inferences most favorable to him. Lokan v. Lokan, 6 A.S.R.2d 44, 45 (1987).
+The original complaint in this matter was filed by Plaza Department Store ("Plaza") on February 19, 1991. The motion to intervene was granted to Lumana'i Development Corp. ("LDC") on September 19, 1991.
+The genesis of this case is a fire that broke out in Plaza's section of LDC's warehouse in the Tafuna Industrial Park, at about 5 p.m. on September 19, 1990. The exact cause of the blaze has not yet been determined. For some time prior to the start of the fire, Ducimak and several of his workmen had been conducting repairs on this warehouse. Duchnak was then carrying a general liability insurance policy with Cigna. It is this policy that i~ the subject of the partial summary judgment motion now before us.
+Cigna brought this motion claiming that Duchnak' s policy had a general liability limit of $100,000. Cigna states that when Duchnak obtained his first policy with Cigna, Duchnak purchased general liability insurance with a $100,000 limit. That policy allowed Duchnak coverage of $1,000,000 only for the work Duchnak was then performing for the VCS Samoa Packing Company ("SAMPAC"). When this insurance policy expired, its renewal, after a lapse, was not handled by Duchnak but by Bill Maxey (`Maxey"), a third party who had then hired Ducimak to perform construction work. Cigna states that this renewed policy, like its predecessor, had a general liability limit of $100,000. This renewed policy also provided Duchnak with $1,000,000 in contingent automobile liability coverage, an increase that was not requested but was provided according to standard practices at Cigna's home office.
+in opposition to Cigna's motion, Plaza and LDC state that Duchnak originally sought $1,000,000 in general coverage and the $100,000 limit in Duchnak's first insurance policy with Cigna was due to error on Cigna's part. Plaza and LDC state that Maxey also sought $1,000,000 coverage for Ducimak and that Cigna mistakenly assigned the request of $1,000,000 to automobile liability coverage that was neither sought nor desired.
+An insurance policy is a contract, and the same rules of construction applicable to other contracts are applicable to insurance policies. Enterprise Tools, Inc. v. Export-Import Bank, 799 F.2d 437, 439 (8th Cir. 1986) cert. den'd 94 L.Ed.2d 761 (1987) citing 2 Couch, Cyclopedia of Insurance Law § 15:1, 15:3 (2nd Ed. 1984).
+While a court may inquire into the circumstances surrounding an insurance policy if that policy is found to be ambiguous, Allstate Ins. Co. v. Ellison, 757 F.2d 1042 (9th Cir. 1985), Plaza, LDC and Duchnak have not contended that the policy at issue is ambiguous. We agree. However, Plaza and LDC assert that this policy is subject to reformation on the basis of mutual mistake, as the policy does not express the true agreement of the parties.
+Reformation involves rewriting a contract in order to reflect the actual intent of both parties, and an insurance contract may be reformed after a loss has occurred. Rolane Sportswear, Inc. v. United States Fidelity & G. Co., 407 F.2d 1091, 1096 (6th Cir. 1969). Reformation is not appropriate to enforce terms to which the defendant never assented, but is used only to correct a mistake in writing to conform to the actual agreement of the parties. Watson v. United States Fidelity and Guaranty Co., 427 F.2d 1355, 1357 (9th Cir. 1970).
+Reformation is an extraordinary remedy, and courts have in general exercised it with caution. Mutual of Omaha Insurance Company v. Russell, 402 F.2d 339, 344 (10th Cir. 1969) cert den'd 394 US 973 753 (1969). However, courts have reformed insurance contracts in regard to the amount of coverage provided. Johnson v. United Investors Life Ins. Co., 263 N.W.2d 770 (Spme. Ct. Ia. 1978).
+In the case before us, Maxey asserts that he asked Cigna to provide a policy for Duchnak in the amount of $1,000,000 and that Cigna's representative Rick Petri ("Petri") agreed to this request. LDC and Plaza question Cigna's assertion that the $1,000,000 limit for automobile liability was standard procedure, and point out that this change contradicts Cigna's claim that Duchnak's policy was to be renewed without changes, save for the deletion of the $1,000,000 coverage for work at SAMP AC.
+Additionally, LDC and Plaza submit the affidavit of Arnold Carter, branch manager for National Pacific Insurance, stating that Duchnak's premium of $3,000, a significant increase over the previous years policy premium, would have led a reasonable person to conclude that the coverage obtained was for $1,000,000. They also assert that Duchnak's failure to read the policy does not bar reformation.
+Cigna has correctly pointed out that the right to reformation of a contract must be proven by clear and convincing evidence. However, this is a summary judgment motion and at this stage of the proceedings, we are obliged to view the pleadings and supporting papers in the light most favorable to Duchnak. All parties have presented reasonable arguments in favor of their respective positions, and differ most glaringly on the factual issues. This case presents several disputes that cannot properly be ruled on at this point. In fact, this is precisely the type of dispute that, ordinarily, should not be resolved summarily.
+Therefore, the motion for partial summary judgment is denied.
+It is so ordered.
+This policy was originally procured by Duchnak to cover the 1988-1989 year. The insurance policy at issue is the renewed policy for the 1989-1990 year.
+In Duchnak's brief memorandum in opposition to Cigna's motion for partial summary judgment, Duchnak states he is asserting a combination of mutual mistake and ambiguity. However, the language utilized, and facts presented, support only a defense of mutual mistake.
