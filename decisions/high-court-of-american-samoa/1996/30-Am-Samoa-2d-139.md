@@ -1,0 +1,33 @@
+---
+court: "High Court of American Samoa"
+docket: "CA. No. 76-96"
+decided: "1996-08-09"
+citations: ["30 Am. Samoa 2d 139"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Chief Justice, VAIVAO, Associate Judge, and BETHAM, Associate Judge."]
+parties: ["PAISANO'S CORPORATION & JAMES STEPHENS, Plaintiffs v. NATIONAL PACIFIC INSURANCE, Defendant"]
+source_url: "https://static.case.law/am-samoa-2d/30/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400150
+cites_cases: ["111 S.E.2d 773", "253 S.E.2d 775", "328 P.2d 198", "371 N.E.2d 373", "458 N.E.2d 79", "510 P.2d 1032", "611 P.2d 149", "664 S.W.2d 463", "665 S.W.2d 13", "853 F.2d 1380"]
+---
+
+# Paisano's Corp v. National Pacific Insurance
+
+## Majority
+
+Order Denying Motion to Dismiss Count III:
+The question before us is whether a tort exists in American Samoa for bad faith delay in paying insurance claims, notwithstanding a statute imposing penalties for delay.
+From the pleadings, we glean the following: On September 24, 1995, Paisano's Restaurant, owned by Paisano's Corporation ("Paisano's") suffered a fire, which caused significant property damage. Paisano's tendered an insurance claim to National Pacific Insurance ("NPI"), which has not, at present, made payment on the claim. On May 24,1995, Paisano’s filed this lawsuit, claiming, among other things, damages in tort for bad faith delay on the part of NPI in failing to settle Paisano's loss. NPI argues that the bad faith tort does not apply in American Samoa because a legislative enactment has replaced it. We were provided the benefit of well-written and well-researched memoranda by counsel.
+DISCUSSION
+There exists at common law a tort for bad faith delay in paying legitimate insurance claims. Spencer v. Aetna Life & Casualty Ins., 611 P.2d 149, 151-53 (Kan. 1980); Aetna Casualty & Surety v. Broadway Arms, 664 S.W.2d 463, 465 (Ark. 1984); Gruenberg v. Aetna Ins., 510 P.2d 1032, 1037-38 (Cal. 1973); Communale v. Traders & General Ins., 328 P.2d 198, 203 (Cal. 1958). Several courts, however, have held that the bad faith tort has been preempted by statutes that have the same object. Kush v. American States Ins., 853 F.2d 1380, 1384-86 (7th Cir. 1988); Spencer, 611 P.2d at 158; Debolt v. Mutual of Omaha, 371 N.E.2d 373, 377 (Ill. 1978); Kinney v. St. Paul Mercury Ins., 458 N.E.2d 79, 82-83 (Ill. 1983) Leonard v. Fireman’s Ins., 111 S.E.2d 773, 775 (Ga. App. 1959); Tate v. Aetna Casualty & Surety, 253 S.E.2d 775, 777 (Ga. 1979); Duncan v. Andrew County Mutual Ins., 665 S.W.2d 13, 18-20 (Mo. 1983). As nearly as we can tell, the bad faith statutes referred to in these cases have four elements in common: (1) the object of punishing delay; (2) setting the penalty as a percentage of the total insured loss; (3) permitting recovery of attorney's fees and costs by the insured; and (4) a required showing by the insured of bad faith on the part of the insurer. See Kush, supra at 1384 n.2; Duncan, 665 S.W.2d at 19 n.3; Kinney, 458 N.E.2d at 81; Debolt, 371 N.E.2d at 377; Leonard, 111 S.E.2d at 775. American Samoa's statute includes all of these elements except the requirement that the insured demonstrate the insurer's bad faith. A.S.C.A. § 29.1577 reads:
+In all cases where loss occurs and the insurer liable therefore fails to pay the same within the time specified in the policy, after demand made therefore, the insurer is liable to pay the holder of the policy, in addition to the amount of such loss, 12% damages upon the amount of the loss, together with all reasonable attorney's fees for the prosecution and collection of the loss ....
+The enactment provides liquidates damages at 12% of the total insured loss, plus attorney's fees, for delay in paying a legitimate insurance claim. Furthermore, it imposes strict liability for delay, so a demonstration of bad faith on the part of the insurer is not necessary to trigger the 12% penalty. NPI essentially argues that the statutory penalty for delay has preempted any common law remedy, while Paisano's argues that the bad faith tort survives and may be imposed in addition to the statutory remedy, since the statute does not require a showing of bad faith for the imposition of the penalty.
+The Supreme Court of Arkansas addressed the same legal question, and concluded:
+Appellant argues that the ... penalty and fees statute ... pre-empt[s] the area upon which the tort of bad faith is founded. We do not agree with this argument. .. . The penalty and fees statute is the primary remedy an insured has against an insurer who fails or refuses to pay a claim when there is no bad faith. . . . [This remedy does not deal] with the area of bad faith much less pre-empts it.
+Broadway Arms, 664 S.W.2d at 465 (emphasis added; citations omitted). In other words, when the statute penalizing delay in paying insurance claims does not rest upon a showing of bad faith, the bad faith tort may provide an additional penalty. We are disposed to follow this construction and read local statute accordingly. By employing language in A.S.C.A § 29.1577 that speaks of all cases, the Fono did not limit the enactment's reach only to cases of bad faith. The legislature has clearly seen fit to afford a higher punishment for the bad faith of the insurer, in addition to the fixed level of compensation provided for the insured in the case of any delay regardless of bad faith. While it is of course open to the Fono to include language in the statute eliminating the bad faith tort, we hold that the present language § 29.1577 does not do so.
+The motion to dismiss Count III is denied.
+It is so ordered.
+NPI cited to McMoore v. National Pacific Insurance, CA No. 31-93, slip op. at 1 n.l (Trial Div. November 29, 1994), in which this court suggested in dicta that the relevant statute was perhaps punitive rather than compensatory in nature, and that some sort of showing of fault or bad faith on the part of the insurer was envisaged. Since attorney's fees and costs were not addressed by the claimant in that case, this argument was not essential to the opinion. On further reflection, however, and actually confronted here with the issue, we are unable to reconcile this contradictory dicta with the plain language of the statute. The statute is applicable "[i]n all cases where loss occurs and the insurer liable therefore fails to pay the same within the time specified in the policy, after demand made therefore.. .." A.S.C.A. § 29.1577 (emphasis added). The statutory language simply does not leave any room to prevent recovery for a failure to demonstrate bad faith on the part of the insurer.
