@@ -1,0 +1,35 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 19-86"
+decided: "1987-12-15"
+citations: ["6 Am. Samoa 2d 129"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRUSE, Associate Justice, TAUANU’U, Chief Associate Judge, and 0L0, Associate Judge."]
+parties: ["OLO LEVEAI, FUA’AU OLO, and SEIGAFOLAVA ROPATI PENE, Plaintiffs v. TAULAFOGA TULISUA, his family, wife, children, agents, representatives, employees, etc., Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/6/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456247
+cites_cases: ["160 U.S. 303", "46 N.W.2d 72", "80 N.W.2d 339"]
+---
+
+# Leveai v. Tulisua
+
+## Majority
+
+Opinion and Order on Motion for New Trial:
+Defendant Taulafoga Tulisua moves for a new trial upon the following grounds:
+(1) Defendant contends that the decision of the Court resulting in ejectment is error in that plaintiff is required to prove title in order to upset defendant’s possession. The contention alludes to the old common law maxim that the plaintiff must recover on the strength of his own title, and hot on the weakness of the defendant’s. That is, defendant’s possession ought not to be disturbed until and unless plaintiff proves superior entitlement.
+The reasoning implies that, as the Court did not find title in either of the parties, defendant’s possession is indefeasible as far as plaintiff is concerned.
+Without intimating whether this common law principle is contextual to a communal land setting, we point out that defendant’s argument nonetheless may not be sustained at law. Firstly, the maxim does not apply in circumstances.where the plaintiff had prior possession of the land and his possessory rights have been disturbed by an intruder or by trespassers who physically move in and attempt to oust plaintiff. Haws v. Victoria Copper Mining Co., 160 U.S. 303 (1895). The Supreme Court here-quoted Christy v. Scott, 55 U.S. (14 How.) 282, 292 (1852):
+A mere intruder cannot enter on a person actually seised, and eject him, and then question his title, or set up an outstanding title in another. The maxim that plaintiff must recover on the strength of his own title, and not on the weakness of the defendant’s, is applicable to all actions for the recovery of property. But if plaintiff had actual prior possession of the land, this is strong enough to enable him to recover it from a mere trespasser, who entered without title.
+Haws, 160 U.S. at 310.
+Our findings herein were to the effect that neither plaintiff nor defendant had proven title to the land. Plaintiff had been in prior possession of the site in question for many years. Defendant had attempted to oust plaintiff from the site when, after January 1987, defendant moved in, over plaintiffs’ objections, and erected a building within a three-month period. He may not now assert possession forcibly obtained and invoke the maxim pointing to a' flaw in the title of plaintiff. To sustain defendant’s argument would be to permit one to benefit by one’s own wrongdoing through self-help.
+(2) Defendant also takes exception with the Court’s conclusion that defendant was lacking in good faith, and is thus not entitled to compensation for improvements. The case cited by the Court, namely Fonoti v. Fagaima, 5 A.S.R.2d 158 (1987), is sought to be distinguished by defendant. The distinction, says defendant, is that Fonoti was more vigorous than the plaintiff herein with his objections to wrongful ouster. The argument appears to be one of degree --- the difference between axes and knives on the one hand, and verbal objections on the other? One thing is clear from the cases: the question of "good faith" is one of fact, Meyers v. Canutt, 46 N.W.2d 72 (Iowa 1951), and depends on the circumstances of the case in which "good faith" is asserted. Simpson v. Bostwick, 80 N.W.2d 339 (Iowa 1957).
+The circumstances in this matter were that there had been a recent history of continuing exchange between the parties regarding defendant’s activity on the land, including the obliteration of plaintiffs’ grave sites by the defendant’s rerouting of access way, and his building of stone walls. In the face of this, activity, defendant does not deny knowledge of plaintiffs’ past occupation. He knew of a prior attempt by plaintiffs in seeking court action, and furthermore, defendant, consistent with the theory of his case, had no title in his own right on which to assert or premise a belief of better entitlement than that of plaintiffs. He acknowledged the objections made by plaintiffs (who preferred to resolve the dispute extrajudicially) but he testified that he commenced to build on the site because plaintiffs had earlier filed suit against him, and because after the Office of Samoan Affairs had recommended to the parties to discuss their differences, plaintiffs had not gone to defendant to discuss the matter. Indeed, defendant acknowledged that the matter could easily have been resolved but that the plaintiffs did not care to come to him.
+We find no possible basis of “good faith" in these circumstances --- merely the attitude that "might is right.'"
+(3) Defendant further claims abandonment of the site by plaintiffs, but asserts abandonment for purposes of a license argument. We reject this argument in that our findings did not encompass defendant’s contention that plaintiffs were licensees of .Manamea. The Court did not make a finding on title vis-a-vis the parties, although it found • plaintiffs’ possessory rights superior to defendant’s.
+(4) Finally, defendant makes the remarkable claim at this stage that there is uncertainty as to the exact location of the so called "Olo Site," as referenced in the judgment. This contention comes close to courting contempt sanctions. The Court was quite- clear .at the outset of trial in pointing out its concerns regarding the lack of surveys. The parties assured the Court that surveys were not needed and that the dispute centered merely on a house site. The parties were in agreement that the land-itself comprised one-half to one acre in area and were evidently in consensus with regard to the various locations of people’s homes on the land, as was quite clear from their respective drawings made in open court. What was pointed out as the Olo site was distinct and separate from what was Tulisua’s site. If the latter has any new-found difficulties with ascertaining the Olo site, we make quite clear that a consequence of our decision is that defendant shall go back to the Tulisua location which has and continues to locate his home. We are prepared to educate defendant the hard way if he is unable to comply with the Court’s order to remove that 1987 construction of his.
+(5) Defendant also attempts an argument of title based on the evidentiary principle that possession points to ownership. We merely note that some three months of forced ouster of the prior possessor could not be evidence of ownership by any stretch of the imagination.
+Motion for New Trial is Denied.
