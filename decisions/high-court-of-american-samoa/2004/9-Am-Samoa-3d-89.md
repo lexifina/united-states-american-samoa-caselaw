@@ -1,0 +1,40 @@
+---
+court: "High Court of American Samoa"
+docket: "CA No. 27-03"
+decided: "2004-10-01"
+citations: ["9 Am. Samoa 3d 89"]
+reporter: "am-samoa-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before RICHMOND, Associate Justice, SAGAPOLUTELE, Associate Judge, and TAPOPO, Associate Judge."]
+parties: ["AMERICAN SAMOA GOVERNMENT, Plaintiff, v. ANDREW SCANLAN, Defendant."]
+source_url: "https://static.case.law/am-samoa-3d/9/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3652547
+cites_cases: ["445 U.S. 40", "449 U.S. 383", "51 F.3d 1346", "518 U.S. 1"]
+---
+
+# American Samoa Government v. Scanlan
+
+## Majority
+
+ORDER DENYING DEFENDANT’S MOTION FOR DISCOVERY OF COUNSELING RECORDS AS PRIVILEGED INFORMATION
+On August 31, 2004, Defendant Andrew Scanlan moved for discovery of Social Services records and the Court’s determination of the scope of any privilege pertaining to the agency’s counseling of the alleged victim in this prosecution for child molesting and sexual abuse. Plaintiff American Samoa Government (“ASG”) opposed the discovery on the ground that the entire record is privileged. ASG joined in Defendant’s request for the Court’s determination of the scope of the privilege. Because trial was scheduled to begin on September 14, 2004, Defendant also moved to continue the trial pending resolution of the discovery and privilege issues.
+Defendant’s pending motions were first heard on September 7, 2004. ASG joined in the trial continuance request at the hearing, and we vacated the trial date in this action. We also tentatively vacated the trial date of September 21, 2004, in a companion prosecution of the victim’s mother, Am. Samoa Govt. v. Upuese, CR No. 28-04, for child abuse and endangering a child’s welfare, as the parties had previously indicated to the Court a preference to have that trial follow the trial in this action. We established an additional briefing schedule on the discovery and privilege issues and scheduled a further hearing on September 20, 2004. Finally, we directed ASG to provide the counseling records for the Court’s review before the September 20 hearing.
+On September 17, 2004, ASG advised the Court that the Social Services agency required a court order to submit the counseling records for inspection. We agreed. The order was issued and records were submitted on September 20. We also then heard the parties’ further arguments on the discovery and privilege issues. Matt Pavelich, the Defendant’s counsel in Am. Samoa Govt. v. Taulaga, CR No. 28-03, was present at this hearing, and with his concurrence we confirmed that the September 21 trial date in that action was vacated. All counsel were advised that we would reschedule the trials in both cases in this order.
+Discussion
+Under Federal Rule of Evidence 501:
+[e]xcept as otherwise required by the Constitution of the United States or provided by Act of Congress or in rules prescribed by the Supreme Court pursuant to statutory authority, the privilege of a witness, person, government, State, or political subdivision thereof shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience...
+Fed. R. Evid. 501; see also T. C. R. Evid. 501 (stating that “[e]xcept as otherwise required by the Constitution of the United States or of American Samoa or provided by an Act in the Fono, the privileges of a witness, person, government or political subdivision thereof shall be governed by the principles of the common law.”).
+In Trammel v. United States, 445 U.S. 40, 47 (1980), the Supreme Court recognized that the language of Rule 501 did not freeze the law governing the privileges of witnesses in federal trials at a particular point in history, but rather sought to “provide the courts with the flexibility to develop rules of privilege on a case-by-case basis.” See also Jaffe v. Redmond, 518 U.S. 1, 9 (1996). In turn, in Jaffe v. Redmond, the Supreme Court concluded that “confidential communications between a licensed psychotherapist and her patients in the course of diagnosis or treatment are protected from compelled disclosure” — including from compelled production pursuant to pretrial discovery — under Rule 501. 518 U.S. at 16.
+The Jaffe Court recognized that this extension of the privilege also applies “to confidential communications made to licensed social workers in the course of psychotherapy” in that “drawing a distinction between the counseling provided by costly psychotherapists and the counseling provided by more readily accessible social workers serves no discernible public purpose.” Id. at 15, 17. Thus, any “conversations between” the appellant and a licensed psychotherapist or social worker “and the notes taken during their counseling sessions are protected from compelled disclosure under Rule 501 of the Federal Rules of Evidence.” Id. at 6, 18.
+The Jaffe Court made its reasoning quite clear. The Court observed that the “mental health of our citizenry, no less than its physical health, is a public good of transcendent importance” and that effective counseling “depends upon an atmosphere of confidence and trust in which the patient is willing to make a frank and complete disclosure of facts, emotions, memories, and fears.” Id. at 10,11. Absent the privilege, the “possibility of disclosure may impede development of the confidential relationship necessary for successful treatment.” Id. at 10.
+Although the Jaffe Court declined to identify all situations where the privilege would and would not apply, it explicitly rejected applying a balancing test in its assessment. Prior to the Jaffe decision, federal courts of appeals that recognized the privilege held that it would not apply if, in the interests of justice, the evidentiary need for disclosure outweighed the patient’s privacy interests. See, e.g., Jaffe v. Redmond, 51 F.3d 1346 (7th Cir. 1995). The Supreme Court concluded, however, that making the promise of confidentiality contingent upon a trial judge’s later evaluation of the relative importance of the patient’s interest in privacy and the evidentiary need for disclosure would “eviscerate the effectiveness” of the such a balancing component by making it impossible for participants to predict in advance whether their conversations would be protected in the future, and therefore “little better than no privilege at all.” Jaffe, 518 U.S. at 17, 18; see also Upjohn Co. v. United States, 449 U.S. 383, 393 (1981).
+In light of the holding in Jaffe, and the same protective purpose applicable to this case, we reject Defendant’s motion for production of the records of the counseling sessions between the victim and counselors in this case for two reasons. First, having carefully reviewed the counseling documents in camera, we find the documents contain no exculpatory evidence to warrant an argument for their disclosure. Secondly, and more importantly, even if such evidence existed in the notes, the documents fall squarely within the scope of the privilege, giving us no reason to depart from the holding in Jaffe.
+In Jaffe, a police officer had shot and killed a person, and the decedent’s estate later sued the officer for damages. 518 U.S. at 4. During pretrial discovery the estate learned that after the shooting, the officer had participated in approximately 50 counseling sessions with a clinical social worker, and sought to obtain those notes for cross-examination purposes. Id. at 5. For the above reasons, the Court denied access to the social worker’s counseling records.
+So, too, should we in this case.
+Order
+1. Defendant’s motion for discovery of the privileged counseling records is denied.
+2. Trial of this action, CRNo. 27-03, is rescheduled to begin on February 15,2005.
+3. Trial of the companion action, Am. Samoa Govt. v. Taulaga, CR No. 28-03, is rescheduled to begin on February 22, 2005.
+It is so ordered.
