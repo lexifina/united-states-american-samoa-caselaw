@@ -1,0 +1,30 @@
+---
+court: "High Court of American Samoa"
+docket: "LT No. 44-86; LT No. 45-86"
+decided: "1987-05-13"
+citations: ["4 Am. Samoa 2d 144"]
+reporter: "am-samoa-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before REES, Chief Justice, and TAUANU’U, Chief Associate Judge."]
+parties: ["JOSEPH WILLIS, Plaintiff v. PAUL WILLIS, TONY WILLIS, LAUPATI WILLIS, TUILAGI WILLIS, ALEXANDER WILLIS, DORA ASUEGA, DAISY W. VEA, and TIRESA W. PASSI, Defendants JOSEPH WILLIS, Plaintiff v. DORA ASUEGA AND PURCILLA POYER, Defendants"]
+source_url: "https://static.case.law/am-samoa-2d/4/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 984200
+---
+
+# Willis v. Willis
+
+## Majority
+
+Opinion and Order on Mótions to Reconsider and for Attorney Fees in No. 44-86 and Motion for Default Judgment in No. 45-86:
+These actions were brought in an effort to persuade the Court to grant relief from a final judgment ■ rendered in 1983 and upheld by the Appellate Division early in 1986.
+Counsel for plaintiff, Joseph Willis, makes no new arguments but simply reiterates the arguments he advanced unsuccessfully in Willis v. Willis, 2 A.S.R.2d 102 (1986), and in the consolidated land, civil, and probate cases leading up to that appeal. He wants the Court to reverse the earlier judgment of the trial court and of the appellate court that a tract of land called Lepuapua belongs not to him but to the Willis family.
+Plaintiff’s reliance on Rule 60 of the Trial Court Rules of Civil Procedure is inapposite. There is no new evidence and there was no fraud, surprise, or similar circumstance in the prior proceedings. Nor does A.S.C.A. É 3.0242(b), which permits rules of "practice or procedure" to be subordinated to natural justice and convenience, give us the authority to overturn the result of a prior decision in the absence of any of the factors enumerated in Rule 60. The doctrine of res judicata is a principle of substantive law, not of practice or procedure. The court will not interfere, therefore, with the earlier court’s judgment that Lepuapua was acquired by right of original occupancy by the Willises as a family, and not by deed to plaintiff or to his mother, Falesau Willis. Nor can we see the ghost of a chance that any future trial or appellate court will do so.
+There is, however, one matter raised by the complaint in LT 45-86 which was not before the Court in any of the earlier cases. Plaintiff alleges, and has proven by uncontroverted documents and affidavits, that defendants Asuega and Poyer have secured building and zoning permits by signing legal documents to the effect that Lepuapua is their individual property. This was contrary to the holding in Willis v. Willis, which found that Lepuapua was the communal land of the Willis family. The trial and appellate courts recognized that the Willises were not a traditional Samoan family with a matai, but attempted to finesse this problem by observing that the Willises are Samoans who have been living as a Samoan family and by ordering them to dfecide according to Samoan custom how the land should be used.
+There are several unanswered questions in this part of the Court’s holding, and all of them are presented by the building and zoning permits in this case. All of the statutes having to do with communal land, including those that tell the Court how to decide whether Samoan custom has been followed, assume that the family has a senior matai. In this case, for instance, plaintiff would seem at first glance to be entitled to judgment by default in LT No. 45-86, since neither Dora Asuega nor Purcilla Poyer is the senior matai of the Willis family and each has signed documents required by law to be signed by the senior matai. The problem is that the. Willises not only do' not have a matai but are prevented from selecting one by the law that prohibits the creation of new matai titles. And yet the court in Willis v. Willis clearly did not intend that nothing could ever be built on the property.
+We could resolve -¿hese difficulties by construing Willis v. Willis as having declared the six Willis brothers and sisters to have become owners of Lepuapua as tenants in common. Under this construction, the land would be "communal" in the sense that each brother and sister obtained an undivided interest in the land as a result of their joint occupation and cultivation, but it would not be Samoan communal property for the purposes of any of the statutes requiring action to be taken by a matai. This seems to comport with how the Willises have been treating the land: the permits signed by defendants Asuega and Poyer, for instance, are legal if the land is held by a tenancy in common but not if it is Samoan communal property. Another respect in which a tenancy in common differs from traditional Samoan land tenure is that any co-owner is entitled to a partition of the property.
+The Court has a duty, imposed by the failure of defendants in No. 45-86 to file an answer or otherwise to controvert the allegations that they have treated the land as their own individual property, to dispose somehow of the loose ends left by Willis v. Willis. On the other hand, we are reluctant to announce any disposition without first giving all parties a chance to address it. Accordingly, we will reserve judgment on the motions before us in order to request any arguments or suggestions the parties might have on the following questions:
+1) Should Willis v. Willis be construed as having declared the six Willis brothers and sisters to hold Lepuapua as tenants in common?
+2) If not, what other construction of the decision will allow the parties to build on the land, bring actions against encroachment by non-family members, and otherwise administer it without violating the statutory restrictions on communal land?
+No party is required to respond to these questions. If any defendant wishes to do so, he should file his response by June 12. If plaintiff Joseph Willis wishes to respond, he should do so by June 26.
