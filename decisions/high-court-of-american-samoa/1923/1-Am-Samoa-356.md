@@ -1,0 +1,52 @@
+---
+court: "High Court of American Samoa"
+docket: "46-1918"
+decided: "1923-04-26"
+citations: ["1 Am. Samoa 356"]
+reporter: "am-samoa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SYDNEY D. HALL, President; LUTU, Associate Member; and LEAANA, Associate Member"]
+parties: ["ATOFAU, FAASEGI and AFA, Plaintiffs v. TU’UGAIFO, Defendant"]
+source_url: "https://static.case.law/am-samoa/1/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 205736
+---
+
+# Atofau v. Tu'ugaifo
+
+## Majority
+
+OPINION
+These proceedings are the result of a dispute as to who, because of a vacancy existing in the “matai” name “Save”, shall hold the name and assume control over the properties and over the affairs of the family Save.
+This name belongs to the village of Leone and the properties involved as far as the Court can learn are all located within or adjacent to the limits of said village.
+The trial of this case has taken considerable time and the Court and the parties involved have gone into all matters in connection with these proceedings most thoroughly. The Court has carefully gone over the testimony and statements involved in connection with these proceedings and investigation has disclosed the fact that the testimony contradicts itself in a great many instances and as a result of these contradictions the Court has had to exercise, as it has tried to in all instances, its best judgment and to decide whose favor the weight of testimony and evidence exists.
+This name “Save”, and of course this holds good of all other “matai” names in American Samoa, had an origin. There is some dispute as to just how the name originated and by whose authority it originated. Certain of the testimony ascribes the origin to Maiava; certain of the testimony ascribes the original to Tuitele. The testimony agrees in this point: that the name was presented on the naming of a person to the “matai” name “Save” to the head of the family Tuitele, for his approval together with Fiu and Maiava.
+There is a difference in the testimony as regards to just who held the name Save down to the person Losi who held the name Save. From there the testimony agrees as to who held the name Save and it seems upon Losi obtaining the name an unfortunate thing occurred, the name was split and we have this thing happen: that two persons at the same time were holding the same “matai” name and this condition continued down to the time of the holding of the name by the last “matai” Save-Matapuaa. This split in the name also resulted in the practical division of the properties. One branch of the family holding and cultivating certain properties and the other branch of the family holding and cultivating certain other properties, and as the Court has already stated, the attempt to name or designate a person to hold the name “Save” has resulted in no agreement on the part of the members of the family and because of this state of affairs matters have come before the Court and resulted in these proceedings.
+It is an impossibility for the Court to determine a direct line of hereditary descent from the first Save to the last Save but if there is any balance of the testimony in favor of any one in this action it lies in favor of Tu’ugaifo. Both candidates for the name — the testimony discloses — are true sons of previous Saves, Tu’ugaifo of Save Tee and Faasegi of Save Taeago, and the claim to the right to the name as presented to the Court by Tu’ugaifo evidences more clearly a true line of descent from the original Save than the claim as presented by the opposing side.
+This case is made especially difficult because of the fact, as the Court has already mentioned, that the name was split, and at this time the Court desires to state that in using the expression “the name was split” it intends to convey this meaning, that the authority involved in the name was divided between two persons.
+This division of names is a practice indulged in to some extent in American Samoa and should be frowned on by all people as it results in only one thing and that is the weakening of the name and the gradual wiping out of the name in time. Authority of a name can rest only in one person and if it is divided it means weakness in the first place and perhaps other difficulties occurring. The authority in all names rests primarily in the family. There is in this connection at times certain conditions that have to be taken into consideration and considered in connection with the authority involved in the family.
+In the handing down of a decision the rights to property have also to be taken into consideration, and the general family rights.
+Rendered by Judge Hall
+April 26th, 1923
+Thursday
+JUDGMENT
+This cause coming on to be heard and it appearing that the Defendant did on 1st day of March, 1919, file notice of his intention to register himself under the “matai” name “Save” and because of this attempt objections arose thereto on the part of certain so-called members of the family.
+Within the period as required by the Regulations objections to the registration of this name were made by certain people who designated themselves as members of the Save family, and as a result of these objections the matter was properly brought before the High Court, and as a result of the proceedings had:—
+IT IS THE UNANIMOUS JUDGMENT OF THIS COURT THAT:—
+First. The “matai” name shall rest in one person, and in this instance that person is Tu’ugaifo who will hold the name Save until such time as he either resigns from the name; or is removed for proper cause; or dies.
+The authority in the name rests primarily with the family — the members of the family.
+On the family deciding as to who shall hold the name at any time this decision shall be presented to Tuitele, Fiu and Maiava, for approval, and final approval shall rest with Tuitele, in whom the name originated, and his approval shall be given at all times if the family has agreed as to who shall use the name to the person who the family has agreed upon.
+The family Save, as the testimony conclusively shows, is hereby declared a branch of the Tuitele family.
+In case of a dispute as to the name among the members of the family the name Tuitele shall decide as to who shall hold the name as that name is the head of the families that make up the family of Tuitele and this is one of the families.
+It is further declared and directed by the Court that proper service shall be rendered at all times by the members of the Save family to Tuitele and if such proper service is not rendered thereto by the members or by the head of the family, the “matai”, that person or those persons shall forfeit his or their position whether it is as member of the family or whether it is as “matai” in the family.
+In the selection of a Save to succeed Tu’ugaifo the first consideration shall be given to a member from the so-called Taeago branch of the family. This does not mean that the person must be selected from that branch of the family at all but it does mean that in the consideration, at the time, of a person to succeed Tu’ugaifo as Save, the first consideration shall be in the Taeago branch. If no suitable candidate is found then consideration shall go to the other branch of the family. This statement merely involves a form of procedure, that is all, and is not dictation in any way.
+Second. In the disposition of lands involved in this name the Court has as nearly as possible tried to continue the usage and rights in the properties as they have existed in the past and as they are bound by previous Court decision, and in this connection the Court will use as distinguishing names to represent the two branches of the family, Taeago for one and Matapuaa for the other.
+The Taeago branch shall hold as follows and remain in undisputed possession unless they by reason of not rendering proper service to Save or for some other legal reason are removed from these lands: The Hi of the land Leasi that is at the present time being used by the Taeago branch. The Hi of the land Sina that is at the present time being used by the Taeago branch. Although the “matai” of the family has control over this land to the extent that he may remove the family if he so desires but the Court will recommend against that proposition as this land is bound by previous Court decision. The land Maugaula, Malaetia, Saoa, and Fusi, if there is such a land, although the Court is not absolutely sure.
+The Matapuaa branch shall hold as follows: The Hi of .the land Leasi that is at present being used by the Matapuaa branch. The Hi of the land Sina that is at present being used by the Matapuaa branch. The land Fototausala, Faasala, Saumalemua, and Fagasaua.
+The “matai” of the family will permit the Taeago branch of the family to use the lands designated and shall not, except for cause and just cause, remove the members of the Taeago branch of the family from these lands with the exception of the land Sina and as the Court has already stated the Court recommends against Tu’ugaifo removing the Taeago branch from the 1h of this land that they are at the present time using.
+No land shall be sold by the “matai” of the family unless it is with the consent of the family, and this means the consent of the entire family. Lands may be leased by the “matai” with the consent of the branch that is using said lands.
+The representatives of the Taeago branch of the family are hereby declared to be Afa and Fa’asegi. The representative of the Matapuaa branch is hereby declared to be Tu’ugaifo. Now by representative the Court means representing these branches of the family in Court and does not mean that these people are the only members of these branches of the family.
+As to the designation of the guest house of the “matai” of the family it is hereby recommended that that matter be taken up with Tuitele together with the members of the Save family as represented by Save-Tu’ugaifo and that a land be designated as to where the guest house shall be and that land will be known as the official residence of the Save family.
+The Costs in this action are $150.00, $75.00 of which will be paid by Tu’ugaifo and his branch and $75.00 by Afa and Fa’segi and their branch. Thirty days will be allowed by the Court in which to make this payment.
+Given under our hands and seal of the High Court of American Samoa, this 26th day of April, 1923.
